@@ -11,12 +11,12 @@ Collborators:
 Intallation Guide
 
 * Create virtual environment
-'''
+```
 virtualenv senv
 source senv/bin/activate
-'''
+```
 
 * Install dependencies
-'''
+```
 pip install -r requirements.txt
-'''
+```
