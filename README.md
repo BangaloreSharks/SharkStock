@@ -4,5 +4,5 @@ SharkStock is a automated stock trading bot that uses reinforcement learning. Th
 
 Collborators:
 
-Anvitha G K Bhat
-Akhil Raj Azhikodan
+* Anvitha G K Bhat
+* Akhil Raj Azhikodan
