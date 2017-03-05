@@ -1,1 +1,3 @@
 quandl
+tensorflow-gpu
+matplotlib

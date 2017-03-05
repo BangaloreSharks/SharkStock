@@ -1,12 +1,11 @@
 import pickle
 import csv
+import quandl
 
-def makePickle(filename,output="pickle.p"):
-    """makePickle(filename,output="_pickle.p"): Reads dictionary csv and generates pickle"""
-    out_dic = {}
-    with open(filename,'rb') as f:
-        reader = csv.reader(f)
-        for row in reader:
-            out_dic[row[0]] = row[1]
-    pickle.dump( out_dic , open( 'pickles/'+output , "wb" ) )
+def pickle_TrainData(code):
+    """"""
+    data = quandl.get(code)
+    direc = 'pickles/'+code.split('/')[0]+'_'+code.split('/')[1]
+    pickle.dump(data,open(direc,'wb'))
+    print('data pickled at '+ direc)
     return
