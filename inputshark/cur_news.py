@@ -5,14 +5,13 @@ import feedparser
 
 def current_news(value):
 	values = {'q': value,
-			'output': 'xml'}
+			'output': 'rss'}
 	url = 'https://www.google.co.uk/finance/company_news'
 	values = urllib.urlencode(values)
 	url = url +'?'+ values
 	response = urllib2.urlopen(url)
-	# print response.read()
 	data = feedparser.parse(response.read())
-	print data['channel']
-	return data
-
-
+	news_desc = []
+	for item in data['items']:
+		news_desc.append(item['description'])
+	print(news_desc)
