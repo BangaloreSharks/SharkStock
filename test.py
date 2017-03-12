@@ -1,3 +1,6 @@
-import inputshark.archivednews as an
+import pickle
 
-an.getArchived('facebook','2011','01')
+stockcode = pickle.load(open('pickles/stockcodes'))
+
+for ticker in stockcode.keys():
+    print(ticker)

@@ -1,0 +1,13343 @@
+(dp0
+S'AGO'
+p1
+S'Assured Guaranty Ltd.'
+p2
+sS'AGN'
+p3
+S'Allergan Inc.'
+p4
+sS'AGM'
+p5
+S'Federal Agricultural Mortgage Corp.'
+p6
+sS'BOCH'
+p7
+S'Bank of Commerce Holdings'
+p8
+sS'TPLM'
+p9
+S'Triangle Petroleum Corporation'
+p10
+sS'GTIV'
+p11
+S'Gentiva Health Services Inc.'
+p12
+sS'LIFE'
+p13
+S'Life Technologies Corporation'
+p14
+sS'SGMO'
+p15
+S'Sangamo Biosciences Inc.'
+p16
+sS'AGX'
+p17
+S'Argan, Inc.'
+p18
+sS'ORMP'
+p19
+S'Oramed Pharmaceuticals Inc.'
+p20
+sS'ERIE'
+p21
+S'Erie Indemnity Company'
+p22
+sS'HURC'
+p23
+S'Hurco Companies Inc.'
+p24
+sS'BWP'
+p25
+S'Boardwalk Pipeline Partners, LP'
+p26
+sS'BWS'
+p27
+S'Brown Shoe Co. Inc.'
+p28
+sS'POPE'
+p29
+S'Pope Resources, A Delaware Limited Partnership'
+p30
+sS'VRTA'
+p31
+S'Vestin Realty Mortgage I, Inc'
+p32
+sS'SPR'
+p33
+S'Spirit AeroSystems Holdings, Inc.'
+p34
+sS'SCLN'
+p35
+S'SciClone Pharmaceuticals, Inc.'
+p36
+sS'SPU'
+p37
+S'SkyPeople Fruit Juice, Inc.'
+p38
+sS'PHMD'
+p39
+S'PhotoMedex, Inc.'
+p40
+sS'SPH'
+p41
+S'Suburban Propane Partners, L.P.'
+p42
+sS'BWA'
+p43
+S'BorgWarner Inc.'
+p44
+sS'BWC'
+p45
+S'The Babcock & Wilcox Company'
+p46
+sS'PTNT'
+p47
+S'Internet Patents Corporation'
+p48
+sS'BSDM'
+p49
+S'BSD Medical Corp.'
+p50
+sS'ALNY'
+p51
+S'Alnylam Pharmaceuticals, Inc.'
+p52
+sS'SPB'
+p53
+S'Spectrum Brands Holdings, Inc.'
+p54
+sS'VRTS'
+p55
+S'Virtus Investment Partners, Inc.'
+p56
+sS'VRTU'
+p57
+S'Virtusa Corp.'
+p58
+sS'SPF'
+p59
+S'Standard Pacific Corp.'
+p60
+sS'PKG'
+p61
+S'Packaging Corporation of America'
+p62
+sS'ENDP'
+p63
+S'Endo International plc'
+p64
+sS'XPO'
+p65
+S'XPO Logistics, Inc.'
+p66
+sS'CBLI'
+p67
+S'Cleveland BioLabs, Inc.'
+p68
+sS'CCUR'
+p69
+S'Concurrent Computer Corporation'
+p70
+sS'TBOW'
+p71
+S'Trunkbow International Holdings, Ltd.'
+p72
+sS'GY'
+p73
+S'GenCorp Inc.'
+p74
+sS'MNKD'
+p75
+S'MannKind Corp.'
+p76
+sS'GE'
+p77
+S'General Electric Company'
+p78
+sS'GD'
+p79
+S'General Dynamics Corp.'
+p80
+sS'GB'
+p81
+S'Greatbatch, Inc.'
+p82
+sS'BYI'
+p83
+S'Bally Technologies, Inc.'
+p84
+sS'MEIP'
+p85
+S'MEI Pharma, Inc.'
+p86
+sS'BYD'
+p87
+S'Boyd Gaming Corporation'
+p88
+sS'GK'
+p89
+S''
+p90
+sS'JNS'
+p91
+S'Janus Capital Group, Inc.'
+p92
+sS'REMY'
+p93
+S'Remy International, Inc.'
+p94
+sS'MAS'
+p95
+S'Masco Corporation'
+p96
+sS'MAR'
+p97
+S'Marriott International, Inc.'
+p98
+sS'MAT'
+p99
+S'Mattel, Inc.'
+p100
+sS'AMCX'
+p101
+S'AMC Networks Inc.'
+p102
+sS'EBMT'
+p103
+S'Eagle Bancorp Montana, Inc.'
+p104
+sS'SNI'
+p105
+S'Scripps Networks Interactive, Inc.'
+p106
+sS'MAA'
+p107
+S'Mid-America Apartment Communities Inc.'
+p108
+sS'MAC'
+p109
+S'The Macerich Company'
+p110
+sS'ACLS'
+p111
+S'Axcelis Technologies Inc.'
+p112
+sS'PULS'
+p113
+S'Pulse Electronics Corporation'
+p114
+sS'MAG'
+p115
+S'Magnetek Inc.'
+p116
+sS'TEL'
+p117
+S'TE Connectivity Ltd.'
+p118
+sS'AMCF'
+p119
+S'Andatee China Marine Fuel Services Corporation'
+p120
+sS'AMCC'
+p121
+S'Applied Micro Circuits Corporation'
+p122
+sS'SNX'
+p123
+S'SYNNEX Corp.'
+p124
+sS'MAN'
+p125
+S'ManpowerGroup Inc.'
+p126
+sS'JBSS'
+p127
+S'John B Sanfilippo & Son Inc.'
+p128
+sS'BEN'
+p129
+S'Franklin Resources Inc.'
+p130
+sS'IBTX'
+p131
+S'Independent Bank Group, Inc.'
+p132
+sS'QTM'
+p133
+S'Quantum Corporation'
+p134
+sS'EVC'
+p135
+S'Entravision Communications Corporation'
+p136
+sS'BSRR'
+p137
+S'Sierra Bancorp'
+p138
+sS'CRTX'
+p139
+S'Cornerstone Therapeutics Inc.'
+p140
+sS'EVR'
+p141
+S'Evercore Partners Inc.'
+p142
+sS'IDCC'
+p143
+S'InterDigital, Inc.'
+p144
+sS'LNKD'
+p145
+S'LinkedIn Corporation'
+p146
+sS'AEIS'
+p147
+S'Advanced Energy Industries, Inc.'
+p148
+sS'VLO'
+p149
+S'Valero Energy Corporation'
+p150
+sS'SPBC'
+p151
+S'SP Bancorp, Inc.'
+p152
+sS'BIRT'
+p153
+S'Actuate Corporation'
+p154
+sS'LSI'
+p155
+S'LSI Corporation'
+p156
+sS'VLY'
+p157
+S'Valley National Bancorp'
+p158
+sS'TTI'
+p159
+S'TETRA Technologies, Inc.'
+p160
+sS'NECB'
+p161
+S'Northeast Community Bancorp, Inc.'
+p162
+sS'VNTV'
+p163
+S'Vantiv, Inc.'
+p164
+sS'RCON'
+p165
+S'Recon Technology, Ltd.'
+p166
+sS'PFIN'
+p167
+g90
+sS'SPRO'
+p168
+S'SmartPros Ltd.'
+p169
+sS'USLM'
+p170
+S'United States Lime & Minerals, Inc.'
+p171
+sS'CEVA'
+p172
+S'CEVA Inc.'
+p173
+sS'TMNG'
+p174
+S'The Management Network Group, Inc.'
+p175
+sS'BBOX'
+p176
+S'Black Box Corporation'
+p177
+sS'PFIS'
+p178
+S'Peoples Financial Services Corp.'
+p179
+sS'CPRX'
+p180
+S'Catalyst Pharmaceutical Partners Inc.'
+p181
+sS'CPRT'
+p182
+S'Copart, Inc.'
+p183
+sS'TUMI'
+p184
+S'Tumi Holdings, Inc.'
+p185
+sS'ORBT'
+p186
+S'Orbit International Corp.'
+p187
+sS'NSLP'
+p188
+S'New Source Energy Partners L.P.'
+p189
+sS'WPCS'
+p190
+S'WPCS International Incorporated'
+p191
+sS'RPTP'
+p192
+S'Raptor Pharmaceuticals Corp.'
+p193
+sS'DYAX'
+p194
+S'Dyax Corp.'
+p195
+sS'LPSN'
+p196
+S'LivePerson Inc.'
+p197
+sS'AVHI'
+p198
+S'AV Homes, Inc.'
+p199
+sS'HLS'
+p200
+S'HEALTHSOUTH Corp.'
+p201
+sS'NOC'
+p202
+S'Northrop Grumman Corporation'
+p203
+sS'N'
+p204
+S'NetSuite Inc.'
+p205
+sS'HLF'
+p206
+S'Herbalife Ltd.'
+p207
+sS'NOV'
+p208
+S'National Oilwell Varco, Inc.'
+p209
+sS'NOW'
+p210
+S'ServiceNow, Inc.'
+p211
+sS'VRTB'
+p212
+S'Vestin Realty Mortgage II, Inc.'
+p213
+sS'NOR'
+p214
+S'Noranda Aluminum Holding Corp.'
+p215
+sS'JACK'
+p216
+S'Jack in the Box Inc.'
+p217
+sS'RLGT'
+p218
+S'Radiant Logistics, Inc.'
+p219
+sS'SYPR'
+p220
+S'Sypris Solutions Inc.'
+p221
+sS'CTS'
+p222
+S'CTS Corporation'
+p223
+sS'SPN'
+p224
+S'Superior Energy Services, Inc.'
+p225
+sS'WEBK'
+p226
+S'Wellesley Bancorp, Inc.'
+p227
+sS'GCFB'
+p228
+S'Granite City Food & Brewery Ltd.'
+p229
+sS'SPPI'
+p230
+S'Spectrum Pharmaceuticals, Inc.'
+p231
+sS'CWEI'
+p232
+S'Clayton Williams Energy, Inc.'
+p233
+sS'CTG'
+p234
+S'Computer Task Group Inc.'
+p235
+sS'LBAI'
+p236
+S'Lakeland Bancorp Inc.'
+p237
+sS'CTB'
+p238
+S'Cooper Tire & Rubber Co.'
+p239
+sS'CCBG'
+p240
+S'Capital City Bank Group Inc.'
+p241
+sS'CTL'
+p242
+S'CenturyLink, Inc.'
+p243
+sS'VOCS'
+p244
+S'Vocus Inc.'
+p245
+sS'ZAGG'
+p246
+S'ZAGG Inc'
+p247
+sS'CTO'
+p248
+S'Consolidated Tomoka Land Co.'
+p249
+sS'VRTX'
+p250
+S'Vertex Pharmaceuticals Incorporated'
+p251
+sS'SYMX'
+p252
+S'Synthesis Energy Systems, Inc.'
+p253
+sS'VSEC'
+p254
+S'VSE Corp.'
+p255
+sS'ARTW'
+p256
+S"Art's-Way Manufacturing Co. Inc."
+p257
+sS'KTOS'
+p258
+S'Kratos Defense & Security Solutions, Inc.'
+p259
+sS'ARTX'
+p260
+S'Arotech Corporation'
+p261
+sS'ARTC'
+p262
+S'ArthroCare Corporation'
+p263
+sS'WHR'
+p264
+S'Whirlpool Corp.'
+p265
+sS'TASR'
+p266
+S'TASER International Inc.'
+p267
+sS'TAST'
+p268
+S'Carrols Restaurant Group, Inc.'
+p269
+sS'FCLF'
+p270
+S'First Clover Leaf Financial Corp.'
+p271
+sS'ATEA'
+p272
+S'Astea International Inc.'
+p273
+sS'ATEC'
+p274
+S'Alphatec Holdings, Inc.'
+p275
+sS'WSM'
+p276
+S'Williams-Sonoma Inc.'
+p277
+sS'BFAM'
+p278
+S'Bright Horizons Family Solutions, Inc.'
+p279
+sS'OCFC'
+p280
+S'OceanFirst Financial Corp.'
+p281
+sS'SPA'
+p282
+S'Sparton Corp.'
+p283
+sS'ZNGA'
+p284
+S'Zynga, Inc.'
+p285
+sS'RLI'
+p286
+S'RLI Corp.'
+p287
+sS'NTAP'
+p288
+S'NetApp, Inc.'
+p289
+sS'EDE'
+p290
+S'The Empire District Electric Company'
+p291
+sS'RLD'
+p292
+S'RealD Inc.'
+p293
+sS'ICGE'
+p294
+S'ICG Group, Inc.'
+p295
+sS'EDR'
+p296
+S'Education Realty Trust, Inc.'
+p297
+sS'PDII'
+p298
+S'PDI, Inc.'
+p299
+sS'ORI'
+p300
+S'Old Republic International Corporation'
+p301
+sS'PBYI'
+p302
+S'Puma Biotechnology, Inc.'
+p303
+sS'SPG'
+p304
+S'Simon Property Group Inc.'
+p305
+sS'ORB'
+p306
+S'Orbital Sciences Corp.'
+p307
+sS'SYRG'
+p308
+S'Synergy Resources Corporation'
+p309
+sS'DPW'
+p310
+S'Digital Power Corp.'
+p311
+sS'VBFC'
+p312
+S'Village Bank & Trust Financial Corp.'
+p313
+sS'DPS'
+p314
+S'Dr Pepper Snapple Group, Inc.'
+p315
+sS'THOR'
+p316
+S'Thoratec Corp.'
+p317
+sS'FARM'
+p318
+S'Farmer Brothers Co.'
+p319
+sS'FARO'
+p320
+S'FARO Technologies Inc.'
+p321
+sS'CVI'
+p322
+S'CVR Energy, Inc.'
+p323
+sS'DPZ'
+p324
+S"Domino's Pizza, Inc."
+p325
+sS'FCBC'
+p326
+S'First Community Bancshares, Inc.'
+p327
+sS'GBLI'
+p328
+S'Global Indemnity plc'
+p329
+sS'IKAN'
+p330
+S'Ikanos Communications, Inc.'
+p331
+sS'COHR'
+p332
+S'Coherent Inc.'
+p333
+sS'FSYS'
+p334
+S'Fuel Systems Solutions, Inc.'
+p335
+sS'ABAX'
+p336
+S'Abaxis, Inc.'
+p337
+sS'COHU'
+p338
+S'Cohu, Inc.'
+p339
+sS'LF'
+p340
+S'LeapFrog Enterprises Inc.'
+p341
+sS'LG'
+p342
+S'The Laclede Group, Inc.'
+p343
+sS'OSUR'
+p344
+S'OraSure Technologies, Inc.'
+p345
+sS'AGCO'
+p346
+S'AGCO Corporation'
+p347
+sS'SEMG'
+p348
+S'SemGroup Corporation'
+p349
+sS'LO'
+p350
+S'Lorillard, Inc.'
+p351
+sS'IRIX'
+p352
+S'IRIDEX Corporation'
+p353
+sS'LH'
+p354
+S'Laboratory Corp. of America Holdings'
+p355
+sS'PGNX'
+p356
+S'Progenics Pharmaceuticals, Inc.'
+p357
+sS'PTSI'
+p358
+S'P.A.M. Transportation Services, Inc.'
+p359
+sS'MNDL'
+p360
+S'Mandalay Digital Group, Inc.'
+p361
+sS'PGEM'
+p362
+S'Ply Gem Holdings, Inc'
+p363
+sS'IIN'
+p364
+S'Intricon Corp.'
+p365
+sS'III'
+p366
+S'Information Services Group, Inc.'
+p367
+sS'A'
+p368
+S'Agilent Technologies Inc.'
+p369
+sS'TEG'
+p370
+S'Integrys Energy Group, Inc.'
+p371
+sS'FORM'
+p372
+S'FormFactor Inc.'
+p373
+sS'VPHM'
+p374
+S'ViroPharma Inc.'
+p375
+sS'NTWK'
+p376
+S'NetSol Technologies, Inc.'
+p377
+sS'ANTP'
+p378
+S'PHAZAR CORP'
+p379
+sS'FORD'
+p380
+S'Forward Industries Inc.'
+p381
+sS'ANTH'
+p382
+S'Anthera Pharmaceuticals, Inc.'
+p383
+sS'FRGI'
+p384
+S'Fiesta Restaurant Group, Inc.'
+p385
+sS'FORR'
+p386
+S'Forrester Research Inc.'
+p387
+sS'STND'
+p388
+S'Standard Financial Corp.'
+p389
+sS'SFNC'
+p390
+S'Simmons First National Corporation'
+p391
+sS'EZPW'
+p392
+S'EZCORP, Inc.'
+p393
+sS'TEX'
+p394
+S'Terex Corp.'
+p395
+sS'CFN'
+p396
+S'CareFusion Corporation'
+p397
+sS'PNX'
+p398
+S'The Phoenix Companies Inc.'
+p399
+sS'CFI'
+p400
+S'Culp, Inc.'
+p401
+sS'CIEN'
+p402
+S'Ciena Corporation'
+p403
+sS'VCRA'
+p404
+S'Vocera Communications, Inc.'
+p405
+sS'SNH'
+p406
+S'Senior Housing Properties Trust'
+p407
+sS'PNW'
+p408
+S'Pinnacle West Capital Corporation'
+p409
+sS'CALI'
+p410
+S'China Auto Logistic Inc.'
+p411
+sS'PNK'
+p412
+S'Pinnacle Entertainment Inc.'
+p413
+sS'MRLN'
+p414
+S'Marlin Business Services Corp.'
+p415
+sS'CALL'
+p416
+S'magicJack VocalTec Ltd.'
+p417
+sS'CALM'
+p418
+S'Cal-Maine Foods, Inc.'
+p419
+sS'CFX'
+p420
+S'Colfax Corporation'
+p421
+sS'PNC'
+p422
+S'The PNC Financial Services Group, Inc.'
+p423
+sS'CALD'
+p424
+S'Callidus Software Inc.'
+p425
+sS'FIZZ'
+p426
+S'National Beverage Corp.'
+p427
+sS'UTEK'
+p428
+S'Ultratech, Inc.'
+p429
+sS'CBOE'
+p430
+S'CBOE Holdings, Inc.'
+p431
+sS'GIII'
+p432
+S'G-III Apparel Group, Ltd.'
+p433
+sS'BRSS'
+p434
+S'Global Brass and Copper Holdings, Inc.'
+p435
+sS'MCBK'
+p436
+S'Madison County Financial, Inc.'
+p437
+sS'PRE'
+p438
+S'PartnerRe Ltd.'
+p439
+sS'ASTI'
+p440
+S'Ascent Solar Technologies, Inc.'
+p441
+sS'HFWA'
+p442
+S'Heritage Financial Corp.'
+p443
+sS'SAH'
+p444
+S'Sonic Automotive Inc.'
+p445
+sS'PRA'
+p446
+S'ProAssurance Corporation'
+p447
+sS'ASTM'
+p448
+S'Aastrom Biosciences, Inc.'
+p449
+sS'SAM'
+p450
+S'Boston Beer Co. Inc.'
+p451
+sS'SAL'
+p452
+S'Salisbury Bancorp Inc.'
+p453
+sS'SNV'
+p454
+S'Synovus Financial Corporation'
+p455
+sS'PRO'
+p456
+S'PROS Holdings, Inc.'
+p457
+sS'ASTC'
+p458
+S'Astrotech Corp.'
+p459
+sS'PRI'
+p460
+S'Primerica, Inc.'
+p461
+sS'ASTE'
+p462
+S'Astec Industries, Inc.'
+p463
+sS'PRK'
+p464
+S'Park National Corp.'
+p465
+sS'PRU'
+p466
+S'Prudential Financial, Inc.'
+p467
+sS'JOB'
+p468
+S'General Employment Enterprises Inc.'
+p469
+sS'ACMP'
+p470
+S'Access Midstream Partners, L.P.'
+p471
+sS'MBRG'
+p472
+S'Middleburg Financial Corporation'
+p473
+sS'JOE'
+p474
+S'The St. Joe Company'
+p475
+sS'ISR'
+p476
+S'IsoRay, Inc.'
+p477
+sS'RCPT'
+p478
+S'Receptos, Inc.'
+p479
+sS'CHD'
+p480
+S'Church & Dwight Co. Inc.'
+p481
+sS'CHE'
+p482
+S'Chemed Corp.'
+p483
+sS'CHFC'
+p484
+S'Chemical Financial Corporation'
+p485
+sS'JAXB'
+p486
+S'Jacksonville Bancorp, Inc.'
+p487
+sS'CHK'
+p488
+S'Chesapeake Energy Corporation'
+p489
+sS'MCBC'
+p490
+S'Macatawa Bank Corp.'
+p491
+sS'ASBB'
+p492
+S'ASB Bancorp, Inc.'
+p493
+sS'ASBC'
+p494
+S'Associated Banc-Corp'
+p495
+sS'CHS'
+p496
+S"Chico's FAS Inc."
+p497
+sS'DAKT'
+p498
+S'Daktronics Inc.'
+p499
+sS'JAH'
+p500
+S'Jarden Corp.'
+p501
+sS'DGSE'
+p502
+S'DGSE Companies Inc.'
+p503
+sS'ZIPR'
+p504
+S'zipRealty Inc.'
+p505
+sS'FELE'
+p506
+S'Franklin Electric Co., Inc.'
+p507
+sS'ASBI'
+p508
+S'Ameriana Bancorp'
+p509
+sS'NNBR'
+p510
+S'NN Inc.'
+p511
+sS'MRC'
+p512
+S'MRC Global Inc.'
+p513
+sS'BRKA'
+p514
+S'Berkshire Hathaway Inc.'
+p515
+sS'SNAK'
+p516
+S'Inventure Foods, Inc.'
+p517
+sS'AMRI'
+p518
+S'Albany Molecular Research Inc.'
+p519
+sS'AMRE'
+p520
+S'AmREIT, Inc.'
+p521
+sS'APP'
+p522
+S'American Apparel, Inc.'
+p523
+sS'AXAS'
+p524
+S'Abraxas Petroleum Corp.'
+p525
+sS'BRKL'
+p526
+S'Brookline Bancorp, Inc.'
+p527
+sS'APT'
+p528
+S'Alpha Pro Tech Ltd.'
+p529
+sS'AMRC'
+p530
+S'Ameresco, Inc.'
+p531
+sS'APH'
+p532
+S'Amphenol Corporation'
+p533
+sS'API'
+p534
+S'Advanced Photonix Inc.'
+p535
+sS'APO'
+p536
+S'Apollo Global Management, LLC'
+p537
+sS'APL'
+p538
+S'Atlas Pipeline Partners, L.P.'
+p539
+sS'APC'
+p540
+S'Anadarko Petroleum Corporation'
+p541
+sS'ORBC'
+p542
+S'ORBCOMM, Inc.'
+p543
+sS'APA'
+p544
+S'Apache Corp.'
+p545
+sS'MTRX'
+p546
+S'Matrix Service Company'
+p547
+sS'APD'
+p548
+S'Air Products & Chemicals Inc.'
+p549
+sS'AMRS'
+p550
+S'Amyris, Inc.'
+p551
+sS'DXPE'
+p552
+S'DXP Enterprises, Inc.'
+p553
+sS'SZYM'
+p554
+S'Solazyme, Inc.'
+p555
+sS'CHSCP'
+p556
+S'CHS, Inc.'
+p557
+sS'WSCI'
+p558
+S'WSI Industries Inc.'
+p559
+sS'TWER'
+p560
+S'Towerstream Corporation'
+p561
+sS'QLIK'
+p562
+S'Qlik Technologies, Inc.'
+p563
+sS'PRPH'
+p564
+S'ProPhase Labs, Inc.'
+p565
+sS'ADNC'
+p566
+S'Audience, Inc.'
+p567
+sS'EWBC'
+p568
+S'East West Bancorp, Inc.'
+p569
+sS'UFCS'
+p570
+S'United Fire Group, Inc'
+p571
+sS'MNRO'
+p572
+S'Monro Muffler Brake Inc.'
+p573
+sS'NLS'
+p574
+S'Nautilus Inc.'
+p575
+sS'AVGO'
+p576
+S'Avago Technologies Limited'
+p577
+sS'OBAF'
+p578
+S'OBA Financial Services, Inc.'
+p579
+sS'PTEN'
+p580
+S'Patterson-UTI Energy Inc.'
+p581
+sS'NLY'
+p582
+S'Annaly Capital Management, Inc.'
+p583
+sS'WMAR'
+p584
+S'West Marine Inc.'
+p585
+sS'UCTT'
+p586
+S'Ultra Clean Holdings Inc.'
+p587
+sS'CNMD'
+p588
+S'CONMED Corporation'
+p589
+sS'HMN'
+p590
+S'Horace Mann Educators Corp.'
+p591
+sS'TKR'
+p592
+S'Timken Co.'
+p593
+sS'LPLA'
+p594
+S'LPL Financial Holdings Inc.'
+p595
+sS'PDFS'
+p596
+S'PDF Solutions Inc.'
+p597
+sS'HME'
+p598
+S'Home Properties Inc.'
+p599
+sS'HMG'
+p600
+S'HMG/Courtland Properties Inc.'
+p601
+sS'RPRX'
+p602
+S'Repros Therapeutics Inc.'
+p603
+sS'TLAB'
+p604
+S'Tellabs Inc.'
+p605
+sS'GCA'
+p606
+S'Global Cash Access Holdings, Inc.'
+p607
+sS'AFM'
+p608
+S'Affiliated Managers Group Inc.'
+p609
+sS'DLA'
+p610
+S'Delta Apparel Inc.'
+p611
+sS'CSOD'
+p612
+S'Cornerstone OnDemand, Inc.'
+p613
+sS'AFH'
+p614
+S'Atlas Financial Holdings, Inc.'
+p615
+sS'ARDNA'
+p616
+S'Arden Group Inc.'
+p617
+sS'GCI'
+p618
+S'Gannett Co., Inc.'
+p619
+sS'BOBE'
+p620
+S'Bob Evans Farms, Inc.'
+p621
+sS'AFG'
+p622
+S'American Financial Group Inc.'
+p623
+sS'AFA'
+p624
+S'American Financial Group Inc.'
+p625
+sS'GCO'
+p626
+S'Genesco Inc.'
+p627
+sS'DLR'
+p628
+S'Digital Realty Trust Inc.'
+p629
+sS'JNJ'
+p630
+S'Johnson & Johnson'
+p631
+sS'HWAY'
+p632
+S'Healthways Inc.'
+p633
+sS'DLX'
+p634
+S'Deluxe Corp.'
+p635
+sS'SUBK'
+p636
+S'Suffolk Bancorp'
+p637
+sS'BTU'
+p638
+S'Peabody Energy Corp.'
+p639
+sS'HPCCP'
+p640
+S'Huntington Preferred Capital Inc.'
+p641
+sS'SSY'
+p642
+S'SunLink Health Systems Inc.'
+p643
+sS'JOEZ'
+p644
+S"Joe's Jeans Inc."
+p645
+sS'CBAN'
+p646
+S'Colony Bankcorp Inc.'
+p647
+sS'SAAS'
+p648
+S'inContact, Inc.'
+p649
+sS'BTX'
+p650
+S'BioTime, Inc.'
+p651
+sS'SSS'
+p652
+S'Sovran Self Storage Inc.'
+p653
+sS'CBAK'
+p654
+S'China BAK Battery, Inc.'
+p655
+sS'SKY'
+p656
+S'Skyline Corp.'
+p657
+sS'SSN'
+p658
+S'Samson Oil & Gas Limited'
+p659
+sS'SSI'
+p660
+S'Stage Stores Inc.'
+p661
+sS'SSD'
+p662
+S'Simpson Manufacturing Co., Inc.'
+p663
+sS'BTN'
+p664
+S'Ballantyne Strong, Inc'
+p665
+sS'BTH'
+p666
+S'Blyth, Inc.'
+p667
+sS'POZN'
+p668
+S'POZEN Inc.'
+p669
+sS'MFNC'
+p670
+S'Mackinac Financial Corporation'
+p671
+sS'USEG'
+p672
+S'US Energy Corp.'
+p673
+sS'DGI'
+p674
+S'DigitalGlobe, Inc.'
+p675
+sS'TSO'
+p676
+S'Tesoro Corporation'
+p677
+sS'SNDK'
+p678
+S'SanDisk Corp.'
+p679
+sS'WYY'
+p680
+S'WidePoint Corp.'
+p681
+sS'Y'
+p682
+S'Alleghany Corporation'
+p683
+sS'WYN'
+p684
+S'Wyndham Worldwide Corporation'
+p685
+sS'PGTI'
+p686
+S'PGT, Inc.'
+p687
+sS'TTEC'
+p688
+S'TeleTech Holdings Inc.'
+p689
+sS'LANC'
+p690
+S'Lancaster Colony Corporation'
+p691
+sS'EXPR'
+p692
+S'Express Inc.'
+p693
+sS'ECL'
+p694
+S'Ecolab Inc.'
+p695
+sS'RKUS'
+p696
+S'Ruckus Wireless, Inc.'
+p697
+sS'LNN'
+p698
+S'Lindsay Corporation'
+p699
+sS'EXPO'
+p700
+S'Exponent Inc.'
+p701
+sS'LGND'
+p702
+S'Ligand Pharmaceuticals Incorporated'
+p703
+sS'IPHI'
+p704
+S'Inphi Corporation'
+p705
+sS'AREX'
+p706
+S'Approach Resources, Inc.'
+p707
+sS'SEB'
+p708
+S'Seaboard Corp.'
+p709
+sS'B'
+p710
+S'Barnes Group Inc.'
+p711
+sS'CRWS'
+p712
+S'Crown Crafts, Inc.'
+p713
+sS'BBG'
+p714
+S'Bill Barrett Corp.'
+p715
+sS'TSC'
+p716
+S'Tristate Capital Holdings, Inc.'
+p717
+sS'YELP'
+p718
+S'Yelp, Inc.'
+p719
+sS'BBX'
+p720
+S'BBX Capital Corporation'
+p721
+sS'TRIT'
+p722
+S'Tri-Tech Holding, Inc.'
+p723
+sS'BSQR'
+p724
+S'BSQUARE Corp.'
+p725
+sS'RELV'
+p726
+S'Reliv International, Inc.'
+p727
+sS'MBND'
+p728
+S'Multiband Corporation'
+p729
+sS'SPAN'
+p730
+S'Span-America Medical Systems Inc.'
+p731
+sS'SOCB'
+p732
+S'Southcoast Financial Corp.'
+p733
+sS'IKNX'
+p734
+S'Ikonics Corp.'
+p735
+sS'GMED'
+p736
+S'Globus Medical, Inc.'
+p737
+sS'TUP'
+p738
+S'Tupperware Brands Corporation'
+p739
+sS'CPGI'
+p740
+S'China Shengda Packaging Group Inc.'
+p741
+sS'DNKN'
+p742
+S"Dunkin' Brands Group, Inc."
+p743
+sS'GMET'
+p744
+S'Geomet, Inc.'
+p745
+sS'SPAR'
+p746
+S'Spartan Motors Inc.'
+p747
+sS'ALCO'
+p748
+S'Alico Inc.'
+p749
+sS'WYNN'
+p750
+S'Wynn Resorts Ltd.'
+p751
+sS'STMP'
+p752
+S'Stamps.com Inc.'
+p753
+sS'ANSS'
+p754
+S'Ansys, Inc.'
+p755
+sS'NBIX'
+p756
+S'Neurocrine Biosciences Inc.'
+p757
+sS'UNS'
+p758
+S'UNS Energy Corporation'
+p759
+sS'NATL'
+p760
+S'National Interstate Corporation'
+p761
+sS'STML'
+p762
+S'Stemline Therapeutics, Inc.'
+p763
+sS'DYNIQ'
+p764
+S'DYNEGY INC NEW'
+p765
+sS'RDIB'
+p766
+S'Reading International, Inc.'
+p767
+sS'NKSH'
+p768
+S'National Bankshares Inc.'
+p769
+sS'ALCS'
+p770
+S'ALCO Stores, Inc.'
+p771
+sS'HASI'
+p772
+S'Hannon Armstrong Sustainable Infrastructure Capital, Inc.'
+p773
+sS'CYS'
+p774
+S'CYS Investments, Inc.'
+p775
+sS'NPTN'
+p776
+S'NeoPhotonics Corporation'
+p777
+sS'CYT'
+p778
+S'Cytec Industries Inc.'
+p779
+sS'BIIB'
+p780
+S'Biogen Idec Inc.'
+p781
+sS'CAMP'
+p782
+S'CalAmp Corp.'
+p783
+sS'POR'
+p784
+S'Portland General Electric Company'
+p785
+sS'BKMU'
+p786
+S'Bank Mutual Corporation'
+p787
+sS'PHIIK'
+p788
+S'PHI Inc.'
+p789
+sS'CYB'
+p790
+S'WisdomTree Chinese Yuan Strategy'
+p791
+sS'POL'
+p792
+S'PolyOne Corporation'
+p793
+sS'POM'
+p794
+S'Pepco Holdings, Inc.'
+p795
+sS'IMH'
+p796
+S'Impac Mortgage Holdings Inc.'
+p797
+sS'CYH'
+p798
+S'Community Health Systems, Inc.'
+p799
+sS'CWHN'
+p800
+S'CommonWealth REIT'
+p801
+sS'CYN'
+p802
+S'City National Corporation'
+p803
+sS'FUBC'
+p804
+S'1st United Bancorp, Inc.'
+p805
+sS'OSTK'
+p806
+S'Overstock.com Inc.'
+p807
+sS'MOLXA'
+p808
+S'Molex Incorporated'
+p809
+sS'VASC'
+p810
+S'Vascular Solutions Inc.'
+p811
+sS'SMED'
+p812
+S'Sharps Compliance Corp.'
+p813
+sS'CWT'
+p814
+S'California Water Service Group'
+p815
+sS'CWH'
+p816
+S'CommonWealth REIT'
+p817
+sS'SPWR'
+p818
+S'SunPower Corporation'
+p819
+sS'CLB'
+p820
+S'Core Laboratories NV'
+p821
+sS'FWRD'
+p822
+S'Forward Air Corp.'
+p823
+sS'MILL'
+p824
+S'Miller Energy Resources, Inc.'
+p825
+sS'IMN'
+p826
+S'Imation Corp.'
+p827
+sS'YUM'
+p828
+S'Yum! Brands, Inc.'
+p829
+sS'GHDX'
+p830
+S'Genomic Health Inc.'
+p831
+sS'PDO'
+p832
+S'Pyramid Oil Company'
+p833
+sS'RMBS'
+p834
+S'Rambus Inc.'
+p835
+sS'TLF'
+p836
+S'Tandy Leather Factory, Inc.'
+p837
+sS'WTI'
+p838
+g90
+sS'AIRM'
+p839
+S'Air Methods Corp.'
+p840
+sS'NICK'
+p841
+S'Nicholas Financial Inc.'
+p842
+sS'MRVL'
+p843
+S'Marvell Technology Group Ltd.'
+p844
+sS'AIRT'
+p845
+S'Air T Inc.'
+p846
+sS'WIBC'
+p847
+S'Wilshire Bancorp Inc.'
+p848
+sS'RNIN'
+p849
+S'Wireless Ronin Technologies Inc.'
+p850
+sS'HMST'
+p851
+S'HomeStreet, Inc.'
+p852
+sS'MOCO'
+p853
+S'MOCON Inc.'
+p854
+sS'HUN'
+p855
+S'Huntsman Corporation'
+p856
+sS'ENTA'
+p857
+S'Enanta Pharmaceuticals, Inc.'
+p858
+sS'SKUL'
+p859
+S'Skullcandy, Inc.'
+p860
+sS'PAR'
+p861
+S'PAR Technology Corporation'
+p862
+sS'NPBC'
+p863
+S'National Penn Bancshares Inc.'
+p864
+sS'ENTG'
+p865
+S'Entegris, Inc.'
+p866
+sS'SRCE'
+p867
+S'1st Source Corporation'
+p868
+sS'PAY'
+p869
+S'VeriFone Systems, Inc.'
+p870
+sS'AAPL'
+p871
+S'Apple Inc.'
+p872
+sS'PDH'
+p873
+S'PetroLogistics LP'
+p874
+sS'OAS'
+p875
+S'Oasis Petroleum Inc.'
+p876
+sS'CHEF'
+p877
+S"The Chefs' Warehouse, Inc."
+p878
+sS'FCNCA'
+p879
+S'First Citizens Bancshares Inc.'
+p880
+sS'ENTR'
+p881
+S'Entropic Communications, Inc.'
+p882
+sS'CKP'
+p883
+S'Checkpoint Systems Inc.'
+p884
+sS'PAG'
+p885
+S'Penske Automotive Group, Inc.'
+p886
+sS'ASCA'
+p887
+S'Ameristar Casinos Inc.'
+p888
+sS'CKX'
+p889
+S'CKX Lands Inc.'
+p890
+sS'DCO'
+p891
+S'Ducommun Inc.'
+p892
+sS'SCG'
+p893
+S'SCANA Corp.'
+p894
+sS'CLW'
+p895
+S'Clearwater Paper Corporation'
+p896
+sS'PERF'
+p897
+S'Perfumania Holdings, Inc.'
+p898
+sS'AWX'
+p899
+S'Avalon Holdings Corp.'
+p900
+sS'AMSG'
+p901
+S'AmSurg Corp.'
+p902
+sS'AMSF'
+p903
+S'Amerisafe, Inc.'
+p904
+sS'THRD'
+p905
+S'TF Financial Corporation'
+p906
+sS'LKFN'
+p907
+S'Lakeland Financial Corp.'
+p908
+sS'AMSC'
+p909
+S'American Superconductor Corporation'
+p910
+sS'CFNB'
+p911
+S'California First National Bancorp'
+p912
+sS'LIVE'
+p913
+S'LiveDeal, Inc.'
+p914
+sS'AWK'
+p915
+S'American Water Works Company, Inc.'
+p916
+sS'AWI'
+p917
+S'Armstrong World Industries, Inc.'
+p918
+sS'AWH'
+p919
+S'Allied World Assurance Company Holdings, AG'
+p920
+sS'UAMY'
+p921
+S'United States Antimony Corp.'
+p922
+sS'DCT'
+p923
+S'DCT Industrial Trust Inc.'
+p924
+sS'GBCI'
+p925
+S'Glacier Bancorp, Inc.'
+p926
+sS'SIGA'
+p927
+S'SIGA Technologies, Inc.'
+p928
+sS'FCAP'
+p929
+S'First Capital Inc.'
+p930
+sS'DRRX'
+p931
+S'DURECT Corporation'
+p932
+sS'SGNT'
+p933
+S'Sagent Pharmaceuticals, Inc.'
+p934
+sS'WEN'
+p935
+S"The Wendy's Company"
+p936
+sS'PXLW'
+p937
+S'Pixelworks, Inc.'
+p938
+sS'TTC'
+p939
+S'Toro Co.'
+p940
+sS'PSDV'
+p941
+S'pSivida Corp.'
+p942
+sS'CSPI'
+p943
+S'CSP Inc.'
+p944
+sS'SNMX'
+p945
+S'Senomyx Inc.'
+p946
+sS'PEDH'
+p947
+S'Peoples Educational Holdings, Inc.'
+p948
+sS'GLOW'
+p949
+S'Glowpoint, Inc.'
+p950
+sS'UBSH'
+p951
+S'Union Bankshares Corporation'
+p952
+sS'UBSI'
+p953
+S'United Bankshares Inc.'
+p954
+sS'ANAT'
+p955
+S'American National Insurance Co.'
+p956
+sS'PLCE'
+p957
+S'The Children'
+p958
+sS'CCL'
+p959
+S'Carnival Corporation'
+p960
+sS'PLCM'
+p961
+S'Polycom, Inc.'
+p962
+sS'IHT'
+p963
+S'Innsuites Hospitality Trust'
+p964
+sS'UUU'
+p965
+S'Universal Security Instruments Inc.'
+p966
+sS'ANAD'
+p967
+S'Anadigics, Inc.'
+p968
+sS'ANAC'
+p969
+S'Anacor Pharmaceuticals, Inc.'
+p970
+sS'IHC'
+p971
+S'Independence Holding Co.'
+p972
+sS'LL'
+p973
+S'Lumber Liquidators Holdings, Inc.'
+p974
+sS'AEP'
+p975
+S'American Electric Power Co., Inc.'
+p976
+sS'AES'
+p977
+S'The AES Corporation'
+p978
+sS'DMD'
+p979
+S'Demand Media, Inc.'
+p980
+sS'AET'
+p981
+S'Aetna Inc.'
+p982
+sS'AEY'
+p983
+S'ADDvantage Technologies Group Inc.'
+p984
+sS'GBL'
+p985
+S'GAMCO Investors, Inc.'
+p986
+sS'WSBF'
+p987
+S'Waterstone Financial, Inc.'
+p988
+sS'SWC'
+p989
+S'Stillwater Mining Co.'
+p990
+sS'AMAT'
+p991
+S'Applied Materials, Inc.'
+p992
+sS'AEC'
+p993
+S'Associated Estates Realty Corporation'
+p994
+sS'LMIA'
+p995
+S'LMI Aerospace Inc.'
+p996
+sS'GBR'
+p997
+S'New Concept Energy, Inc.'
+p998
+sS'INFA'
+p999
+S'Informatica Corporation'
+p1000
+sS'CVTI'
+p1001
+S'Covenant Transportation Group, Inc.'
+p1002
+sS'SSNC'
+p1003
+g90
+sS'MHGC'
+p1004
+S'Morgans Hotel Group Co.'
+p1005
+sS'DARA'
+p1006
+S'DARA BioSciences, Inc'
+p1007
+sS'GBX'
+p1008
+S'The Greenbrier Companies, Inc.'
+p1009
+sS'XWES'
+p1010
+S'World Energy Solutions, Inc.'
+p1011
+sS'VTNC'
+p1012
+S'Vitran Corp Inc.'
+p1013
+sS'PRLS'
+p1014
+S'Peerless Systems Corp.'
+p1015
+sS'SQNM'
+p1016
+S'Sequenom Inc.'
+p1017
+sS'VTNR'
+p1018
+S'Vertex Energy, Inc.'
+p1019
+sS'FFBH'
+p1020
+S'First Federal Bancshares of Arkansas Inc.'
+p1021
+sS'CRDC'
+p1022
+S'Cardica Inc.'
+p1023
+sS'MEET'
+p1024
+S'MeetMe, Inc.'
+p1025
+sS'CTXS'
+p1026
+S'Citrix Systems, Inc.'
+p1027
+sS'TRXI'
+p1028
+S'TRX, Inc.'
+p1029
+sS'FFBC'
+p1030
+S'First Financial Bancorp.'
+p1031
+sS'XRM'
+p1032
+S'Xerium Technologies Inc.'
+p1033
+sS'AGNC'
+p1034
+S'American Capital Agency Corp.'
+p1035
+sS'CBNK'
+p1036
+S'Chicopee Bancorp, Inc.'
+p1037
+sS'CBNJ'
+p1038
+S'Cape Bancorp, Inc.'
+p1039
+sS'NFEC'
+p1040
+S'NF Energy Saving Corp.'
+p1041
+sS'UMPQ'
+p1042
+S'Umpqua Holdings Corporation'
+p1043
+sS'NSEC'
+p1044
+S'National Security Group Inc.'
+p1045
+sS'MSCI'
+p1046
+S'MSCI Inc.'
+p1047
+sS'NMRX'
+p1048
+S'Numerex Corp.'
+p1049
+sS'XRX'
+p1050
+S'Xerox Corporation'
+p1051
+sS'ITW'
+p1052
+S'Illinois Tool Works Inc.'
+p1053
+sS'MSCC'
+p1054
+S'Microsemi Corporation'
+p1055
+sS'HALL'
+p1056
+S'Hallmark Financial Services Inc.'
+p1057
+sS'HALO'
+p1058
+S'Halozyme Therapeutics, Inc.'
+p1059
+sS'NGSX'
+p1060
+S'NeurogesX, Inc.'
+p1061
+sS'XRSC'
+p1062
+S'XRS Corporation'
+p1063
+sS'HITT'
+p1064
+S'Hittite Microwave Corporation'
+p1065
+sS'HCC'
+p1066
+S'HCC Insurance Holdings Inc.'
+p1067
+sS'MOS'
+p1068
+S'The Mosaic Company'
+p1069
+sS'IMKTA'
+p1070
+S'Ingles Markets, Incorporated'
+p1071
+sS'PSA'
+p1072
+S'Public Storage'
+p1073
+sS'ACNB'
+p1074
+S'ACNB Corp.'
+p1075
+sS'MOV'
+p1076
+S'Movado Group, Inc.'
+p1077
+sS'PSX'
+p1078
+S'Phillips 66'
+p1079
+sS'MOH'
+p1080
+S'Molina Healthcare, Inc.'
+p1081
+sS'MON'
+p1082
+S'Monsanto Company'
+p1083
+sS'INWK'
+p1084
+S'InnerWorkings Inc.'
+p1085
+sS'MOC'
+p1086
+S'Command Security Corp.'
+p1087
+sS'ASUR'
+p1088
+S'Asure Software, Inc.'
+p1089
+sS'HITK'
+p1090
+S'Hi-Tech Pharmacal Co., Inc.'
+p1091
+sS'GABC'
+p1092
+S'German American Bancorp Inc.'
+p1093
+sS'GRC'
+p1094
+S'Gorman-Rupp Co.'
+p1095
+sS'CRVP'
+p1096
+S'Crystal Rock Holdings, Inc.'
+p1097
+sS'BCO'
+p1098
+S"The Brink's Company"
+p1099
+sS'BSPM'
+p1100
+S'Biostar Pharmaceuticals, Inc.'
+p1101
+sS'ACCL'
+p1102
+S'Accelrys Inc.'
+p1103
+sS'HNI'
+p1104
+S'HNI Corp.'
+p1105
+sS'HNH'
+p1106
+S'Handy & Harman Ltd.'
+p1107
+sS'GRA'
+p1108
+S'W.R. Grace & Co.'
+p1109
+sS'SWK'
+p1110
+S'Stanley Black & Decker, Inc.'
+p1111
+sS'BCC'
+p1112
+S'Boise Cascade Company'
+p1113
+sS'TRNX'
+p1114
+S'Tornier N.V.'
+p1115
+sS'BABY'
+p1116
+S'Natus Medical Inc.'
+p1117
+sS'HNR'
+p1118
+S'Harvest Natural Resources Inc.'
+p1119
+sS'HNT'
+p1120
+S'Health Net, Inc.'
+p1121
+sS'FDEF'
+p1122
+S'First Defiance Financial Corp.'
+p1123
+sS'ETH'
+p1124
+S'Ethan Allen Interiors Inc.'
+p1125
+sS'TRNS'
+p1126
+S'Transcat Inc.'
+p1127
+sS'WCRX'
+p1128
+S'Warner Chilcott plc'
+p1129
+sS'CRVL'
+p1130
+S'CorVel Corporation'
+p1131
+sS'BCR'
+p1132
+S'CR Bard Inc.'
+p1133
+sS'ETM'
+p1134
+S'Entercom Communications Corp.'
+p1135
+sS'VRS'
+p1136
+S'Verso Paper Corp.'
+p1137
+sS'TORM'
+p1138
+S'TOR Minerals International Inc.'
+p1139
+sS'DLTR'
+p1140
+S'Dollar Tree, Inc.'
+p1141
+sS'PPBI'
+p1142
+S'Pacific Premier Bancorp Inc.'
+p1143
+sS'BPI'
+p1144
+S'Bridgepoint Education, Inc.'
+p1145
+sS'VRA'
+p1146
+S'Vera Bradley, Inc.'
+p1147
+sS'TKOI'
+p1148
+S'Telkonet, Inc.'
+p1149
+sS'RUSHB'
+p1150
+S'Rush Enterprises, Inc.'
+p1151
+sS'RUSHA'
+p1152
+S'Rush Enterprises, Inc.'
+p1153
+sS'ROVI'
+p1154
+S'Rovi Corporation'
+p1155
+sS'DD'
+p1156
+S'E. I. du Pont de Nemours and Company'
+p1157
+sS'GALT'
+p1158
+S'Galectin Therapeutics, Inc.'
+p1159
+sS'CI'
+p1160
+S'Cigna Corp.'
+p1161
+sS'JDSU'
+p1162
+S'JDS Uniphase Corporation'
+p1163
+sS'CL'
+p1164
+S'Colgate-Palmolive Co.'
+p1165
+sS'CB'
+p1166
+S'The Chubb Corporation'
+p1167
+sS'CA'
+p1168
+S'CA Technologies'
+p1169
+sS'SRI'
+p1170
+S'Stoneridge Inc.'
+p1171
+sS'CG'
+p1172
+S'The Carlyle Group LP'
+p1173
+sS'CF'
+p1174
+S'CF Industries Holdings, Inc.'
+p1175
+sS'GALE'
+p1176
+S'Galena Biopharma, Inc.'
+p1177
+sS'CY'
+p1178
+S'Cypress Semiconductor Corporation'
+p1179
+sS'SRT'
+p1180
+S'StarTek, Inc.'
+p1181
+sS'SORL'
+p1182
+S'SORL Auto Parts, Inc.'
+p1183
+sS'USNA'
+p1184
+S'USANA Health Sciences Inc.'
+p1185
+sS'CW'
+p1186
+S'Curtiss-Wright Corporation'
+p1187
+sS'PIR'
+p1188
+S'Pier 1 Imports, Inc.'
+p1189
+sS'BAGR'
+p1190
+S'Diversified Restaurant Holdings, Inc.'
+p1191
+sS'SWY'
+p1192
+S'Safeway Inc.'
+p1193
+sS'SWX'
+p1194
+S'Southwest Gas Corporation'
+p1195
+sS'TDC'
+p1196
+S'Teradata Corporation'
+p1197
+sS'HUBB'
+p1198
+S'Hubbell Inc.'
+p1199
+sS'USU'
+p1200
+S'USEC Inc.'
+p1201
+sS'HUBG'
+p1202
+S'Hub Group Inc.'
+p1203
+sS'RLJE'
+p1204
+S'RLJ Entertainment, Inc.'
+p1205
+sS'PRGO'
+p1206
+S'Perrigo Company Public Limited Company'
+p1207
+sS'TDY'
+p1208
+S'Teledyne Technologies Inc.'
+p1209
+sS'CHMP'
+p1210
+S'Champion Industries Inc.'
+p1211
+sS'BDMS'
+p1212
+S'Birner Dental Management Services Inc.'
+p1213
+sS'APFC'
+p1214
+S'American Pacific Corporation'
+p1215
+sS'TDW'
+p1216
+S'Tidewater Inc.'
+p1217
+sS'BAGL'
+p1218
+S'Einstein Noah Restaurant Group, Inc.'
+p1219
+sS'IFON'
+p1220
+S'Infosonics Corp.'
+p1221
+sS'FHN'
+p1222
+S'First Horizon National Corporation'
+p1223
+sS'CVX'
+p1224
+S'Chevron Corporation'
+p1225
+sS'CVV'
+p1226
+S'CVD Equipment Corporation'
+p1227
+sS'CVU'
+p1228
+S'CPI Aerostructures Inc.'
+p1229
+sS'CVR'
+p1230
+S'Chicago Rivet & Machine Co.'
+p1231
+sS'CVS'
+p1232
+S'CVS Caremark Corporation'
+p1233
+sS'SSNI'
+p1234
+S'Silver Spring Networks, Inc.'
+p1235
+sS'CVO'
+p1236
+S'Cenveo Inc.'
+p1237
+sS'CVM'
+p1238
+S'CEL-SCI Corporation'
+p1239
+sS'LOV'
+p1240
+S'Spark Networks, Inc.'
+p1241
+sS'LOW'
+p1242
+S"Lowe's Companies Inc."
+p1243
+sS'ADUS'
+p1244
+S'Addus HomeCare Corporation'
+p1245
+sS'PLXS'
+p1246
+S'Plexus Corp.'
+p1247
+sS'CVG'
+p1248
+S'Convergys Corporation'
+p1249
+sS'CVD'
+p1250
+S'Covance Inc.'
+p1251
+sS'GUID'
+p1252
+S'Guidance Software, Inc.'
+p1253
+sS'CVC'
+p1254
+S'Cablevision Systems Corporation'
+p1255
+sS'CVA'
+p1256
+S'Covanta Holding Corporation'
+p1257
+sS'QRE'
+p1258
+S'QR Energy, LP'
+p1259
+sS'MFCO'
+p1260
+S'Microwave Filter Co. Inc.'
+p1261
+sS'TUES'
+p1262
+S'Tuesday Morning Corporation'
+p1263
+sS'SBGI'
+p1264
+S'Sinclair Broadcast Group Inc.'
+p1265
+sS'QTWW'
+p1266
+S'Quantum Fuel Systems Technologies Worldwide Inc.'
+p1267
+sS'PLXT'
+p1268
+S'PLX Technology Inc.'
+p1269
+sS'TWTC'
+p1270
+S'TW Telecom Inc.'
+p1271
+sS'FABK'
+p1272
+S'First Advantage Bancorp.'
+p1273
+sS'HPY'
+p1274
+S'Heartland Payment Systems, Inc.'
+p1275
+sS'VC'
+p1276
+S'Visteon Corporation'
+p1277
+sS'VG'
+p1278
+S'Vonage Holdings Corporation'
+p1279
+sS'HPQ'
+p1280
+S'Hewlett-Packard Company'
+p1281
+sS'HPP'
+p1282
+S'Hudson Pacific Properties, Inc.'
+p1283
+sS'TACT'
+p1284
+S'TransAct Technologies Incorporated'
+p1285
+sS'HPT'
+p1286
+S'Hospitality Properties Trust'
+p1287
+sS'IMI'
+p1288
+S'Intermolecular, Inc.'
+p1289
+sS'BCEI'
+p1290
+S'Bonanza Creek Energy, Inc.'
+p1291
+sS'ININ'
+p1292
+S'Interactive Intelligence Group Inc.'
+p1293
+sS'FDX'
+p1294
+S'FedEx Corporation'
+p1295
+sS'VZ'
+p1296
+S'Verizon Communications Inc.'
+p1297
+sS'WMT'
+p1298
+S'Wal-Mart Stores Inc.'
+p1299
+sS'NTGR'
+p1300
+S'Netgear Inc.'
+p1301
+sS'EBF'
+p1302
+S'Ennis Inc.'
+p1303
+sS'TGT'
+p1304
+S'Target Corp.'
+p1305
+sS'RBPAA'
+p1306
+S'Royal Bancshares of Pennsylvania Inc.'
+p1307
+sS'ARDM'
+p1308
+S'Aradigm Corporation'
+p1309
+sS'T'
+p1310
+g90
+sS'LAMR'
+p1311
+S'Lamar Advertising Co.'
+p1312
+sS'RJF'
+p1313
+S'Raymond James Financial, Inc.'
+p1314
+sS'EBS'
+p1315
+S'Emergent BioSolutions, Inc.'
+p1316
+sS'CNDO'
+p1317
+S'Coronado Biosciences, Inc.'
+p1318
+sS'WDC'
+p1319
+S'Western Digital Corporation'
+p1320
+sS'DRQ'
+p1321
+S'Dril-Quip, Inc.'
+p1322
+sS'MOVE'
+p1323
+S'Move, Inc.'
+p1324
+sS'LFUS'
+p1325
+S'Littelfuse Inc.'
+p1326
+sS'DRI'
+p1327
+S'Darden Restaurants, Inc.'
+p1328
+sS'DRH'
+p1329
+S'Diamondrock Hospitality Co.'
+p1330
+sS'WDR'
+p1331
+S'Waddell & Reed Financial, Inc.'
+p1332
+sS'DRL'
+p1333
+S'Doral Financial Corporation'
+p1334
+sS'GPRE'
+p1335
+S'Green Plains Renewable Energy, Inc.'
+p1336
+sS'VSBN'
+p1337
+S'VSB Bancorp, Inc.'
+p1338
+sS'DRC'
+p1339
+S'Dresser-Rand Group Inc.'
+p1340
+sS'DRE'
+p1341
+S'Duke Realty Corporation'
+p1342
+sS'CONN'
+p1343
+S'Conns Inc.'
+p1344
+sS'ALLB'
+p1345
+S'Alliance Bancorp Inc of Pennsylvania'
+p1346
+sS'TGC'
+p1347
+S'Tengasco Inc.'
+p1348
+sS'WTSL'
+p1349
+S'The Wet Seal, Inc.'
+p1350
+sS'IROQ'
+p1351
+S'IF Bancorp, Inc.'
+p1352
+sS'IOT'
+p1353
+S'Income Opportunity Realty Investors Inc.'
+p1354
+sS'UIL'
+p1355
+S'UIL Holdings Corporation'
+p1356
+sS'GBNK'
+p1357
+S'Guaranty Bancorp'
+p1358
+sS'UIS'
+p1359
+S'Unisys Corporation'
+p1360
+sS'RVP'
+p1361
+S'Retractable Technologies, Inc.'
+p1362
+sS'DGICA'
+p1363
+S'Donegal Group Inc.'
+p1364
+sS'DGICB'
+p1365
+S'Donegal Group Inc.'
+p1366
+sS'BBBY'
+p1367
+S'Bed Bath & Beyond Inc.'
+p1368
+sS'D'
+p1369
+S'Dominion Resources, Inc.'
+p1370
+sS'RXN'
+p1371
+S'Rexnord Corporation'
+p1372
+sS'HCOM'
+p1373
+S'Hawaiian Telcom Holdco, Inc.'
+p1374
+sS'UBP'
+p1375
+S'Urstadt Biddle Properties Inc.'
+p1376
+sS'CLFD'
+p1377
+S'Clearfield, Inc.'
+p1378
+sS'HEOP'
+p1379
+S'Heritage Oaks Bancorp'
+p1380
+sS'CXP'
+p1381
+S'Columbia Property Trust, Inc.'
+p1382
+sS'STLD'
+p1383
+S'Steel Dynamics Inc.'
+p1384
+sS'SRPT'
+p1385
+S'Sarepta Therapeutics, Inc.'
+p1386
+sS'CXW'
+p1387
+S'Corrections Corporation of America'
+p1388
+sS'LECO'
+p1389
+S'Lincoln Electric Holdings Inc.'
+p1390
+sS'SMPL'
+p1391
+S'Simplicity Bancorp, Inc.'
+p1392
+sS'ASBCW'
+p1393
+S'Associated Banc-Corp'
+p1394
+sS'CCNE'
+p1395
+S'CNB Financial Corp.'
+p1396
+sS'RAVN'
+p1397
+S'Raven Industries Inc.'
+p1398
+sS'STLY'
+p1399
+S'Stanley Furniture Co. Inc.'
+p1400
+sS'CXO'
+p1401
+S'Concho Resources, Inc.'
+p1402
+sS'METR'
+p1403
+S'Metro Bancorp, Inc.'
+p1404
+sS'GOM'
+p1405
+S'Ally Financial Inc.'
+p1406
+sS'HY'
+p1407
+S'Hyster-Yale Materials Handling, Inc.'
+p1408
+sS'IMO'
+p1409
+S'Imperial Oil Ltd.'
+p1410
+sS'HCSG'
+p1411
+S'Healthcare Services Group Inc.'
+p1412
+sS'HR'
+p1413
+S'Healthcare Realty Trust Incorporated'
+p1414
+sS'HW'
+p1415
+S'Headwaters Incorporated'
+p1416
+sS'HT'
+p1417
+S'Hersha Hospitality Trust'
+p1418
+sS'AAON'
+p1419
+S'AAON Inc.'
+p1420
+sS'HH'
+p1421
+S'Hooper Holmes Inc.'
+p1422
+sS'HI'
+p1423
+S'Hillenbrand, Inc.'
+p1424
+sS'HL'
+p1425
+S'Hecla Mining Co.'
+p1426
+sS'HA'
+p1427
+S'Hawaiian Holdings Inc.'
+p1428
+sS'CTIB'
+p1429
+S'CTI Industries Corp.'
+p1430
+sS'HE'
+p1431
+S'Hawaiian Electric Industries Inc.'
+p1432
+sS'SCL'
+p1433
+S'Stepan Company'
+p1434
+sS'SCI'
+p1435
+S'Service Corporation International'
+p1436
+sS'INTC'
+p1437
+S'Intel Corporation'
+p1438
+sS'JMP'
+p1439
+S'JMP Group Inc.'
+p1440
+sS'INVN'
+p1441
+S'InvenSense, Inc.'
+p1442
+sS'SCX'
+p1443
+S'The L.S. Starrett Company'
+p1444
+sS'LMNR'
+p1445
+S'Limoneira Company'
+p1446
+sS'SCU'
+p1447
+S'Scana Corporation SCANA CORPORA'
+p1448
+sS'INVE'
+p1449
+S'Identive Group Inc.'
+p1450
+sS'ACOR'
+p1451
+S'Acorda Therapeutics, Inc.'
+p1452
+sS'SCS'
+p1453
+S'Steelcase Inc.'
+p1454
+sS'PTP'
+p1455
+S'Platinum Underwriters Holdings Ltd.'
+p1456
+sS'EGAN'
+p1457
+S'eGain Corporation'
+p1458
+sS'OXGN'
+p1459
+S'OXiGENE, Inc.'
+p1460
+sS'AUXL'
+p1461
+S'Auxilium Pharmaceuticals Inc.'
+p1462
+sS'CHDX'
+p1463
+S'Chindex International Inc.'
+p1464
+sS'IBCP'
+p1465
+S'Independent Bank Corporation'
+p1466
+sS'SCVL'
+p1467
+S'Shoe Carnival Inc.'
+p1468
+sS'PBF'
+p1469
+S'PBF Energy Inc.'
+p1470
+sS'WINA'
+p1471
+S'Winmark Corp.'
+p1472
+sS'YHOO'
+p1473
+S'Yahoo! Inc.'
+p1474
+sS'MLM'
+p1475
+S'Martin Marietta Materials Inc.'
+p1476
+sS'DTSI'
+p1477
+S'DTS Inc.'
+p1478
+sS'IBCA'
+p1479
+S'Intervest Bancshares Corp.'
+p1480
+sS'MATW'
+p1481
+S'Matthews International Corporation'
+p1482
+sS'AVX'
+p1483
+S'AVX Corp.'
+p1484
+sS'AVY'
+p1485
+S'Avery Dennison Corporation'
+p1486
+sS'UCFC'
+p1487
+S'United Community Financial Corp.'
+p1488
+sS'AVT'
+p1489
+S'Avnet, Inc.'
+p1490
+sS'MPO'
+p1491
+S'Midstates Petroleum Company, Inc.'
+p1492
+sS'AVP'
+p1493
+S'Avon Products Inc.'
+p1494
+sS'AMPE'
+p1495
+S'Ampio Pharmaceuticals, Inc.'
+p1496
+sS'FCX'
+p1497
+S'Freeport-McMoRan Copper & Gold Inc.'
+p1498
+sS'FNFG'
+p1499
+S'First Niagara Financial Group Inc.'
+p1500
+sS'BREW'
+p1501
+S'Craft Brew Alliance, Inc.'
+p1502
+sS'PSIX'
+p1503
+S'Power Solutions International, Inc.'
+p1504
+sS'AMRB'
+p1505
+S'American River Bankshares'
+p1506
+sS'AVB'
+p1507
+S'Avalonbay Communities Inc.'
+p1508
+sS'CPWR'
+p1509
+S'Compuware Corporation'
+p1510
+sS'ACAD'
+p1511
+S'ACADIA Pharmaceuticals Inc.'
+p1512
+sS'SURG'
+p1513
+S'Synergetics USA, Inc.'
+p1514
+sS'ZEUS'
+p1515
+S'Olympic Steel Inc.'
+p1516
+sS'DEER'
+p1517
+S'Deer Consumer Products, Inc.'
+p1518
+sS'SUI'
+p1519
+S'Sun Communities Inc.'
+p1520
+sS'PRMW'
+p1521
+S'Primo Water Corporation'
+p1522
+sS'ACAT'
+p1523
+S'Arctic Cat Inc.'
+p1524
+sS'SUP'
+p1525
+S'Superior Industries International, Inc.'
+p1526
+sS'JBLU'
+p1527
+S'JetBlue Airways Corporation'
+p1528
+sS'UIHC'
+p1529
+S'United Insurance Holdings Corp.'
+p1530
+sS'GOV'
+p1531
+S'Government Properties Income Trust'
+p1532
+sS'BTUI'
+p1533
+S'BTU International Inc.'
+p1534
+sS'AVEO'
+p1535
+S'AVEO Pharmaceuticals, Inc.'
+p1536
+sS'LPNT'
+p1537
+S'Lifepoint Hospitals Inc.'
+p1538
+sS'OBCI'
+p1539
+S'Ocean Bio-Chem Inc.'
+p1540
+sS'QCCO'
+p1541
+S'QC Holdings, Inc.'
+p1542
+sS'INTX'
+p1543
+S'Intersections Inc.'
+p1544
+sS'ISIG'
+p1545
+S'Insignia Systems Inc.'
+p1546
+sS'HBCP'
+p1547
+S'Home Bancorp, Inc.'
+p1548
+sS'SLB'
+p1549
+S'Schlumberger Limited'
+p1550
+sS'SYMM'
+p1551
+S'Symmetricom Inc.'
+p1552
+sS'TER'
+p1553
+S'Teradyne Inc.'
+p1554
+sS'INTZ'
+p1555
+S'Intrusion Inc.'
+p1556
+sS'WMB'
+p1557
+S'Williams Companies, Inc.'
+p1558
+sS'SWHC'
+p1559
+S'Smith & Wesson Holding Corporation'
+p1560
+sS'ADT'
+p1561
+S'The ADT Corporation'
+p1562
+sS'GMO'
+p1563
+S'General Moly, Inc.'
+p1564
+sS'ADS'
+p1565
+S'Alliance Data Systems Corporation'
+p1566
+sS'ADP'
+p1567
+S'Automatic Data Processing, Inc.'
+p1568
+sS'DNB'
+p1569
+S'Dun & Bradstreet Corp.'
+p1570
+sS'FSCI'
+p1571
+S'Fisher Communications, Inc.'
+p1572
+sS'GME'
+p1573
+S'GameStop Corp.'
+p1574
+sS'CORT'
+p1575
+S'Corcept Therapeutics Incorporated'
+p1576
+sS'ADC'
+p1577
+S'Agree Realty Corp.'
+p1578
+sS'DNR'
+p1579
+S'Denbury Resources Inc.'
+p1580
+sS'HUSA'
+p1581
+S'Houston American Energy Corp.'
+p1582
+sS'ADM'
+p1583
+S'Archer Daniels Midland Company'
+p1584
+sS'CORX'
+p1585
+S'Cortex Pharmaceuticals, Inc.'
+p1586
+sS'ADK'
+p1587
+S'AdCare Health Systems Inc.'
+p1588
+sS'GMT'
+p1589
+S'GATX Corp.'
+p1590
+sS'RIGL'
+p1591
+S'Rigel Pharmaceuticals, Inc.'
+p1592
+sS'HK'
+p1593
+S'Halc'
+p1594
+sS'XEL'
+p1595
+S'Xcel Energy Inc.'
+p1596
+sS'BRT'
+p1597
+S'BRT Realty Trust'
+p1598
+sS'BRS'
+p1599
+S'Bristow Group, Inc.'
+p1600
+sS'PTIE'
+p1601
+S'Pain Therapeutics Inc.'
+p1602
+sS'NSSC'
+p1603
+S'Napco Security Technologies, Inc.'
+p1604
+sS'BRO'
+p1605
+S'Brown & Brown Inc.'
+p1606
+sS'BRN'
+p1607
+S'Barnwell Industries, Inc.'
+p1608
+sS'PTIX'
+p1609
+S'Performance Technologies Inc.'
+p1610
+sS'WAYN'
+p1611
+S'Wayne Savings Bancshares Inc.'
+p1612
+sS'NWPX'
+p1613
+S'Northwest Pipe Co.'
+p1614
+sS'DJCO'
+p1615
+S'Daily Journal Corp.'
+p1616
+sS'STRL'
+p1617
+S'Sterling Construction Co. Inc.'
+p1618
+sS'BRC'
+p1619
+S'Brady Corp.'
+p1620
+sS'SCKT'
+p1621
+S'Socket Mobile, Inc.'
+p1622
+sS'SPIR'
+p1623
+S'Spire Corp.'
+p1624
+sS'INOC'
+p1625
+S'Innotrac Corp.'
+p1626
+sS'TWO'
+p1627
+S'Two Harbors Investment Corp.'
+p1628
+sS'NRF'
+p1629
+S'NorthStar Realty Finance Corp.'
+p1630
+sS'MFLX'
+p1631
+S'Multi-Fineline Electronix, Inc.'
+p1632
+sS'AVSR'
+p1633
+S'Avistar Communications Corp.'
+p1634
+sS'DISH'
+p1635
+S'Dish Network Corp.'
+p1636
+sS'TWX'
+p1637
+S'Time Warner Inc.'
+p1638
+sS'MFLR'
+p1639
+S'Mayflower Bancorp, Inc.'
+p1640
+sS'EBSB'
+p1641
+S'Meridian Interstate Bancorp, Inc.'
+p1642
+sS'RKT'
+p1643
+S'Rock-Tenn Company'
+p1644
+sS'OVRL'
+p1645
+S'Overland Storage Inc.'
+p1646
+sS'WIRE'
+p1647
+S'Encore Wire Corp.'
+p1648
+sS'SMCI'
+p1649
+S'Super Micro Computer, Inc.'
+p1650
+sS'GTXI'
+p1651
+S'GTX Inc.'
+p1652
+sS'EAC'
+p1653
+S'Erickson Incorporated'
+p1654
+sS'ALSN'
+p1655
+S'Allison Transmission Holdings, Inc.'
+p1656
+sS'PJC'
+p1657
+S'Piper Jaffray Companies'
+p1658
+sS'ALSK'
+p1659
+S'Alaska Communications Systems Group Inc.'
+p1660
+sS'ALSE'
+p1661
+S'Alseres Pharmaceuticals, Inc.'
+p1662
+sS'EAT'
+p1663
+S'Brinker International, Inc.'
+p1664
+sS'ARKR'
+p1665
+S'Ark Restaurants Corp.'
+p1666
+sS'HOG'
+p1667
+S'Harley-Davidson, Inc.'
+p1668
+sS'SHOR'
+p1669
+S'ShoreTel, Inc.'
+p1670
+sS'SHOS'
+p1671
+S'Sears Hometown and Outlet Stores, Inc.'
+p1672
+sS'CIDM'
+p1673
+S'Cinedigm Corp.'
+p1674
+sS'SJW'
+p1675
+S'SJW Corp.'
+p1676
+sS'HON'
+p1677
+S'Honeywell International Inc.'
+p1678
+sS'MLHR'
+p1679
+S'Herman Miller Inc.'
+p1680
+sS'HOV'
+p1681
+S'Hovnanian Enterprises Inc.'
+p1682
+sS'ESE'
+p1683
+S'ESCO Technologies Inc.'
+p1684
+sS'ESC'
+p1685
+S'Emeritus Corp.'
+p1686
+sS'HOS'
+p1687
+S'Hornbeck Offshore Services, Inc.'
+p1688
+sS'EVTC'
+p1689
+S'EVERTEC, Inc.'
+p1690
+sS'ESL'
+p1691
+S'Esterline Technologies Corp.'
+p1692
+sS'TROW'
+p1693
+S'T. Rowe Price Group, Inc.'
+p1694
+sS'FMCC'
+p1695
+S'Federal Home Loan Mortgage Corporation'
+p1696
+sS'SHOO'
+p1697
+S'Steven Madden, Ltd.'
+p1698
+sS'FBMS'
+p1699
+S'First Bancshares Inc.'
+p1700
+sS'IPGP'
+p1701
+S'IPG Photonics Corporation'
+p1702
+sS'VSR'
+p1703
+S'Versar Inc.'
+p1704
+sS'IPXL'
+p1705
+S'Impax Laboratories Inc.'
+p1706
+sS'DSPG'
+p1707
+S'DSP Group Inc.'
+p1708
+sS'MCS'
+p1709
+S'The Marcus Corporation'
+p1710
+sS'IILG'
+p1711
+S'Interval Leisure Group, Inc.'
+p1712
+sS'SCIL'
+p1713
+S'Scientific Learning Corp.'
+p1714
+sS'PERY'
+p1715
+S'Perry Ellis International Inc.'
+p1716
+sS'CECE'
+p1717
+S'CECO Environmental Corp.'
+p1718
+sS'MBLX'
+p1719
+S'Metabolix, Inc.'
+p1720
+sS'KYTH'
+p1721
+S'Kythera Biopharmaceuticals, Inc.'
+p1722
+sS'FBMI'
+p1723
+S'Firstbank Corporation'
+p1724
+sS'MCP'
+p1725
+S'Molycorp, Inc.'
+p1726
+sS'PFBX'
+p1727
+S'Peoples Financial Corporation'
+p1728
+sS'MNR'
+p1729
+S'Monmouth Real Estate Investment Corp.'
+p1730
+sS'CECO'
+p1731
+S'Career Education Corp.'
+p1732
+sS'RYN'
+p1733
+S'Rayonier Inc.'
+p1734
+sS'NDSN'
+p1735
+S'Nordson Corporation'
+p1736
+sS'RYL'
+p1737
+S'Ryland Group Inc.'
+p1738
+sS'LTRE'
+p1739
+S'Learning Tree International Inc.'
+p1740
+sS'UBCP'
+p1741
+S'United Bancorp Inc.'
+p1742
+sS'V'
+p1743
+S'Visa Inc.'
+p1744
+sS'EXLS'
+p1745
+S'Exlservice Holdings, Inc.'
+p1746
+sS'NWY'
+p1747
+S'New York & Company Inc.'
+p1748
+sS'IDXX'
+p1749
+S'IDEXX Laboratories, Inc.'
+p1750
+sS'AMG'
+p1751
+S'Affiliated Managers Group Inc.'
+p1752
+sS'AEHR'
+p1753
+S'Aehr Test Systems'
+p1754
+sS'CNQR'
+p1755
+S'Concur Technologies, Inc.'
+p1756
+sS'ROIC'
+p1757
+S'Retail Opportunity Investments Corp.'
+p1758
+sS'PACW'
+p1759
+S'PacWest Bancorp'
+p1760
+sS'CHFN'
+p1761
+S'Charter Financial Corporation'
+p1762
+sS'ARTNA'
+p1763
+S'Artesian Resources Corp.'
+p1764
+sS'ZUMZ'
+p1765
+S'Zumiez, Inc.'
+p1766
+sS'CCOI'
+p1767
+S'Cogent Communications Group, Inc.'
+p1768
+sS'FIS'
+p1769
+S'Fidelity National Information Services, Inc.'
+p1770
+sS'VAL'
+p1771
+S'The Valspar Corporation'
+p1772
+sS'TSCO'
+p1773
+S'Tractor Supply Company'
+p1774
+sS'LHO'
+p1775
+S'LaSalle Hotel Properties'
+p1776
+sS'ADTN'
+p1777
+S'ADTRAN Inc.'
+p1778
+sS'FIX'
+p1779
+S'Comfort Systems USA Inc.'
+p1780
+sS'PTX'
+p1781
+S'Pernix Therapeutics Holdings, Inc.'
+p1782
+sS'CYTXW'
+p1783
+S'Cytori Therapeutics Inc'
+p1784
+sS'DLGC'
+p1785
+S'Dialogic, Inc.'
+p1786
+sS'FIG'
+p1787
+S'Fortress Investment Group LLC'
+p1788
+sS'IFNY'
+p1789
+S'Infinity Energy Resources Inc.'
+p1790
+sS'VAR'
+p1791
+S'Varian Medical Systems, Inc.'
+p1792
+sS'FII'
+p1793
+S'Federated Investors, Inc.'
+p1794
+sS'FIO'
+p1795
+S'Fusion-io, Inc.'
+p1796
+sS'RLH'
+p1797
+S'Red Lion Hotels Corporation'
+p1798
+sS'PSTR'
+p1799
+S'PostRock Energy Corporation'
+p1800
+sS'ZBRA'
+p1801
+S'Zebra Technologies Corp.'
+p1802
+sS'AMT'
+p1803
+S'American Tower Corporation'
+p1804
+sS'PSTB'
+p1805
+S'Park Sterling Corporation'
+p1806
+sS'ABPI'
+p1807
+S'Accentia Biopharmaceuticals, Inc.'
+p1808
+sS'PSTI'
+p1809
+S'Pluristem Therapeutics, Inc.'
+p1810
+sS'MPW'
+p1811
+S'Medical Properties Trust Inc.'
+p1812
+sS'CMN'
+p1813
+S'Cantel Medical Corp.'
+p1814
+sS'RFIL'
+p1815
+S'RF Industries, Ltd.'
+p1816
+sS'CMI'
+p1817
+S'Cummins Inc.'
+p1818
+sS'DAIO'
+p1819
+S'Data I/O Corp.'
+p1820
+sS'CMG'
+p1821
+S'Chipotle Mexican Grill, Inc.'
+p1822
+sS'LMT'
+p1823
+S'Lockheed Martin Corporation'
+p1824
+sS'CME'
+p1825
+S'CME Group Inc.'
+p1826
+sS'CMC'
+p1827
+S'Commercial Metals Company'
+p1828
+sS'CMA'
+p1829
+S'Comerica Incorporated'
+p1830
+sS'ASEI'
+p1831
+S'American Science & Engineering Inc.'
+p1832
+sS'HMTV'
+p1833
+S'Hemisphere Media Group, Inc.'
+p1834
+sS'PCL'
+p1835
+S'Plum Creek Timber Co. Inc.'
+p1836
+sS'CHKE'
+p1837
+S'Cherokee Inc.'
+p1838
+sS'ESIO'
+p1839
+S'Electro Scientific Industries Inc.'
+p1840
+sS'PCG'
+p1841
+g90
+sS'GALTW'
+p1842
+S'Galectin Therapeutics Inc.'
+p1843
+sS'CMP'
+p1844
+S'Compass Minerals International Inc.'
+p1845
+sS'ORN'
+p1846
+S'Orion Marine Group, Inc'
+p1847
+sS'ZN'
+p1848
+S'Zion Oil & Gas, Inc.'
+p1849
+sS'FEIC'
+p1850
+S'FEI Company'
+p1851
+sS'FEIM'
+p1852
+S'Frequency Electronics Inc.'
+p1853
+sS'UVV'
+p1854
+S'Universal Corporation'
+p1855
+sS'FLWS'
+p1856
+S'1-800-Flowers.com Inc.'
+p1857
+sS'SNBC'
+p1858
+S'Sun Bancorp Inc.'
+p1859
+sS'FNGN'
+p1860
+S'Financial Engines, Inc.'
+p1861
+sS'PCLN'
+p1862
+S'The Priceline Group Inc.'
+p1863
+sS'CENTA'
+p1864
+S'Central Garden & Pet Company'
+p1865
+sS'FSLR'
+p1866
+S'First Solar, Inc.'
+p1867
+sS'NWLI'
+p1868
+S'National Western Life Insurance Company'
+p1869
+sS'INGR'
+p1870
+S'Ingredion Incorporated'
+p1871
+sS'DIOD'
+p1872
+S'Diodes Incorporated'
+p1873
+sS'WGA'
+p1874
+S'Wells-Gardner Electronics Corp.'
+p1875
+sS'CUNB'
+p1876
+S'CU Bancorp'
+p1877
+sS'DSW'
+p1878
+S'DSW Inc.'
+p1879
+sS'WGO'
+p1880
+S'Winnebago Industries, Inc.'
+p1881
+sS'DSS'
+p1882
+S'Document Security Systems, Inc.'
+p1883
+sS'TWIN'
+p1884
+S'Twin Disc, Incorporated'
+p1885
+sS'IBM'
+p1886
+S'International Business Machines Corporation'
+p1887
+sS'ABFS'
+p1888
+S'Arkansas Best Corporation'
+p1889
+sS'PEBO'
+p1890
+S'Peoples Bancorp Inc.'
+p1891
+sS'CHUY'
+p1892
+S"Chuy's Holdings, Inc."
+p1893
+sS'RIVR'
+p1894
+S'River Valley Bancorp'
+p1895
+sS'MD'
+p1896
+S'MEDNAX, Inc.'
+p1897
+sS'MG'
+p1898
+S'Mistras Group, Inc.'
+p1899
+sS'MA'
+p1900
+S'MasterCard Incorporated'
+p1901
+sS'ALOG'
+p1902
+S'Analogic Corporation'
+p1903
+sS'INT'
+p1904
+S'World Fuel Services Corp.'
+p1905
+sS'MO'
+p1906
+S'Altria Group Inc.'
+p1907
+sS'MN'
+p1908
+S'Manning & Napier, Inc.'
+p1909
+sS'BLOX'
+p1910
+S'Infoblox Inc.'
+p1911
+sS'INN'
+p1912
+S'Summit Hotel Properties, Inc.'
+p1913
+sS'INO'
+p1914
+S'Inovio Pharmaceuticals, Inc.'
+p1915
+sS'NDAQ'
+p1916
+S'The Nasdaq OMX Group, Inc.'
+p1917
+sS'UHS'
+p1918
+S'Universal Health Services Inc.'
+p1919
+sS'ALOT'
+p1920
+S'Astro-Med, Inc.'
+p1921
+sS'PLMT'
+p1922
+S'Palmetto Bancshares Inc.'
+p1923
+sS'SPLK'
+p1924
+S'Splunk, Inc.'
+p1925
+sS'INB'
+p1926
+S'Cohen & Steers Global Income Bu'
+p1927
+sS'HWBK'
+p1928
+S'Hawthorn Bancshares, Inc.'
+p1929
+sS'WABC'
+p1930
+S'Westamerica Bancorp.'
+p1931
+sS'AKS'
+p1932
+S'AK Steel Holding Corporation'
+p1933
+sS'AKR'
+p1934
+S'Acadia Realty Trust'
+p1935
+sS'LMOS'
+p1936
+S'Lumos Networks Corp.'
+p1937
+sS'FSBK'
+p1938
+S'First South Bancorp Inc.'
+p1939
+sS'AMGN'
+p1940
+S'Amgen Inc.'
+p1941
+sS'GLF'
+p1942
+S'Gulfmark Offshore, Inc.'
+p1943
+sS'FSBW'
+p1944
+S'FS Bancorp, Inc.'
+p1945
+sS'COST'
+p1946
+S'Costco Wholesale Corporation'
+p1947
+sS'HURN'
+p1948
+S'Huron Consulting Group Inc.'
+p1949
+sS'EBIX'
+p1950
+S'Ebix Inc.'
+p1951
+sS'GLP'
+p1952
+S'Global Partners LP'
+p1953
+sS'SRDX'
+p1954
+S'SurModics, Inc.'
+p1955
+sS'EDUC'
+p1956
+S'Educational Development Corporation'
+p1957
+sS'DOV'
+p1958
+S'Dover Corporation'
+p1959
+sS'DOW'
+p1960
+S'The Dow Chemical Company'
+p1961
+sS'GLW'
+p1962
+S'Corning Inc.'
+p1963
+sS'SCHW'
+p1964
+S'The Charles Schwab Corporation'
+p1965
+sS'WDAY'
+p1966
+S'Workday, Inc.'
+p1967
+sS'BSX'
+p1968
+S'Boston Scientific Corporation'
+p1969
+sS'POWR'
+p1970
+S'PowerSecure International, Inc.'
+p1971
+sS'PBI'
+p1972
+S'Pitney Bowes Inc.'
+p1973
+sS'LOJN'
+p1974
+S'LoJack Corporation'
+p1975
+sS'ZOOM'
+p1976
+S'ZOOM Technologies, Inc.'
+p1977
+sS'XXIA'
+p1978
+S'Ixia'
+p1979
+sS'PBH'
+p1980
+S'Prestige Brands Holdings, Inc.'
+p1981
+sS'UHAL'
+p1982
+S'AMERCO'
+p1983
+sS'CVVT'
+p1984
+S'China Valves Technology, Inc.'
+p1985
+sS'POWI'
+p1986
+S'Power Integrations Inc.'
+p1987
+sS'POWL'
+p1988
+S'Powell Industries, Inc.'
+p1989
+sS'SCHN'
+p1990
+S'Schnitzer Steel Industries, Inc.'
+p1991
+sS'SCHL'
+p1992
+S'Scholastic Corporation'
+p1993
+sS'GIFI'
+p1994
+S'Gulf Island Fabrication Inc.'
+p1995
+sS'TLLP'
+p1996
+S'Tesoro Logistics LP'
+p1997
+sS'ELLI'
+p1998
+S'Ellie Mae, Inc.'
+p1999
+sS'STEI'
+p2000
+S'Stewart Enterprises Inc.'
+p2001
+sS'F'
+p2002
+S'Ford Motor Co.'
+p2003
+sS'CTHR'
+p2004
+S'Charles & Colvard Ltd.'
+p2005
+sS'MNOV'
+p2006
+S'MediciNova Inc.'
+p2007
+sS'PSEM'
+p2008
+S'Pericom Semiconductor Corp.'
+p2009
+sS'SUSQ'
+p2010
+S'Susquehanna Bancshares, Inc.'
+p2011
+sS'SUSP'
+p2012
+S'Susser Petroleum Partners LP'
+p2013
+sS'CBPO'
+p2014
+S'China Biologic Products, Inc.'
+p2015
+sS'MPB'
+p2016
+S'Mid Penn Bancorp Inc.'
+p2017
+sS'STEM'
+p2018
+S'StemCells Inc.'
+p2019
+sS'MPC'
+p2020
+S'Marathon Petroleum Corporation'
+p2021
+sS'ZAZA'
+p2022
+S'ZaZa Energy Corporation'
+p2023
+sS'ACPW'
+p2024
+S'Active Power Inc.'
+p2025
+sS'INUV'
+p2026
+S'Inuvo, Inc.'
+p2027
+sS'MMP'
+p2028
+S'Magellan Midstream Partners LP'
+p2029
+sS'MMS'
+p2030
+S'MAXIMUS, Inc.'
+p2031
+sS'MMM'
+p2032
+S'3M Company'
+p2033
+sS'GNCMA'
+p2034
+S'General Communication Inc.'
+p2035
+sS'HSNI'
+p2036
+S'HSN, Inc.'
+p2037
+sS'SBH'
+p2038
+S'Sally Beauty Holdings Inc.'
+p2039
+sS'MGYR'
+p2040
+S'Magyar Bancorp, Inc.'
+p2041
+sS'MMC'
+p2042
+S'Marsh & McLennan Companies, Inc.'
+p2043
+sS'HSON'
+p2044
+S'Hudson Global, Inc'
+p2045
+sS'BAS'
+p2046
+S'Basic Energy Services, Inc.'
+p2047
+sS'SUNE'
+p2048
+S'SunEdison, Inc.'
+p2049
+sS'VVUS'
+p2050
+S'VIVUS Inc.'
+p2051
+sS'GPN'
+p2052
+S'Global Payments Inc.'
+p2053
+sS'BAX'
+p2054
+S'Baxter International Inc.'
+p2055
+sS'FMBI'
+p2056
+S'First Midwest Bancorp Inc.'
+p2057
+sS'CAC'
+p2058
+S'Camden National Corp.'
+p2059
+sS'GM'
+p2060
+S'General Motors Company'
+p2061
+sS'BAC'
+p2062
+S'Bank of America Corporation'
+p2063
+sS'BNCL'
+p2064
+S'Beneficial Mutual Bancorp Inc.'
+p2065
+sS'KOP'
+p2066
+S'Koppers Holdings Inc.'
+p2067
+sS'KOS'
+p2068
+S'Kosmos Energy Ltd.'
+p2069
+sS'DPM'
+p2070
+S'DCP Midstream Partners LP'
+p2071
+sS'BAH'
+p2072
+S'Booz Allen Hamilton Holding Corporation'
+p2073
+sS'FFNM'
+p2074
+S'First Federal of Northern Michigan Bancorp, Inc.'
+p2075
+sS'HMPR'
+p2076
+S'Hampton Roads Bankshares Inc.'
+p2077
+sS'ADEP'
+p2078
+S'Adept Technology Inc.'
+p2079
+sS'QLTY'
+p2080
+S'Quality Distribution Inc.'
+p2081
+sS'ADES'
+p2082
+S'Advanced Emissions Solutions, Inc.'
+p2083
+sS'DATA'
+p2084
+S'Tableau Software, Inc.'
+p2085
+sS'BJRI'
+p2086
+S"BJ's Restaurants, Inc."
+p2087
+sS'VPG'
+p2088
+S'Vishay Precision Group, Inc.'
+p2089
+sS'MDCI'
+p2090
+S'Medical Action Industries Inc.'
+p2091
+sS'FBNK'
+p2092
+S'First Connecticut Bancorp, Inc.'
+p2093
+sS'QLTI'
+p2094
+S'QLT Inc.'
+p2095
+sS'CELG'
+p2096
+S'Celgene Corporation'
+p2097
+sS'FBNC'
+p2098
+S'First Bancorp'
+p2099
+sS'WETF'
+p2100
+S'WisdomTree Investments, Inc.'
+p2101
+sS'UWN'
+p2102
+S'Nevada Gold & Casinos Inc.'
+p2103
+sS'STE'
+p2104
+S'Steris Corp.'
+p2105
+sS'USATP'
+p2106
+S'USA Technologies, Inc.'
+p2107
+sS'NEOG'
+p2108
+S'Neogen Corp.'
+p2109
+sS'STC'
+p2110
+S'Stewart Information Services Corporation'
+p2111
+sS'SJI'
+p2112
+S'South Jersey Industries, Inc.'
+p2113
+sS'NEON'
+p2114
+S'Neonode, Inc.'
+p2115
+sS'STI'
+p2116
+S'SunTrust Banks, Inc.'
+p2117
+sS'SHLM'
+p2118
+S'A. Schulman, Inc.'
+p2119
+sS'WLFC'
+p2120
+S'Willis Lease Finance Corp.'
+p2121
+sS'RESI'
+p2122
+S'Altisource Residential Corporation'
+p2123
+sS'UDR'
+p2124
+S'UDR, Inc.'
+p2125
+sS'STR'
+p2126
+S'Questar Corporation'
+p2127
+sS'STS'
+p2128
+S'Supreme Industries Inc.'
+p2129
+sS'AGNCP'
+p2130
+S'American Capital Agency Corp.'
+p2131
+sS'WSFS'
+p2132
+S'WSFS Financial Corp.'
+p2133
+sS'STX'
+p2134
+S'Seagate Technology Public Limited Company'
+p2135
+sS'PFMT'
+p2136
+S'Performant Financial Corporation'
+p2137
+sS'STZ'
+p2138
+S'Constellation Brands Inc.'
+p2139
+sS'TFM'
+p2140
+S'The Fresh Market, Inc.'
+p2141
+sS'EDGW'
+p2142
+S'Edgewater Technology Inc.'
+p2143
+sS'CERE'
+p2144
+S'Ceres, Inc.'
+p2145
+sS'CERN'
+p2146
+S'Cerner Corporation'
+p2147
+sS'NCLH'
+p2148
+S'Norwegian Cruise Line Holdings Ltd.'
+p2149
+sS'NCR'
+p2150
+S'NCR Corp.'
+p2151
+sS'NCS'
+p2152
+S'NCI Building Systems Inc.'
+p2153
+sS'NCT'
+p2154
+S'Newcastle Investment Corp.'
+p2155
+sS'AVA'
+p2156
+S'Avista Corp.'
+p2157
+sS'NCI'
+p2158
+S'Navigant Consulting Inc.'
+p2159
+sS'CERS'
+p2160
+S'Cerus Corporation'
+p2161
+sS'SONT'
+p2162
+S'Seen On Screen TV, Inc.'
+p2163
+sS'RGCO'
+p2164
+S'RGC Resources, Inc.'
+p2165
+sS'GENC'
+p2166
+S'Gencor Industries Inc.'
+p2167
+sS'WAIR'
+p2168
+S'Wesco Aircraft Holdings, Inc.'
+p2169
+sS'MPX'
+p2170
+S'Marine Products Corp.'
+p2171
+sS'IFMI'
+p2172
+S'Institutional Financial Markets, Inc.'
+p2173
+sS'TMHC'
+p2174
+S'Taylor Morrison Home Corporation'
+p2175
+sS'SPTN'
+p2176
+S'Spartan Stores Inc.'
+p2177
+sS'ECOM'
+p2178
+S'ChannelAdvisor Corporation'
+p2179
+sS'ECOL'
+p2180
+S'US Ecology, Inc.'
+p2181
+sS'DNDN'
+p2182
+S'Dendreon Corp.'
+p2183
+sS'AXTI'
+p2184
+S'AXT Inc.'
+p2185
+sS'FNF'
+p2186
+S'Fidelity National Financial, Inc.'
+p2187
+sS'NEM'
+p2188
+S'Newmont Mining Corporation'
+p2189
+sS'FNB'
+p2190
+S'F.N.B. Corporation'
+p2191
+sS'PBIO'
+p2192
+S'Pressure BioSciences, Inc.'
+p2193
+sS'PDEX'
+p2194
+S'Pro-Dex Inc.'
+p2195
+sS'PBIB'
+p2196
+S'Porter Bancorp Inc.'
+p2197
+sS'CLVS'
+p2198
+S'Clovis Oncology, Inc.'
+p2199
+sS'XLNX'
+p2200
+S'Xilinx Inc.'
+p2201
+sS'DLHC'
+p2202
+S'DLH Holdings Corp.'
+p2203
+sS'PIKE'
+p2204
+S'Pike Corporation'
+p2205
+sS'WTR'
+p2206
+S'Aqua America Inc.'
+p2207
+sS'WTS'
+p2208
+S'Watts Water Technologies, Inc.'
+p2209
+sS'RP'
+p2210
+S'RealPage, Inc.'
+p2211
+sS'THC'
+p2212
+S'Tenet Healthcare Corp.'
+p2213
+sS'GERN'
+p2214
+S'Geron Corporation'
+p2215
+sS'RE'
+p2216
+S'Everest Re Group Ltd.'
+p2217
+sS'RF'
+p2218
+S'Regions Financial Corporation'
+p2219
+sS'RL'
+p2220
+S'Ralph Lauren Corporation'
+p2221
+sS'MOFG'
+p2222
+S'MidWest One Financial Group, Inc.'
+p2223
+sS'RH'
+p2224
+S'Restoration Hardware Holdings, Inc.'
+p2225
+sS'WTM'
+p2226
+S'White Mountains Insurance Group, Ltd.'
+p2227
+sS'UNAM'
+p2228
+S'Unico American Corp.'
+p2229
+sS'TPC'
+p2230
+S'Tutor Perini Corporation'
+p2231
+sS'HBNC'
+p2232
+S'Horizon Bancorp'
+p2233
+sS'HRT'
+p2234
+S'Arrhythmia Research Technology Inc.'
+p2235
+sS'MRK'
+p2236
+S'Merck & Co. Inc.'
+p2237
+sS'TPL'
+p2238
+S'Texas Pacific Land Trust'
+p2239
+sS'VGZ'
+p2240
+S'Vista Gold Corp.'
+p2241
+sS'HRS'
+p2242
+S'Harris Corporation'
+p2243
+sS'HLIT'
+p2244
+S'Harmonic Inc.'
+p2245
+sS'HRL'
+p2246
+S'Hormel Foods Corporation'
+p2247
+sS'MFSF'
+p2248
+S'Mutualfirst Financial Inc.'
+p2249
+sS'OFG'
+p2250
+S'OFG Bancorp'
+p2251
+sS'HRG'
+p2252
+S'Harbinger Group Inc.'
+p2253
+sS'PACB'
+p2254
+S'Pacific Biosciences of California, Inc.'
+p2255
+sS'HRC'
+p2256
+S'Hill-Rom Holdings, Inc.'
+p2257
+sS'BASI'
+p2258
+S'Bioanalytical Systems Inc.'
+p2259
+sS'IDIX'
+p2260
+S'Idenix Pharmaceuticals Inc.'
+p2261
+sS'LGCY'
+p2262
+S'Legacy Reserves LP'
+p2263
+sS'IACI'
+p2264
+S'IAC/InterActiveCorp'
+p2265
+sS'RHT'
+p2266
+S'Red Hat, Inc.'
+p2267
+sS'RHI'
+p2268
+S'Robert Half International Inc.'
+p2269
+sS'RMD'
+p2270
+S'ResMed Inc.'
+p2271
+sS'IVAC'
+p2272
+S'Intevac Inc.'
+p2273
+sS'PSUN'
+p2274
+S'Pacific Sunwear of California Inc.'
+p2275
+sS'OFLX'
+p2276
+S'OmegaFlex, Inc.'
+p2277
+sS'MTDR'
+p2278
+S'Matador Resources Company'
+p2279
+sS'WFM'
+p2280
+S'Whole Foods Market, Inc.'
+p2281
+sS'FCFS'
+p2282
+S'First Cash Financial Services Inc.'
+p2283
+sS'WFC'
+p2284
+S'Wells Fargo & Company'
+p2285
+sS'HZNP'
+p2286
+S'Horizon Pharma, Inc.'
+p2287
+sS'WFD'
+p2288
+S'Westfield Financial Inc.'
+p2289
+sS'WTT'
+p2290
+S'Wireless Telecom Group Inc.'
+p2291
+sS'CHTP'
+p2292
+S'Chelsea Therapeutics International Ltd.'
+p2293
+sS'COLM'
+p2294
+S'Columbia Sportswear Company'
+p2295
+sS'COLB'
+p2296
+S'Columbia Banking System Inc.'
+p2297
+sS'HFC'
+p2298
+S'HollyFrontier Corporation'
+p2299
+sS'WFT'
+p2300
+S'Weatherford International Ltd.'
+p2301
+sS'SGMA'
+p2302
+S'SigmaTron International Inc.'
+p2303
+sS'HSY'
+p2304
+S'The Hershey Company'
+p2305
+sS'CELGZ'
+p2306
+S'Celgene Corporation'
+p2307
+sS'DMND'
+p2308
+S'Diamond Foods, Inc.'
+p2309
+sS'RTN'
+p2310
+S'Raytheon Co.'
+p2311
+sS'RTI'
+p2312
+S'RTI International Metals, Inc.'
+p2313
+sS'RTK'
+p2314
+S'Rentech, Inc.'
+p2315
+sS'NES'
+p2316
+S'Nuverra Environmental Solutions, Inc.'
+p2317
+sS'SEIC'
+p2318
+S'SEI Investments Co.'
+p2319
+sS'SGMS'
+p2320
+S'Scientific Games Corporation'
+p2321
+sS'GFED'
+p2322
+S'Guaranty Federal Bancshares Inc.'
+p2323
+sS'SNSS'
+p2324
+S'Sunesis Pharmaceuticals, Inc.'
+p2325
+sS'HCCI'
+p2326
+S'Heritage-Crystal Clean, Inc'
+p2327
+sS'DRCO'
+p2328
+S'Dynamics Research Corporation'
+p2329
+sS'DISCA'
+p2330
+S'Discovery Communications, Inc.'
+p2331
+sS'DISCB'
+p2332
+S'Discovery Communications, Inc.'
+p2333
+sS'RFP'
+p2334
+S'Resolute Forest Products Inc.'
+p2335
+sS'END'
+p2336
+S'Endeavour International Corporation'
+p2337
+sS'OXY'
+p2338
+S'Occidental Petroleum Corporation'
+p2339
+sS'G'
+p2340
+S'Genpact Limited'
+p2341
+sS'ENH'
+p2342
+S'Endurance Specialty Holdings Ltd.'
+p2343
+sS'DISCK'
+p2344
+S'Discovery Communications, Inc.'
+p2345
+sS'WUHN'
+p2346
+S'Wuhan General Group'
+p2347
+sS'UGI'
+p2348
+S'UGI Corporation'
+p2349
+sS'STNR'
+p2350
+S'Steiner Leisure Ltd.'
+p2351
+sS'OXM'
+p2352
+S'Oxford Industries Inc.'
+p2353
+sS'ENR'
+p2354
+S'Energizer Holdings Inc.'
+p2355
+sS'ENS'
+p2356
+S'EnerSys'
+p2357
+sS'ENV'
+p2358
+S'Envestnet, Inc.'
+p2359
+sS'ISIS'
+p2360
+S'Isis Pharmaceuticals, Inc.'
+p2361
+sS'OXF'
+p2362
+S'Oxford Resource Partners, L.P.'
+p2363
+sS'SYY'
+p2364
+S'Sysco Corporation'
+p2365
+sS'SALM'
+p2366
+S'Salem Communications Corp.'
+p2367
+sS'FBRC'
+p2368
+S'FBR & Co.'
+p2369
+sS'NPSP'
+p2370
+S'NPS Pharmaceuticals, Inc.'
+p2371
+sS'TEN'
+p2372
+S'Tenneco Inc.'
+p2373
+sS'RALY'
+p2374
+S'Rally Software Development Corp.'
+p2375
+sS'CZR'
+p2376
+S'Caesars Entertainment Corporation'
+p2377
+sS'TOWR'
+p2378
+S'Tower International, Inc.'
+p2379
+sS'Z'
+p2380
+S'Zillow, Inc.'
+p2381
+sS'WCC'
+p2382
+S'WESCO International Inc.'
+p2383
+sS'LXRX'
+p2384
+S'Lexicon Pharmaceuticals, Inc.'
+p2385
+sS'CLDT'
+p2386
+S'Chatham Lodging Trust'
+p2387
+sS'LEAP'
+p2388
+S'Leap Wireless International Inc.'
+p2389
+sS'SMRT'
+p2390
+S'Stein Mart Inc.'
+p2391
+sS'RSTI'
+p2392
+S'Rofin-Sinar Technologies Inc.'
+p2393
+sS'CLDX'
+p2394
+S'Celldex Therapeutics, Inc.'
+p2395
+sS'TRNO'
+p2396
+S'Terreno Realty Corp.'
+p2397
+sS'RGP'
+p2398
+S'Regency Energy Partners LP'
+p2399
+sS'AGII'
+p2400
+S'Argo Group International Holdings, Ltd.'
+p2401
+sS'CVGI'
+p2402
+S'Commercial Vehicle Group Inc.'
+p2403
+sS'GRIF'
+p2404
+S'Griffin Land & Nurseries Inc.'
+p2405
+sS'CBST'
+p2406
+S'Cubist Pharmaceuticals Inc.'
+p2407
+sS'MCBI'
+p2408
+S'Metrocorp Bancshares Inc.'
+p2409
+sS'MCBF'
+p2410
+S'Monarch Community Bancorp Inc.'
+p2411
+sS'ATO'
+p2412
+S'Atmos Energy Corporation'
+p2413
+sS'MERR'
+p2414
+S'Merriman Holdings, Inc.'
+p2415
+sS'UTIW'
+p2416
+S'UTi Worldwide Inc.'
+p2417
+sS'ATK'
+p2418
+S'Alliant Techsystems Inc.'
+p2419
+sS'ATI'
+p2420
+S'Allegheny Technologies Inc.'
+p2421
+sS'ATW'
+p2422
+S'Atwood Oceanics, Inc.'
+p2423
+sS'ATU'
+p2424
+S'Actuant Corporation'
+p2425
+sS'ATR'
+p2426
+S'AptarGroup, Inc.'
+p2427
+sS'TNAV'
+p2428
+S'Telenav, Inc.'
+p2429
+sS'CBSH'
+p2430
+S'Commerce Bancshares, Inc.'
+p2431
+sS'NCMI'
+p2432
+S'National CineMedia, Inc.'
+p2433
+sS'CVGW'
+p2434
+S'Calavo Growers Inc.'
+p2435
+sS'ATX'
+p2436
+S'Costa Inc.'
+p2437
+sS'AAME'
+p2438
+S'Atlantic American Corp.'
+p2439
+sS'SEV'
+p2440
+S'Sevcon, Inc.'
+p2441
+sS'AXDX'
+p2442
+S'Accelerate Diagnostics, Inc.'
+p2443
+sS'PAA'
+p2444
+S'Plains All American Pipeline, L.P.'
+p2445
+sS'DAEG'
+p2446
+S'Daegis Inc.'
+p2447
+sS'SASR'
+p2448
+S'Sandy Spring Bancorp Inc.'
+p2449
+sS'DGIT'
+p2450
+S'Digital Generation, Inc.'
+p2451
+sS'PODD'
+p2452
+S'Insulet Corporation'
+p2453
+sS'PVA'
+p2454
+S'Penn Virginia Corporation'
+p2455
+sS'SEE'
+p2456
+S'Sealed Air Corporation'
+p2457
+sS'DGII'
+p2458
+S'Digi International Inc.'
+p2459
+sS'TTEK'
+p2460
+S'Tetra Tech Inc.'
+p2461
+sS'PVH'
+p2462
+S'PVH Corp.'
+p2463
+sS'SEM'
+p2464
+S'Select Medical Holdings Corporation'
+p2465
+sS'PATR'
+p2466
+S'Patriot Transportation Holding, Inc.'
+p2467
+sS'CALX'
+p2468
+S'Calix Inc.'
+p2469
+sS'FRF'
+p2470
+S'Fortegra Financial Corporation'
+p2471
+sS'RIMG'
+p2472
+S'Rimage Corporation'
+p2473
+sS'FRD'
+p2474
+S'Friedman Industries, Incorporated'
+p2475
+sS'CLD'
+p2476
+S'Cloud Peak Energy Inc.'
+p2477
+sS'CJJD'
+p2478
+S'China Jo-Jo Drugstores, Inc.'
+p2479
+sS'CLF'
+p2480
+S'Cliffs Natural Resources Inc.'
+p2481
+sS'CARV'
+p2482
+S'Carver Bancorp, Inc.'
+p2483
+sS'FRM'
+p2484
+S'Furmanite Corporation'
+p2485
+sS'CLC'
+p2486
+S'CLARCOR Inc.'
+p2487
+sS'FRS'
+p2488
+S"Frisch's Restaurants, Inc."
+p2489
+sS'JAKK'
+p2490
+S'JAKKS Pacific, Inc.'
+p2491
+sS'FRP'
+p2492
+S'Fairpoint Communications, Inc.'
+p2493
+sS'CLX'
+p2494
+S'The Clorox Company'
+p2495
+sS'FRT'
+p2496
+S'Federal Realty Investment Trust'
+p2497
+sS'CARB'
+p2498
+S'Carbonite, Inc.'
+p2499
+sS'HMSY'
+p2500
+S'HMS Holdings Corp.'
+p2501
+sS'FRX'
+p2502
+S'Forest Laboratories Inc.'
+p2503
+sS'CLR'
+p2504
+S'Continental Resources, Inc.'
+p2505
+sS'INFN'
+p2506
+S'Infinera Corporation'
+p2507
+sS'ISIL'
+p2508
+S'Intersil Corporation'
+p2509
+sS'PEOP'
+p2510
+S'Peoples Federal Bancshares, Inc.'
+p2511
+sS'INFI'
+p2512
+S'Infinity Pharmaceuticals, Inc.'
+p2513
+sS'FCTY'
+p2514
+S'1st Century Bancshares, Inc.'
+p2515
+sS'RATE'
+p2516
+S'Bankrate, Inc.'
+p2517
+sS'COBZ'
+p2518
+S'CoBiz Financial Inc.'
+p2519
+sS'ASFI'
+p2520
+S'Asta Funding Inc.'
+p2521
+sS'ZEP'
+p2522
+S'Zep, Inc.'
+p2523
+sS'FLTX'
+p2524
+S'Fleetmatics Group PLC'
+p2525
+sS'INFU'
+p2526
+S'InfuSystem Holdings, Inc.'
+p2527
+sS'COBK'
+p2528
+S'Colonial Financial Services, Inc.'
+p2529
+sS'SWI'
+p2530
+S'SolarWinds, Inc.'
+p2531
+sS'DO'
+p2532
+S'Diamond Offshore Drilling, Inc.'
+p2533
+sS'ACCO'
+p2534
+S'ACCO Brands Corporation'
+p2535
+sS'SWM'
+p2536
+S'Schweitzer-Mauduit International Inc.'
+p2537
+sS'DK'
+p2538
+S'Delek US Holdings, Inc.'
+p2539
+sS'TTWO'
+p2540
+S'Take-Two Interactive Software Inc.'
+p2541
+sS'PRTS'
+p2542
+S'U.S. Auto Parts Network, Inc.'
+p2543
+sS'DF'
+p2544
+S'Dean Foods Company'
+p2545
+sS'DG'
+p2546
+S'Dollar General Corporation'
+p2547
+sS'AUBN'
+p2548
+S'Auburn National Bancorporation, Inc.'
+p2549
+sS'DE'
+p2550
+S'Deere & Company'
+p2551
+sS'BPL'
+p2552
+S'Buckeye Partners, L.P.'
+p2553
+sS'MGLN'
+p2554
+S'Magellan Health Services Inc.'
+p2555
+sS'PMFG'
+p2556
+S'PMFG, Inc.'
+p2557
+sS'PRKR'
+p2558
+S'Parkervision Inc.'
+p2559
+sS'DXLG'
+p2560
+S'Destination XL Group, Inc.'
+p2561
+sS'DX'
+p2562
+S'Dynex Capital Inc.'
+p2563
+sS'DY'
+p2564
+S'Dycom Industries Inc.'
+p2565
+sS'DV'
+p2566
+S'DeVry Education Group Inc.'
+p2567
+sS'DW'
+p2568
+S'Drew Industries Incorporated'
+p2569
+sS'SWS'
+p2570
+S'SWS Group, Inc.'
+p2571
+sS'BPZ'
+p2572
+S'BPZ Resources, Inc.'
+p2573
+sS'CRIS'
+p2574
+S'Curis, Inc.'
+p2575
+sS'BOTJ'
+p2576
+S'Bank of the James Financial Group Inc.'
+p2577
+sS'NANO'
+p2578
+S'Nanometrics Incorporated'
+p2579
+sS'BOTA'
+p2580
+S'Biota Pharmaceuticals, Inc.'
+p2581
+sS'GEOS'
+p2582
+S'Geospace Technologies Corporation'
+p2583
+sS'SCCO'
+p2584
+S'Southern Copper Corp.'
+p2585
+sS'TCBI'
+p2586
+S'Texas Capital BancShares Inc.'
+p2587
+sS'LPHI'
+p2588
+S'Life Partners Holdings, Inc.'
+p2589
+sS'TCBK'
+p2590
+S'TriCo Bancshares'
+p2591
+sS'ATVI'
+p2592
+S'Activision Blizzard, Inc.'
+p2593
+sS'TGE'
+p2594
+S'TGC Industries Inc.'
+p2595
+sS'PNM'
+p2596
+S'PNM Resources, Inc.'
+p2597
+sS'TGI'
+p2598
+S'Triumph Group, Inc.'
+p2599
+sS'MYGN'
+p2600
+S'Myriad Genetics Inc.'
+p2601
+sS'BPFH'
+p2602
+S'Boston Private Financial Holdings, Inc.'
+p2603
+sS'INTG'
+p2604
+S'The InterGroup Corporation'
+p2605
+sS'LMNX'
+p2606
+S'Luminex Corporation'
+p2607
+sS'SYBT'
+p2608
+S'Stock Yards Bancorp, Inc.'
+p2609
+sS'DHI'
+p2610
+S'DR Horton Inc.'
+p2611
+sS'INTL'
+p2612
+S'INTL FCStone Inc.'
+p2613
+sS'RGLS'
+p2614
+S'Regulus Therapeutics Inc.'
+p2615
+sS'HWCC'
+p2616
+S'Houston Wire & Cable Company'
+p2617
+sS'INTU'
+p2618
+S'Intuit Inc.'
+p2619
+sS'INTT'
+p2620
+S'inTEST Corp.'
+p2621
+sS'MLP'
+p2622
+S'Maui Land & Pineapple Company, Inc.'
+p2623
+sS'DHX'
+p2624
+S'Dice Holdings, Inc.'
+p2625
+sS'BOFI'
+p2626
+S'BofI Holding, Inc.'
+p2627
+sS'AZPN'
+p2628
+S'Aspen Technology, Inc.'
+p2629
+sS'DHR'
+p2630
+S'Danaher Corp.'
+p2631
+sS'AJG'
+p2632
+S'Arthur J Gallagher & Co.'
+p2633
+sS'CACGW'
+p2634
+S'Chart Acquisition Corp.'
+p2635
+sS'CITZ'
+p2636
+S'CFS Bancorp Inc.'
+p2637
+sS'HGSH'
+p2638
+S'China HGS Real Estate Inc.'
+p2639
+sS'CFR'
+p2640
+S'Cullen/Frost Bankers, Inc.'
+p2641
+sS'TTMI'
+p2642
+S'TTM Technologies Inc.'
+p2643
+sS'NRG'
+p2644
+S'NRG Energy, Inc.'
+p2645
+sS'CACGU'
+p2646
+S'Chart Acquisition Corp.'
+p2647
+sS'VICL'
+p2648
+S'Vical Incorporated'
+p2649
+sS'VICR'
+p2650
+S'Vicor Corp.'
+p2651
+sS'CBEY'
+p2652
+S'Cbeyond, Inc.'
+p2653
+sS'PRTA'
+p2654
+S'Prothena Corporation plc'
+p2655
+sS'LCNB'
+p2656
+S'LCNB Corp.'
+p2657
+sS'PCMI'
+p2658
+S'PCM, Inc.'
+p2659
+sS'GTLS'
+p2660
+S'Chart Industries Inc.'
+p2661
+sS'NRP'
+p2662
+S'Natural Resource Partners LP'
+p2663
+sS'GIGA'
+p2664
+S'Giga-tronics Inc.'
+p2665
+sS'GLDC'
+p2666
+S'Golden Enterprises Inc.'
+p2667
+sS'PRIM'
+p2668
+S'Primoris Services Corporation'
+p2669
+sS'MEMP'
+p2670
+S'Memorial Production Partners LP'
+p2671
+sS'WG'
+p2672
+S'Willbros Group Inc.'
+p2673
+sS'WD'
+p2674
+S'Walker & Dunlop, Inc.'
+p2675
+sS'WBCO'
+p2676
+S'Washington Banking Co.'
+p2677
+sS'WM'
+p2678
+S'Waste Management, Inc.'
+p2679
+sS'IIVI'
+p2680
+S'II-VI Incorporated'
+p2681
+sS'WU'
+p2682
+S'The Western Union Company'
+p2683
+sS'MFRM'
+p2684
+S'Mattress Firm Holding Corp.'
+p2685
+sS'ULBI'
+p2686
+S'Ultralife Corp.'
+p2687
+sS'MFRI'
+p2688
+S'MFRI, Inc.'
+p2689
+sS'DKS'
+p2690
+S"Dick's Sporting Goods Inc."
+p2691
+sS'LTBR'
+p2692
+S'Lightbridge Corp.'
+p2693
+sS'HSC'
+p2694
+S'Harsco Corporation'
+p2695
+sS'OVTI'
+p2696
+S'OmniVision Technologies, Inc.'
+p2697
+sS'ARII'
+p2698
+S'American Railcar Industries, Inc.'
+p2699
+sS'SLAB'
+p2700
+S'Silicon Laboratories Inc.'
+p2701
+sS'HSH'
+p2702
+S'The Hillshire Brands Company'
+p2703
+sS'ARIA'
+p2704
+S'Ariad Pharmaceuticals Inc.'
+p2705
+sS'HSP'
+p2706
+S'Hospira Inc.'
+p2707
+sS'HST'
+p2708
+S'Host Hotels & Resorts, Inc.'
+p2709
+sS'ADI'
+p2710
+S'Analog Devices, Inc.'
+p2711
+sS'BUSE'
+p2712
+S'First Busey Corporation'
+p2713
+sS'CTSH'
+p2714
+S'Cognizant Technology Solutions Corporation'
+p2715
+sS'IART'
+p2716
+S'Integra LifeSciences Holdings Corporation'
+p2717
+sS'MED'
+p2718
+S'Medifast Inc.'
+p2719
+sS'H'
+p2720
+S'Hyatt Hotels Corporation'
+p2721
+sS'EQU'
+p2722
+S'Equal Energy Ltd.'
+p2723
+sS'HAE'
+p2724
+S'Haemonetics Corporation'
+p2725
+sS'MSFT'
+p2726
+S'Microsoft Corporation'
+p2727
+sS'TRMB'
+p2728
+S'Trimble Navigation Limited'
+p2729
+sS'CIFC'
+p2730
+S'CIFC Corp.'
+p2731
+sS'TRMK'
+p2732
+S'Trustmark Corporation'
+p2733
+sS'OVBC'
+p2734
+S'Ohio Valley Banc Corp.'
+p2735
+sS'RBCAA'
+p2736
+S'Republic Bancorp Inc.'
+p2737
+sS'SYA'
+p2738
+S'Symetra Financial Corporation'
+p2739
+sS'ZLTQ'
+p2740
+S'ZELTIQ Aesthetics, Inc.'
+p2741
+sS'VIAB'
+p2742
+S'Viacom, Inc.'
+p2743
+sS'SPEX'
+p2744
+S'Spherix Incorporated'
+p2745
+sS'LXP'
+p2746
+S'Lexington Realty Trust'
+p2747
+sS'SYK'
+p2748
+S'Stryker Corporation'
+p2749
+sS'LNDC'
+p2750
+S'Landec Corp.'
+p2751
+sS'XEC'
+p2752
+S'Cimarex Energy Co.'
+p2753
+sS'SYN'
+p2754
+S'Synthetic Biologics Inc.'
+p2755
+sS'CEMP'
+p2756
+S'Cempra, Inc.'
+p2757
+sS'CEMI'
+p2758
+S'Chembio Diagnostics, Inc.'
+p2759
+sS'RMKR'
+p2760
+S'Rainmaker Systems Inc.'
+p2761
+sS'REED'
+p2762
+S'REEDS, Inc.'
+p2763
+sS'OABC'
+p2764
+S'Omniamerican Bancorp, Inc.'
+p2765
+sS'LXK'
+p2766
+S'Lexmark International Inc.'
+p2767
+sS'GWRE'
+p2768
+S'Guidewire Software, Inc.'
+p2769
+sS'EME'
+p2770
+S'EMCOR Group Inc.'
+p2771
+sS'RGR'
+p2772
+S'Sturm, Ruger & Co. Inc.'
+p2773
+sS'RGS'
+p2774
+S'Regis Corp.'
+p2775
+sS'MHFI'
+p2776
+S'McGraw Hill Financial, Inc.'
+p2777
+sS'RGA'
+p2778
+S'Reinsurance Group of America Inc.'
+p2779
+sS'RGC'
+p2780
+S'Regal Entertainment Group'
+p2781
+sS'WTBA'
+p2782
+S'West Bancorp., Inc.'
+p2783
+sS'CNSL'
+p2784
+S'Consolidated Communications Holdings Inc.'
+p2785
+sS'LINE'
+p2786
+S'Linn Energy, LLC'
+p2787
+sS'CNSI'
+p2788
+S'Comverse, Inc.'
+p2789
+sS'SMSI'
+p2790
+S'Smith Micro Software Inc.'
+p2791
+sS'NWFL'
+p2792
+S'Norwood Financial Corp.'
+p2793
+sS'AFFY'
+p2794
+S'Affymax, Inc.'
+p2795
+sS'DCTH'
+p2796
+S'Delcath Systems, Inc.'
+p2797
+sS'CCMP'
+p2798
+S'Cabot Microelectronics Corporation'
+p2799
+sS'LDL'
+p2800
+S'Lydall Inc.'
+p2801
+sS'LDR'
+p2802
+S'Landauer Inc.'
+p2803
+sS'CLCT'
+p2804
+S'Collectors Universe Inc.'
+p2805
+sS'FBSS'
+p2806
+S'Fauquier Bankshares Inc.'
+p2807
+sS'FOR'
+p2808
+S'Forestar Group Inc.'
+p2809
+sS'AFFX'
+p2810
+S'Affymetrix Inc.'
+p2811
+sS'CLUB'
+p2812
+S'Town Sports International Holdings Inc.'
+p2813
+sS'VIAS'
+p2814
+S'Viasystems Group, Inc.'
+p2815
+sS'FOX'
+p2816
+S'Twenty-First Century Fox, Inc.'
+p2817
+sS'ECHO'
+p2818
+S'Echo Global Logistics, Inc.'
+p2819
+sS'FOE'
+p2820
+S'Ferro Corporation'
+p2821
+sS'AFFM'
+p2822
+S'Affirmative Insurance Holdings Inc.'
+p2823
+sS'JFBI'
+p2824
+S'Jefferson Bancshares Inc.'
+p2825
+sS'FUNC'
+p2826
+S'First United Corporation'
+p2827
+sS'PX'
+p2828
+S'Praxair Inc.'
+p2829
+sS'TSRO'
+p2830
+S'Tesaro, Inc.'
+p2831
+sS'JFBC'
+p2832
+S'Jeffersonville Bancorp'
+p2833
+sS'CPIX'
+p2834
+S'Cumberland Pharmaceuticals, Inc.'
+p2835
+sS'SYUT'
+p2836
+S'Synutra International Inc.'
+p2837
+sS'DLIA'
+p2838
+S'dELiA*s, Inc.'
+p2839
+sS'CZNC'
+p2840
+S'Citizens & Northern Corp.'
+p2841
+sS'QADA'
+p2842
+S'QAD Inc.'
+p2843
+sS'ULTI'
+p2844
+S'The Ultimate Software Group, Inc.'
+p2845
+sS'MKTX'
+p2846
+S'MarketAxess Holdings Inc.'
+p2847
+sS'MKTY'
+p2848
+S'Mechanical Technology, Incorporated'
+p2849
+sS'MPET'
+p2850
+S'Magellan Petroleum Corporation'
+p2851
+sS'WWD'
+p2852
+S'Woodward, Inc.'
+p2853
+sS'DBLE'
+p2854
+S'Double Eagle Petroleum Co.'
+p2855
+sS'MOGA'
+p2856
+S'Moog Inc.'
+p2857
+sS'MKTO'
+p2858
+S'Marketo, Inc.'
+p2859
+sS'COP'
+p2860
+S'ConocoPhillips'
+p2861
+sS'COR'
+p2862
+S'CoreSite Realty Corporation'
+p2863
+sS'COT'
+p2864
+S'Cott Corporation'
+p2865
+sS'OCLS'
+p2866
+S'Oculus Innovative Sciences, Inc.'
+p2867
+sS'COV'
+p2868
+S'Covidien plc'
+p2869
+sS'FSI'
+p2870
+S'Flexible Solutions International Inc.'
+p2871
+sS'FISI'
+p2872
+S'Financial Institutions Inc.'
+p2873
+sS'FSL'
+p2874
+S'Freescale Semiconductor, Ltd.'
+p2875
+sS'LMCA'
+p2876
+S'Liberty Media Corporation'
+p2877
+sS'FSP'
+p2878
+S'Franklin Street Properties Corp.'
+p2879
+sS'DAVE'
+p2880
+S"Famous Dave's of America Inc."
+p2881
+sS'FST'
+p2882
+S'Forest Oil Corporation'
+p2883
+sS'PEI'
+p2884
+S'Pennsylvania Real Estate Investment Trust'
+p2885
+sS'COG'
+p2886
+S'Cabot Oil & Gas Corporation'
+p2887
+sS'COF'
+p2888
+S'Capital One Financial Corporation'
+p2889
+sS'COH'
+p2890
+S'Coach, Inc.'
+p2891
+sS'PEG'
+p2892
+S'Public Service Enterprise Group Inc.'
+p2893
+sS'COL'
+p2894
+S'Rockwell Collins Inc.'
+p2895
+sS'COO'
+p2896
+S'The Cooper Companies Inc.'
+p2897
+sS'PZZI'
+p2898
+S'Pizza Inn Holdings, Inc.'
+p2899
+sS'ZBB'
+p2900
+S'ZBB Energy Corporation'
+p2901
+sS'WY'
+p2902
+S'Weyerhaeuser Co.'
+p2903
+sS'CASM'
+p2904
+S'CAS Medical Systems Inc.'
+p2905
+sS'CASH'
+p2906
+S'Meta Financial Group, Inc.'
+p2907
+sS'PENX'
+p2908
+S'Penford Corporation'
+p2909
+sS'ADVS'
+p2910
+S'Advent Software, Inc.'
+p2911
+sS'CASS'
+p2912
+S'Cass Information Systems, Inc.'
+p2913
+sS'AMWD'
+p2914
+S'American Woodmark Corp.'
+p2915
+sS'COCO'
+p2916
+S'Corinthian Colleges Inc.'
+p2917
+sS'OREX'
+p2918
+S'Orexigen Therapeutics, Inc.'
+p2919
+sS'CASY'
+p2920
+S"Casey's General Stores, Inc."
+p2921
+sS'RGLD'
+p2922
+S'Royal Gold, Inc.'
+p2923
+sS'MDVN'
+p2924
+S'Medivation, Inc.'
+p2925
+sS'TWI'
+p2926
+S'Titan International Inc.'
+p2927
+sS'WAG'
+p2928
+S'Walgreen Co.'
+p2929
+sS'MRGE'
+p2930
+S'Merge Healthcare Incorporated'
+p2931
+sS'RELL'
+p2932
+S'Richardson Electronics Ltd.'
+p2933
+sS'GMETP'
+p2934
+S'GeoMet, Inc.'
+p2935
+sS'ULTA'
+p2936
+S'ULTA Salon, Cosmetics & Fragrance, Inc.'
+p2937
+sS'TAYCP'
+p2938
+S'Taylor Capital Group, Inc.'
+p2939
+sS'GLCH'
+p2940
+S'Gleacher & Company, Inc'
+p2941
+sS'WAT'
+p2942
+S'Waters Corporation'
+p2943
+sS'CAAS'
+p2944
+S'China Automotive Systems Inc.'
+p2945
+sS'SVBL'
+p2946
+S'Silver Bull Resources, Inc.'
+p2947
+sS'UFI'
+p2948
+S'Unifi Inc.'
+p2949
+sS'PLOW'
+p2950
+S'Douglas Dynamics, Inc.'
+p2951
+sS'ALIM'
+p2952
+S'Alimera Sciences, Inc.'
+p2953
+sS'BLMT'
+p2954
+S'BSB Bancorp, Inc.'
+p2955
+sS'FCEL'
+p2956
+S'FuelCell Energy Inc.'
+p2957
+sS'NYMT'
+p2958
+S'New York Mortgage Trust Inc.'
+p2959
+sS'RUE'
+p2960
+S'rue21, Inc.'
+p2961
+sS'BLMN'
+p2962
+S"Bloomin' Brands, Inc."
+p2963
+sS'JNGW'
+p2964
+S'Jingwei International Limited'
+p2965
+sS'VHI'
+p2966
+S'Valhi, Inc.'
+p2967
+sS'TELK'
+p2968
+S'Telik Inc.'
+p2969
+sS'UFS'
+p2970
+S'Domtar Corporation'
+p2971
+sS'TYPE'
+p2972
+S'Monotype Imaging Holdings Inc.'
+p2973
+sS'LIOX'
+p2974
+S'Lionbridge Technologies Inc.'
+p2975
+sS'DIN'
+p2976
+S'DineEquity, Inc.'
+p2977
+sS'FNSR'
+p2978
+S'Finisar Corp.'
+p2979
+sS'MKC'
+p2980
+S'McCormick & Company, Incorporated'
+p2981
+sS'GNW'
+p2982
+S'Genworth Financial Inc.'
+p2983
+sS'AIZ'
+p2984
+S'Assurant Inc.'
+p2985
+sS'AIT'
+p2986
+S'Applied Industrial Technologies, Inc.'
+p2987
+sS'AIV'
+p2988
+S'Apartment Investment and Management Company'
+p2989
+sS'AIQ'
+p2990
+S'Alliance Healthcare Services, Inc.'
+p2991
+sS'AMED'
+p2992
+S'Amedisys Inc.'
+p2993
+sS'VDSI'
+p2994
+S'VASCO Data Security International Inc.'
+p2995
+sS'AIR'
+p2996
+S'AAR Corp.'
+p2997
+sS'GNC'
+p2998
+S'GNC Holdings Inc.'
+p2999
+sS'CSHB'
+p3000
+S'Community Shores Bank Corp.'
+p3001
+sS'CUTR'
+p3002
+S'Cutera, Inc.'
+p3003
+sS'GNE'
+p3004
+S'Genie Energy Ltd.'
+p3005
+sS'DIT'
+p3006
+S'AMCON Distributing Co.'
+p3007
+sS'INSY'
+p3008
+S'INSYS Therapeutics, Inc.'
+p3009
+sS'AIG'
+p3010
+S'American International Group, Inc.'
+p3011
+sS'GNI'
+p3012
+S'Great Northern Iron Ore Properties'
+p3013
+sS'DIS'
+p3014
+S'The Walt Disney Company'
+p3015
+sS'NSH'
+p3016
+S'NuStar GP Holdings, LLC'
+p3017
+sS'QADB'
+p3018
+S'QAD Inc.'
+p3019
+sS'MEAS'
+p3020
+S'Measurement Specialties Inc.'
+p3021
+sS'NSM'
+p3022
+S'Nationstar Mortgage Holdings Inc.'
+p3023
+sS'MNST'
+p3024
+S'Monster Beverage Corporation'
+p3025
+sS'NSC'
+p3026
+S'Norfolk Southern Corporation'
+p3027
+sS'FHCO'
+p3028
+S'The Female Health Company'
+p3029
+sS'PCYG'
+p3030
+S'Park City Group Inc.'
+p3031
+sS'CHH'
+p3032
+S'Choice Hotels International Inc.'
+p3033
+sS'MKTG'
+p3034
+S'Responsys, Inc.'
+p3035
+sS'MEAD'
+p3036
+S'Meade Instruments Corp.'
+p3037
+sS'NSP'
+p3038
+S'Insperity, Inc.'
+p3039
+sS'NSR'
+p3040
+S'NeuStar, Inc.'
+p3041
+sS'VPRT'
+p3042
+S'Vistaprint N.V.'
+p3043
+sS'NSPH'
+p3044
+S'Nanosphere, Inc.'
+p3045
+sS'AERG'
+p3046
+S'Applied Energetics, Inc.'
+p3047
+sS'PANW'
+p3048
+S'Palo Alto Networks, Inc.'
+p3049
+sS'CBRX'
+p3050
+S'Columbia Laboratories Inc.'
+p3051
+sS'VOLC'
+p3052
+S'Volcano Corporation'
+p3053
+sS'TXN'
+p3054
+S'Texas Instruments Inc.'
+p3055
+sS'IP'
+p3056
+S'International Paper Company'
+p3057
+sS'IR'
+p3058
+S'Ingersoll-Rand Plc'
+p3059
+sS'IT'
+p3060
+S'Gartner Inc.'
+p3061
+sS'UTL'
+p3062
+S'Unitil Corp.'
+p3063
+sS'AERT'
+p3064
+S'Advanced Environmental Recycling Technologies, Inc.'
+p3065
+sS'CBRL'
+p3066
+S'Cracker Barrel Old Country Store, Inc.'
+p3067
+sS'DDDC'
+p3068
+S'deltathree, Inc.'
+p3069
+sS'IM'
+p3070
+S'Ingram Micro Inc.'
+p3071
+sS'IL'
+p3072
+S'IntraLinks Holdings, Inc.'
+p3073
+sS'IO'
+p3074
+S'ION Geophysical Corporation'
+p3075
+sS'ELNK'
+p3076
+S'EarthLink Holdings Corp.'
+p3077
+sS'IRC'
+p3078
+S'Inland Real Estate Corp.'
+p3079
+sS'LII'
+p3080
+S'Lennox International, Inc.'
+p3081
+sS'IG'
+p3082
+S'IGI, Laboratories, Inc.'
+p3083
+sS'IRG'
+p3084
+S'Ignite Restaurant Group, Inc.'
+p3085
+sS'RCKY'
+p3086
+S'Rocky Brands, Inc.'
+p3087
+sS'SATS'
+p3088
+S'EchoStar Corp.'
+p3089
+sS'HOTR'
+p3090
+S'Chanticleer Holdings, Inc.'
+p3091
+sS'RSOL'
+p3092
+S'Real Goods Solar, Inc.'
+p3093
+sS'ACRX'
+p3094
+S'AcelRx Pharmaceuticals, Inc.'
+p3095
+sS'ASYS'
+p3096
+S'Amtech Systems Inc.'
+p3097
+sS'NUTR'
+p3098
+S'Nutraceutical International Corporation'
+p3099
+sS'PWX'
+p3100
+S'Providence and Worcester Railroad Company'
+p3101
+sS'DXCM'
+p3102
+S'DexCom, Inc.'
+p3103
+sS'TBAC'
+p3104
+S'Tandy Brands Accessories, Inc.'
+p3105
+sS'ACRE'
+p3106
+S'Ares Commercial Real Estate Corporation'
+p3107
+sS'MRH'
+p3108
+S'Montpelier Re Holdings Ltd.'
+p3109
+sS'RCKB'
+p3110
+S'Rockville Financial Inc.'
+p3111
+sS'BOX'
+p3112
+S'Box Ships Inc.'
+p3113
+sS'HBI'
+p3114
+S'Hanesbrands Inc.'
+p3115
+sS'CTRN'
+p3116
+S'Citi Trends, Inc.'
+p3117
+sS'RRGB'
+p3118
+S'Red Robin Gourmet Burgers Inc.'
+p3119
+sS'FTEK'
+p3120
+S'Fuel-Tech, Inc.'
+p3121
+sS'EGOV'
+p3122
+S'NIC Inc.'
+p3123
+sS'BOH'
+p3124
+S'Bank of Hawaii Corporation'
+p3125
+sS'EPL'
+p3126
+S'EPL Oil & Gas, Inc.'
+p3127
+sS'EPM'
+p3128
+S'Evolution Petroleum Corp.'
+p3129
+sS'NAV'
+p3130
+S'Navistar International Corporation'
+p3131
+sS'GTAT'
+p3132
+S'GT Advanced Technologies Inc.'
+p3133
+sS'PRFT'
+p3134
+S'Perficient Inc.'
+p3135
+sS'TOF'
+p3136
+S'Tofutti Brands Inc.'
+p3137
+sS'SHLD'
+p3138
+S'Sears Holdings Corporation'
+p3139
+sS'WAFD'
+p3140
+S'Washington Federal Inc.'
+p3141
+sS'PG'
+p3142
+S'The Procter & Gamble Company'
+p3143
+sS'CENX'
+p3144
+S'Century Aluminum Co.'
+p3145
+sS'SXC'
+p3146
+S'SunCoke Energy Inc.'
+p3147
+sS'ABCB'
+p3148
+S'Ameris Bancorp'
+p3149
+sS'JOSB'
+p3150
+S'Jos. A Bank Clothiers Inc.'
+p3151
+sS'SXI'
+p3152
+S'Standex International Corporation'
+p3153
+sS'SXL'
+p3154
+S'Sunoco Logistics Partners L.P.'
+p3155
+sS'CENT'
+p3156
+S'Central Garden & Pet Company'
+p3157
+sS'CGNX'
+p3158
+S'Cognex Corporation'
+p3159
+sS'SXT'
+p3160
+S'Sensient Technologies Corporation'
+p3161
+sS'VIRC'
+p3162
+S'Virco Mfg. Corporation'
+p3163
+sS'LYB'
+p3164
+S'LyondellBasell Industries NV'
+p3165
+sS'SF'
+p3166
+S'Stifel Financial Corp.'
+p3167
+sS'FFBCW'
+p3168
+S'First Financial Bancorp.'
+p3169
+sS'KKD'
+p3170
+S'Krispy Kreme Doughnuts, Inc.'
+p3171
+sS'VVC'
+p3172
+S'Vectren Corporation'
+p3173
+sS'BWLD'
+p3174
+S'Buffalo Wild Wings Inc.'
+p3175
+sS'UTI'
+p3176
+S'Universal Technical Institute, Inc.'
+p3177
+sS'PFSW'
+p3178
+S'PFSweb Inc.'
+p3179
+sS'HAFC'
+p3180
+S'Hanmi Financial Corporation'
+p3181
+sS'VYFC'
+p3182
+S'Valley Financial Corporation'
+p3183
+sS'SAFM'
+p3184
+S'Sanderson Farms, Inc.'
+p3185
+sS'PEP'
+p3186
+S'Pepsico, Inc.'
+p3187
+sS'DSCO'
+p3188
+S'Discovery Laboratories Inc.'
+p3189
+sS'HIBB'
+p3190
+S'Hibbett Sports, Inc.'
+p3191
+sS'DSCI'
+p3192
+S'Derma Sciences Inc.'
+p3193
+sS'HOFT'
+p3194
+S'Hooker Furniture Corp.'
+p3195
+sS'SVT'
+p3196
+S'Servotronics Inc.'
+p3197
+sS'PES'
+p3198
+S'Pioneer Energy Services Corp.'
+p3199
+sS'PFSI'
+p3200
+S'PennyMac Financial Services, Inc.'
+p3201
+sS'TXT'
+p3202
+S'Textron Inc.'
+p3203
+sS'MDSO'
+p3204
+S'Medidata Solutions, Inc.'
+p3205
+sS'NCBC'
+p3206
+S'New Century Bancorp Inc.'
+p3207
+sS'BOKF'
+p3208
+S'BOK Financial Corporation'
+p3209
+sS'GXP'
+p3210
+S'Great Plains Energy Incorporated'
+p3211
+sS'AMKR'
+p3212
+S'Amkor Technology, Inc.'
+p3213
+sS'PESI'
+p3214
+S'Perma-Fix Environmental Services Inc.'
+p3215
+sS'FISV'
+p3216
+S'Fiserv, Inc.'
+p3217
+sS'TPX'
+p3218
+S'Tempur Sealy International Inc.'
+p3219
+sS'NRTLQ'
+p3220
+S'Nortel Networks Corporation'
+p3221
+sS'ISLE'
+p3222
+S'Isle of Capri Casinos, Inc.'
+p3223
+sS'MTRN'
+p3224
+S'Materion Corporation'
+p3225
+sS'CPHD'
+p3226
+S'Cepheid'
+p3227
+sS'EXH'
+p3228
+S'Exterran Holdings, Inc.'
+p3229
+sS'FLR'
+p3230
+S'Fluor Corporation'
+p3231
+sS'FLT'
+p3232
+S'FleetCor Technologies, Inc.'
+p3233
+sS'DNBF'
+p3234
+S'DNB Financial Corp.'
+p3235
+sS'DBD'
+p3236
+S'Diebold, Incorporated'
+p3237
+sS'FLL'
+p3238
+S'Full House Resorts Inc.'
+p3239
+sS'FLO'
+p3240
+S'Flowers Foods, Inc.'
+p3241
+sS'ZLCS'
+p3242
+S'Zalicus Inc.'
+p3243
+sS'AE'
+p3244
+S'Adams Resources & Energy Inc.'
+p3245
+sS'APU'
+p3246
+S'AmeriGas Partners LP'
+p3247
+sS'FONR'
+p3248
+S'Fonar Corp.'
+p3249
+sS'LKQ'
+p3250
+S'LKQ Corp.'
+p3251
+sS'BRKS'
+p3252
+S'Brooks Automation, Inc.'
+p3253
+sS'BRKR'
+p3254
+S'Bruker Corporation'
+p3255
+sS'PEB'
+p3256
+S'Pebblebrook Hotel Trust'
+p3257
+sS'EFII'
+p3258
+S'Electronics for Imaging, Inc.'
+p3259
+sS'LIWA'
+p3260
+S'Lihua International, Inc.'
+p3261
+sS'BDGE'
+p3262
+S'Bridge Bancorp, Inc.'
+p3263
+sS'SUPN'
+p3264
+S'Supernus Pharmaceuticals, Inc.'
+p3265
+sS'TRC'
+p3266
+S'Tejon Ranch Co.'
+p3267
+sS'STRT'
+p3268
+S'STRATTEC Security Corporation'
+p3269
+sS'AGIIL'
+p3270
+S'Argo Group International Holdin'
+p3271
+sS'TRT'
+p3272
+S'Trio-Tech International'
+p3273
+sS'TRW'
+p3274
+S'TRW Automotive Holdings Corp.'
+p3275
+sS'TRV'
+p3276
+S'The Travelers Companies, Inc.'
+p3277
+sS'SFE'
+p3278
+S'Safeguard Scientifics, Inc.'
+p3279
+sS'HTA'
+p3280
+S'Healthcare Trust of America, Inc.'
+p3281
+sS'HTM'
+p3282
+S'U.S. Geothermal Inc.'
+p3283
+sS'HOT'
+p3284
+S'Starwood Hotels & Resorts Worldwide Inc.'
+p3285
+sS'DYII'
+p3286
+S'Dynacq Healthcare Inc.'
+p3287
+sS'LCUT'
+p3288
+S'Lifetime Brands, Inc.'
+p3289
+sS'SSTK'
+p3290
+S'Shutterstock, Inc.'
+p3291
+sS'HTS'
+p3292
+S'Hatteras Financial Corp'
+p3293
+sS'HTBI'
+p3294
+S'HomeTrust Bancshares, Inc.'
+p3295
+sS'HTZ'
+p3296
+S'Hertz Global Holdings, Inc.'
+p3297
+sS'FMNB'
+p3298
+S'Farmers National Banc Corp.'
+p3299
+sS'GLBZ'
+p3300
+S'Glen Burnie Bancorp'
+p3301
+sS'GNRC'
+p3302
+S'Generac Holdings Inc.'
+p3303
+sS'FLDM'
+p3304
+S'Fluidigm Corporation'
+p3305
+sS'BMTC'
+p3306
+S'Bryn Mawr Bank Corp.'
+p3307
+sS'NI'
+p3308
+S'NiSource Inc.'
+p3309
+sS'NIHD'
+p3310
+S'NII Holdings Inc.'
+p3311
+sS'NL'
+p3312
+S'NL Industries Inc.'
+p3313
+sS'AGYS'
+p3314
+S'Agilysys Inc.'
+p3315
+sS'NC'
+p3316
+S'Nacco Industries Inc.'
+p3317
+sS'RRC'
+p3318
+S'Range Resources Corporation'
+p3319
+sS'MCRS'
+p3320
+S'MICROS Systems, Inc.'
+p3321
+sS'UEC'
+p3322
+S'Uranium Energy Corp.'
+p3323
+sS'TNH'
+p3324
+S'Terra Nitrogen Company, L.P.'
+p3325
+sS'NX'
+p3326
+S'Quanex Building Products Corporation'
+p3327
+sS'TECH'
+p3328
+S'Techne Corp.'
+p3329
+sS'MCRI'
+p3330
+S'Monarch Casino & Resort Inc.'
+p3331
+sS'NP'
+p3332
+S'Neenah Paper, Inc.'
+p3333
+sS'DMLP'
+p3334
+S'Dorchester Minerals LP'
+p3335
+sS'NR'
+p3336
+S'Newpark Resources Inc.'
+p3337
+sS'NS'
+p3338
+S'NuStar Energy L.P.'
+p3339
+sS'NU'
+p3340
+S'Northeast Utilities'
+p3341
+sS'DRAD'
+p3342
+S'Digirad Corporation'
+p3343
+sS'BCOV'
+p3344
+S'Brightcove, Inc.'
+p3345
+sS'ELY'
+p3346
+S'Callaway Golf Co.'
+p3347
+sS'BCOR'
+p3348
+S'Blucora, Inc.'
+p3349
+sS'PENN'
+p3350
+S'Penn National Gaming Inc.'
+p3351
+sS'DRAM'
+p3352
+S'Dataram Corporation'
+p3353
+sS'WAVE'
+p3354
+S'NEXTWAVE WIRLESS'
+p3355
+sS'RDI'
+p3356
+S'Reading International, Inc.'
+p3357
+sS'NTIC'
+p3358
+S'Northern Technologies International Corp.'
+p3359
+sS'ICON'
+p3360
+S'Iconix Brand Group, Inc.'
+p3361
+sS'LEA'
+p3362
+S'Lear Corp.'
+p3363
+sS'FBP'
+p3364
+S'First Bancorp'
+p3365
+sS'SMLP'
+p3366
+S'Summit Midstream Partners, LP'
+p3367
+sS'LEE'
+p3368
+S'Lee Enterprises, Incorporated'
+p3369
+sS'FRME'
+p3370
+S'First Merchants Corporation'
+p3371
+sS'LEG'
+p3372
+S'Leggett & Platt, Incorporated'
+p3373
+sS'LEI'
+p3374
+S'Lucas Energy, Inc.'
+p3375
+sS'CLBH'
+p3376
+S'Carolina Bank Holdings Inc.'
+p3377
+sS'LEN'
+p3378
+S'Lennar Corp.'
+p3379
+sS'FBC'
+p3380
+S'Flagstar Bancorp Inc.'
+p3381
+sS'WEST'
+p3382
+S'Andalay Solar, Inc.'
+p3383
+sS'NLNK'
+p3384
+S'NewLink Genetics Corporation'
+p3385
+sS'CMTL'
+p3386
+S'Comtech Telecommunications Corp.'
+p3387
+sS'USB'
+p3388
+S'U.S. Bancorp'
+p3389
+sS'CDII'
+p3390
+S'CD International Enterprises, Inc.'
+p3391
+sS'PAMT'
+p3392
+S'Parametric Sound Corporation'
+p3393
+sS'PFBI'
+p3394
+S'Premier Financial Bancorp Inc.'
+p3395
+sS'AZZ'
+p3396
+S'AZZ incorporated'
+p3397
+sS'GFIG'
+p3398
+S'GFI Group Inc.'
+p3399
+sS'MXIM'
+p3400
+S'Maxim Integrated Products, Inc.'
+p3401
+sS'SMTX'
+p3402
+S'SMTC Corporation'
+p3403
+sS'PCAR'
+p3404
+S'PACCAR Inc.'
+p3405
+sS'IMGN'
+p3406
+S'ImmunoGen, Inc.'
+p3407
+sS'SGY'
+p3408
+S'Stone Energy Corp.'
+p3409
+sS'USMD'
+p3410
+S'USMD Holdings, Inc.'
+p3411
+sS'TTGT'
+p3412
+S'TechTarget, Inc.'
+p3413
+sS'SGI'
+p3414
+S'Silicon Graphics International Corp.'
+p3415
+sS'SGA'
+p3416
+S'Saga Communications Inc.'
+p3417
+sS'SGC'
+p3418
+S'Superior Uniform Group Inc.'
+p3419
+sS'SGB'
+p3420
+S'Southwest Georgia Financial Corp.'
+p3421
+sS'PXD'
+p3422
+S'Pioneer Natural Resources Co.'
+p3423
+sS'PBSK'
+p3424
+S'Poage Bankshares, Inc.'
+p3425
+sS'CNW'
+p3426
+S'Con-way Inc.'
+p3427
+sS'ICH'
+p3428
+S'Investors Capital Holdings, Ltd.'
+p3429
+sS'STFC'
+p3430
+S'State Auto Financial Corp.'
+p3431
+sS'CNS'
+p3432
+S'Cohen & Steers Inc.'
+p3433
+sS'NLP'
+p3434
+S'NTS Realty Holdings LP'
+p3435
+sS'FIRE'
+p3436
+S'Sourcefire, Inc.'
+p3437
+sS'FPO'
+p3438
+S'First Potomac Realty Trust'
+p3439
+sS'CWST'
+p3440
+S'Casella Waste Systems Inc.'
+p3441
+sS'CNX'
+p3442
+S'CONSOL Energy Inc.'
+p3443
+sS'HTWR'
+p3444
+S'Heartware International Inc.'
+p3445
+sS'VSH'
+p3446
+S'Vishay Intertechnology Inc.'
+p3447
+sS'FPP'
+p3448
+S'Fieldpoint Petroleum Corp.'
+p3449
+sS'CNA'
+p3450
+S'CNA Financial Corporation'
+p3451
+sS'CNO'
+p3452
+S'CNO Financial Group, Inc.'
+p3453
+sS'CNL'
+p3454
+S'Cleco Corporation'
+p3455
+sS'ANLY'
+p3456
+S'Analysts International Corp.'
+p3457
+sS'CNK'
+p3458
+S'Cinemark Holdings Inc.'
+p3459
+sS'AHPI'
+p3460
+S'Allied Healthcare Products Inc.'
+p3461
+sS'PSMI'
+p3462
+S'Peregrine Semiconductor Corporation'
+p3463
+sS'MAXY'
+p3464
+S'Maxygen, Inc.'
+p3465
+sS'PFE'
+p3466
+S'Pfizer Inc.'
+p3467
+sS'SOFO'
+p3468
+S'Sonic Foundry, Inc.'
+p3469
+sS'PFG'
+p3470
+S'Principal Financial Group Inc.'
+p3471
+sS'AMTY'
+p3472
+S'Amerityre Corporation'
+p3473
+sS'MRTN'
+p3474
+S'Marten Transport Ltd.'
+p3475
+sS'DXR'
+p3476
+S'Daxor Corp.'
+p3477
+sS'CATO'
+p3478
+S'The Cato Corporation'
+p3479
+sS'DXM'
+p3480
+S'Dex Media, Inc.'
+p3481
+sS'INDB'
+p3482
+S'Independent Bank Corp.'
+p3483
+sS'CATY'
+p3484
+S'Cathay General Bancorp'
+p3485
+sS'AMTD'
+p3486
+S'TD Ameritrade Holding Corporation'
+p3487
+sS'HIIQ'
+p3488
+S'Health Insurance Innovations, Inc.'
+p3489
+sS'PSMT'
+p3490
+S'PriceSmart Inc.'
+p3491
+sS'PNRA'
+p3492
+S'Panera Bread Company'
+p3493
+sS'FCZA'
+p3494
+S'First Citizens Banc Corp.'
+p3495
+sS'UTX'
+p3496
+S'United Technologies Corp.'
+p3497
+sS'TITN'
+p3498
+S'Titan Machinery, Inc.'
+p3499
+sS'JBHT'
+p3500
+S'JB Hunt Transport Services Inc.'
+p3501
+sS'LSTR'
+p3502
+S'Landstar System Inc.'
+p3503
+sS'PFPT'
+p3504
+S'Proofpoint, Inc.'
+p3505
+sS'ACEL'
+p3506
+S'Tamir Biotechnology, Inc.'
+p3507
+sS'NVE'
+p3508
+S'NVE Corp.'
+p3509
+sS'SIX'
+p3510
+S'Six Flags Entertainment Corporation'
+p3511
+sS'SIG'
+p3512
+S'Signet Jewelers Limited'
+p3513
+sS'SWN'
+p3514
+S'Southwestern Energy Co.'
+p3515
+sS'GAIA'
+p3516
+S'Gaiam Inc.'
+p3517
+sS'IEC'
+p3518
+S'IEC Electronics Corp.'
+p3519
+sS'TIGR'
+p3520
+S'TigerLogic Corporation'
+p3521
+sS'ACET'
+p3522
+S'Aceto Corp.'
+p3523
+sS'TAT'
+p3524
+S'TransAtlantic Petroleum Ltd.'
+p3525
+sS'WRLD'
+p3526
+S'World Acceptance Corp.'
+p3527
+sS'TAP'
+p3528
+S'Molson Coors Brewing Company'
+p3529
+sS'VSAT'
+p3530
+S'ViaSat Inc.'
+p3531
+sS'RLGY'
+p3532
+S'Realogy Holdings Corp.'
+p3533
+sS'PPHM'
+p3534
+S'Peregrine Pharmaceuticals, Inc.'
+p3535
+sS'AVAV'
+p3536
+S'AeroVironment, Inc.'
+p3537
+sS'QLGC'
+p3538
+S'QLogic Corp.'
+p3539
+sS'CZWI'
+p3540
+S'Citizens Community Bancorp, Inc.'
+p3541
+sS'TAX'
+p3542
+S'JTH Holding, Inc.'
+p3543
+sS'NGLS'
+p3544
+S'Targa Resources Partners LP'
+p3545
+sS'TAL'
+p3546
+S'TAL International Group, Inc.'
+p3547
+sS'TAM'
+p3548
+S'Taminco Corporation'
+p3549
+sS'BODY'
+p3550
+S'Body Central Corp.'
+p3551
+sS'FSGI'
+p3552
+S'First Security Group, Inc.'
+p3553
+sS'RJET'
+p3554
+S'Republic Airways Holdings Inc.'
+p3555
+sS'GIS'
+p3556
+S'General Mills, Inc.'
+p3557
+sS'UFPT'
+p3558
+S'UFP Technologies, Inc.'
+p3559
+sS'MJN'
+p3560
+S'Mead Johnson Nutrition Company'
+p3561
+sS'GIG'
+p3562
+S'GigOptix, Inc.'
+p3563
+sS'FLXS'
+p3564
+S'Flexsteel Industries Inc.'
+p3565
+sS'LION'
+p3566
+S'Fidelity Southern Corporation'
+p3567
+sS'CMFO'
+p3568
+S'China Marine Food Group Limited'
+p3569
+sS'CSII'
+p3570
+S'Cardiovascular Systems Inc.'
+p3571
+sS'AMZN'
+p3572
+S'Amazon.com Inc.'
+p3573
+sS'WSBC'
+p3574
+S'WesBanco Inc.'
+p3575
+sS'AHC'
+p3576
+S'A. H. Belo Corporation'
+p3577
+sS'NPO'
+p3578
+S'EnPro Industries, Inc.'
+p3579
+sS'HSKA'
+p3580
+S'Heska Corporation'
+p3581
+sS'VTSS'
+p3582
+S'Vitesse Semiconductor Corp.'
+p3583
+sS'LOOK'
+p3584
+S'LookSmart, Ltd.'
+p3585
+sS'NPK'
+p3586
+S'National Presto Industries Inc.'
+p3587
+sS'MENT'
+p3588
+S'Mentor Graphics Corp.'
+p3589
+sS'CTCT'
+p3590
+S'Constant Contact, Inc.'
+p3591
+sS'AHL'
+p3592
+S'Aspen Insurance Holdings Ltd.'
+p3593
+sS'ITRI'
+p3594
+S'Itron, Inc.'
+p3595
+sS'AHS'
+p3596
+S'AMN Healthcare Services Inc.'
+p3597
+sS'MNRK'
+p3598
+S'Monarch Financial Holdings, Inc.'
+p3599
+sS'RICK'
+p3600
+S"Rick's Cabaret International Inc."
+p3601
+sS'AHT'
+p3602
+S'Ashford Hospitality Trust, Inc.'
+p3603
+sS'WLL'
+p3604
+S'Whiting Petroleum Corp.'
+p3605
+sS'ROIAK'
+p3606
+S'Radio One Inc.'
+p3607
+sS'XYL'
+p3608
+S'Xylem Inc.'
+p3609
+sS'ZOLT'
+p3610
+S'Zoltek Companies Inc.'
+p3611
+sS'TSN'
+p3612
+S'Tyson Foods, Inc.'
+p3613
+sS'AFL'
+p3614
+S'AFLAC Inc.'
+p3615
+sS'EMCI'
+p3616
+S'EMC Insurance Group Inc.'
+p3617
+sS'TSH'
+p3618
+S'Teche Holding Company'
+p3619
+sS'DLB'
+p3620
+S'Dolby Laboratories, Inc.'
+p3621
+sS'WBMD'
+p3622
+S'WebMD Health Corp.'
+p3623
+sS'SBAC'
+p3624
+S'SBA Communications Corp.'
+p3625
+sS'PAYX'
+p3626
+S'Paychex, Inc.'
+p3627
+sS'LPTN'
+p3628
+S'Lpath Inc.'
+p3629
+sS'LTRX'
+p3630
+S'Lantronix, Inc.'
+p3631
+sS'APOG'
+p3632
+S'Apogee Enterprises, Inc.'
+p3633
+sS'AROW'
+p3634
+S'Arrow Financial Corporation'
+p3635
+sS'HUM'
+p3636
+S'Humana Inc.'
+p3637
+sS'APOL'
+p3638
+S'Apollo Education Group, Inc.'
+p3639
+sS'MORN'
+p3640
+S'Morningstar Inc.'
+p3641
+sS'SNPS'
+p3642
+S'Synopsys Inc.'
+p3643
+sS'NFG'
+p3644
+S'National Fuel Gas Company'
+p3645
+sS'KVHI'
+p3646
+S'KVH Industries Inc.'
+p3647
+sS'BCRX'
+p3648
+S'BioCryst Pharmaceuticals, Inc.'
+p3649
+sS'FFIV'
+p3650
+S'F5 Networks, Inc.'
+p3651
+sS'MSTR'
+p3652
+S'MicroStrategy Inc.'
+p3653
+sS'BLL'
+p3654
+S'Ball Corporation'
+p3655
+sS'HCA'
+p3656
+S'HCA Holdings, Inc.'
+p3657
+sS'FFIN'
+p3658
+S'First Financial Bankshares Inc.'
+p3659
+sS'BLK'
+p3660
+S'BlackRock, Inc.'
+p3661
+sS'FFIC'
+p3662
+S'Flushing Financial Corp.'
+p3663
+sS'HCI'
+p3664
+S'HCI Group, Inc.'
+p3665
+sS'NFX'
+p3666
+S'Newfield Exploration Co.'
+p3667
+sS'WAGE'
+p3668
+S'WageWorks, Inc.'
+p3669
+sS'SLCA'
+p3670
+S'U.S. Silica Holdings, Inc.'
+p3671
+sS'FFNW'
+p3672
+S'First Financial Northwest, Inc.'
+p3673
+sS'USMO'
+p3674
+S'USA Mobility, Inc.'
+p3675
+sS'LNBB'
+p3676
+S'LNB Bancorp Inc.'
+p3677
+sS'PRGS'
+p3678
+S'Progress Software Corporation'
+p3679
+sS'SNCR'
+p3680
+S'Synchronoss Technologies, Inc.'
+p3681
+sS'LZB'
+p3682
+S'La-Z-Boy Incorporated'
+p3683
+sS'PRGX'
+p3684
+S'PRGX Global, Inc.'
+p3685
+sS'REX'
+p3686
+S'REX American Resources Corporation'
+p3687
+sS'RES'
+p3688
+S'RPC Inc.'
+p3689
+sS'ABTL'
+p3690
+S'Autobytel Inc.'
+p3691
+sS'MDT'
+p3692
+S'Medtronic, Inc.'
+p3693
+sS'REN'
+p3694
+S'Resolute Energy Corporation'
+p3695
+sS'IDTI'
+p3696
+S'Integrated Device Technology, Inc.'
+p3697
+sS'RBCN'
+p3698
+S'Rubicon Technology, Inc.'
+p3699
+sS'RECN'
+p3700
+S'Resources Connection Inc.'
+p3701
+sS'REG'
+p3702
+S'Regency Centers Corporation'
+p3703
+sS'FCS'
+p3704
+S'Fairchild Semiconductor International Inc.'
+p3705
+sS'UBOH'
+p3706
+S'United Bancshares Inc.'
+p3707
+sS'FRNK'
+p3708
+S'Franklin Financial Corporation'
+p3709
+sS'ANDAU'
+p3710
+S'Andina Acquisition Corporation'
+p3711
+sS'ANDAW'
+p3712
+S'Andina Acquisition Corporation'
+p3713
+sS'PRSS'
+p3714
+S'CafePress Inc.'
+p3715
+sS'FCF'
+p3716
+S'First Commonwealth Financial Corp.'
+p3717
+sS'ROMA'
+p3718
+S'Roma Financial Corp.'
+p3719
+sS'FCH'
+p3720
+S'FelCor Lodging Trust Incorporated'
+p3721
+sS'FICO'
+p3722
+S'Fair Isaac Corporation'
+p3723
+sS'FCN'
+p3724
+S'FTI Consulting, Inc.'
+p3725
+sS'LTS'
+p3726
+S'Ladenburg Thalmann Financial Services Inc.'
+p3727
+sS'LQDT'
+p3728
+S'Liquidity Services, Inc.'
+p3729
+sS'MKL'
+p3730
+S'Markel Corp.'
+p3731
+sS'INSM'
+p3732
+S'Insmed Incorporated'
+p3733
+sS'LTC'
+p3734
+S'LTC Properties Inc.'
+p3735
+sS'SUPX'
+p3736
+S'Supertex Inc.'
+p3737
+sS'FMD'
+p3738
+S'The First Marblehead Corporation'
+p3739
+sS'GSIG'
+p3740
+S'GSI Group Inc.'
+p3741
+sS'FMC'
+p3742
+S'FMC Corp.'
+p3743
+sS'CLSN'
+p3744
+S'Celsion Corp.'
+p3745
+sS'ROIA'
+p3746
+S'Radio One Inc.'
+p3747
+sS'SR'
+p3748
+S'The Standard Register Company'
+p3749
+sS'ST'
+p3750
+S'Sensata Technologies Holding NV'
+p3751
+sS'UNFI'
+p3752
+S'United Natural Foods, Inc.'
+p3753
+sS'SO'
+p3754
+S'Southern Company'
+p3755
+sS'SN'
+p3756
+S'Sanchez Energy Corporation'
+p3757
+sS'SM'
+p3758
+S'SM Energy Company'
+p3759
+sS'MODN'
+p3760
+S'Model N, Inc.'
+p3761
+sS'BKYF'
+p3762
+S'Bank of Kentucky Financial Corp.'
+p3763
+sS'RPAI'
+p3764
+S'Retail Properties of America, Inc.'
+p3765
+sS'QNST'
+p3766
+S'QuinStreet, Inc.'
+p3767
+sS'OVLY'
+p3768
+S'Oak Valley Bancorp'
+p3769
+sS'SE'
+p3770
+S'Spectra Energy Corp.'
+p3771
+sS'SD'
+p3772
+S'SandRidge Energy, Inc.'
+p3773
+sS'STEC'
+p3774
+S'STEC, Inc.'
+p3775
+sS'SWKS'
+p3776
+S'Skyworks Solutions Inc.'
+p3777
+sS'BYFC'
+p3778
+S'Broadway Financial Corporation'
+p3779
+sS'OXBT'
+p3780
+S'Oxygen Biotherapeutics, Inc.'
+p3781
+sS'CAS'
+p3782
+S'A. M. Castle & Co.'
+p3783
+sS'CAR'
+p3784
+S'Avis Budget Group, Inc.'
+p3785
+sS'CAP'
+p3786
+S'CAI International Inc.'
+p3787
+sS'CAW'
+p3788
+S'CCA Industries Inc.'
+p3789
+sS'WRD'
+p3790
+S'Weingarten Realty Investors'
+p3791
+sS'STEL'
+p3792
+S'StellarOne Corporation'
+p3793
+sS'CAT'
+p3794
+S'Caterpillar Inc.'
+p3795
+sS'CAK'
+p3796
+S'CAMAC Energy Inc.'
+p3797
+sS'PRSC'
+p3798
+S'Providence Service Corp.'
+p3799
+sS'CAH'
+p3800
+S'Cardinal Health, Inc.'
+p3801
+sS'MGM'
+p3802
+S'MGM Resorts International'
+p3803
+sS'CAM'
+p3804
+S'Cameron International Corporation'
+p3805
+sS'RFMD'
+p3806
+S'RF Micro Devices Inc.'
+p3807
+sS'EEFT'
+p3808
+S'Euronet Worldwide Inc.'
+p3809
+sS'CAB'
+p3810
+S"Cabela's Incorporated"
+p3811
+sS'BNCN'
+p3812
+S'BNC Bancorp'
+p3813
+sS'CAG'
+p3814
+S'ConAgra Foods, Inc.'
+p3815
+sS'NASB'
+p3816
+S'NASB Financial, Inc.'
+p3817
+sS'CXPO'
+p3818
+S'Crimson Exploration Inc.'
+p3819
+sS'PGC'
+p3820
+S'Peapack-Gladstone Financial Corp.'
+p3821
+sS'INCY'
+p3822
+S'Incyte Corporation'
+p3823
+sS'ASIA'
+p3824
+S'AsiaInfo-Linkage, Inc.'
+p3825
+sS'PGI'
+p3826
+S'Premiere Global Services, Inc.'
+p3827
+sS'VAC'
+p3828
+S'Marriott Vacations Worldwide Corp.'
+p3829
+sS'TAYD'
+p3830
+S'Taylor Devices Inc.'
+p3831
+sS'FLEX'
+p3832
+S'Flextronics International Ltd.'
+p3833
+sS'AKRX'
+p3834
+S'Akorn, Inc.'
+p3835
+sS'ZION'
+p3836
+S'Zions Bancorporation'
+p3837
+sS'UNTY'
+p3838
+S'Unity Bancorp Inc.'
+p3839
+sS'DYSL'
+p3840
+S'Dynasil Corporation of America'
+p3841
+sS'MMSI'
+p3842
+S'Merit Medical Systems, Inc.'
+p3843
+sS'MGT'
+p3844
+S'MGT Capital Investments, Inc.'
+p3845
+sS'CWBC'
+p3846
+S'Community West Bancshares'
+p3847
+sS'CACG'
+p3848
+S'Chart Acquisition Corp.'
+p3849
+sS'SIMG'
+p3850
+S'Silicon Image, Inc.'
+p3851
+sS'UNTD'
+p3852
+S'United Online, Inc.'
+p3853
+sS'CACC'
+p3854
+S'Credit Acceptance Corp.'
+p3855
+sS'CACB'
+p3856
+S'Cascade Bancorp'
+p3857
+sS'CHYR'
+p3858
+S'ChyronHego Corp.'
+p3859
+sS'UNTK'
+p3860
+S'UniTek Global Services, Inc.'
+p3861
+sS'CACI'
+p3862
+S'CACI International Inc.'
+p3863
+sS'CACH'
+p3864
+S'Cache Inc.'
+p3865
+sS'WCN'
+p3866
+S'Waste Connections Inc.'
+p3867
+sS'ARSD'
+p3868
+S'Arabian American Development Company'
+p3869
+sS'VIFL'
+p3870
+S'Food Technology Service Inc.'
+p3871
+sS'TWMC'
+p3872
+S'Trans World Entertainment Corporation'
+p3873
+sS'RSH'
+p3874
+S'RadioShack Corp.'
+p3875
+sS'ALKS'
+p3876
+S'Alkermes plc'
+p3877
+sS'RSE'
+p3878
+S'Rouse Properties, Inc.'
+p3879
+sS'RSG'
+p3880
+S'Republic Services, Inc.'
+p3881
+sS'CREE'
+p3882
+S'Cree, Inc.'
+p3883
+sS'DRTX'
+p3884
+S'Durata Therapeutics, Inc.'
+p3885
+sS'BLKB'
+p3886
+S'Blackbaud Inc.'
+p3887
+sS'CDZI'
+p3888
+S'Cadiz Inc.'
+p3889
+sS'SCMR'
+p3890
+S'Sycamore Networks, Inc.'
+p3891
+sS'WSTG'
+p3892
+S'Wayside Technology Group, Inc.'
+p3893
+sS'COWN'
+p3894
+S'Cowen Group, Inc.'
+p3895
+sS'PPO'
+p3896
+S'Polypore International Inc.'
+p3897
+sS'WSTL'
+p3898
+S'Westell Technologies, Inc.'
+p3899
+sS'FSFG'
+p3900
+S'First Savings Financial Group, Inc.'
+p3901
+sS'HDNG'
+p3902
+S'Hardinge Inc.'
+p3903
+sS'MIG'
+p3904
+S'Meadowbrook Insurance Group Inc.'
+p3905
+sS'RCII'
+p3906
+S'Rent-A-Center, Inc.'
+p3907
+sS'CSFL'
+p3908
+S'CenterState Banks, Inc.'
+p3909
+sS'PKOH'
+p3910
+S'Park-Ohio Holdings Corp.'
+p3911
+sS'GPIC'
+p3912
+S'Gaming Partners International Corporation'
+p3913
+sS'GHM'
+p3914
+S'Graham Corporation'
+p3915
+sS'DKL'
+p3916
+S'Delek Logistics Partners, LP'
+p3917
+sS'FXEN'
+p3918
+S'FX Energy Inc.'
+p3919
+sS'LINC'
+p3920
+S'Lincoln Educational Services Corporation'
+p3921
+sS'BRLI'
+p3922
+S'Bio-Reference Laboratories Inc.'
+p3923
+sS'FULT'
+p3924
+S'Fulton Financial Corporation'
+p3925
+sS'MLAB'
+p3926
+S'Mesa Laboratories Inc.'
+p3927
+sS'TOFC'
+p3928
+S'Tower Financial Corporation'
+p3929
+sS'XRAY'
+p3930
+S'DENTSPLY International Inc.'
+p3931
+sS'AOL'
+p3932
+S'AOL Inc.'
+p3933
+sS'AOSL'
+p3934
+S'Alpha & Omega Semiconductor, Ltd.'
+p3935
+sS'AOI'
+p3936
+S'Alliance One International, Inc.'
+p3937
+sS'PBHC'
+p3938
+S'Pathfinder Bancorp, Inc.'
+p3939
+sS'CTBI'
+p3940
+S'Community Trust Bancorp Inc.'
+p3941
+sS'AOS'
+p3942
+S'AO Smith Corp.'
+p3943
+sS'RENT'
+p3944
+S'Rentrak Corporation'
+p3945
+sS'NGVC'
+p3946
+S'Natural Grocers by Vitamin Cottage, Inc.'
+p3947
+sS'URG'
+p3948
+S'UR-Energy Inc.'
+p3949
+sS'AYI'
+p3950
+S'Acuity Brands, Inc.'
+p3951
+sS'URBN'
+p3952
+S'Urban Outfitters Inc.'
+p3953
+sS'AEPI'
+p3954
+S'AEP Industries Inc.'
+p3955
+sS'URI'
+p3956
+S'United Rentals, Inc.'
+p3957
+sS'MAYS'
+p3958
+S'JW Mays Inc.'
+p3959
+sS'URS'
+p3960
+S'URS Corporation'
+p3961
+sS'URZ'
+p3962
+S'Uranerz Energy Corp.'
+p3963
+sS'EGHT'
+p3964
+S'8x8 Inc.'
+p3965
+sS'IPG'
+p3966
+S'The Interpublic Group of Companies, Inc.'
+p3967
+sS'NLSN'
+p3968
+S'Nielsen Holdings N.V.'
+p3969
+sS'IPI'
+p3970
+S'Intrepid Potash, Inc.'
+p3971
+sS'ESGR'
+p3972
+S'Enstar Group Limited'
+p3973
+sS'LAD'
+p3974
+S'Lithia Motors Inc.'
+p3975
+sS'PRXL'
+p3976
+S'PAREXEL International Corporation'
+p3977
+sS'NLST'
+p3978
+S'Netlist Inc.'
+p3979
+sS'PRXI'
+p3980
+S'Premier Exhibitions Inc.'
+p3981
+sS'SFG'
+p3982
+S'StanCorp Financial Group Inc.'
+p3983
+sS'SAVE'
+p3984
+S'Spirit Airlines, Inc.'
+p3985
+sS'HTBK'
+p3986
+S'Heritage Commerce Corp.'
+p3987
+sS'ACTG'
+p3988
+S'Acacia Research Corporation'
+p3989
+sS'TECUB'
+p3990
+S'Tecumseh Products Company'
+p3991
+sS'BAMM'
+p3992
+S'Books-A-Million Inc.'
+p3993
+sS'TECUA'
+p3994
+S'Tecumseh Products Company'
+p3995
+sS'NGL'
+p3996
+S'NGL Energy Partners LP'
+p3997
+sS'ISNS'
+p3998
+S'Image Sensing Systems, Inc.'
+p3999
+sS'NGS'
+p4000
+S'Natural Gas Services Group Inc.'
+p4001
+sS'ISH'
+p4002
+S'International Shipholding Corp.'
+p4003
+sS'BMC'
+p4004
+S'BMC Software Inc.'
+p4005
+sS'ECYT'
+p4006
+S'Endocyte, Inc.'
+p4007
+sS'LAYN'
+p4008
+S'Layne Christensen Company'
+p4009
+sS'MGAM'
+p4010
+S'Multimedia Games Holding Company, Inc.'
+p4011
+sS'BMI'
+p4012
+S'Badger Meter Inc.'
+p4013
+sS'ADAT'
+p4014
+S'Authentidate Holding Corp.'
+p4015
+sS'BMS'
+p4016
+S'Bemis Company, Inc.'
+p4017
+sS'HMNF'
+p4018
+S'HMN Financial Inc.'
+p4019
+sS'DENN'
+p4020
+S"Denny's Corporation"
+p4021
+sS'LNCE'
+p4022
+S"Snyder's-Lance, Inc."
+p4023
+sS'IIIN'
+p4024
+S'Insteel Industries Inc.'
+p4025
+sS'BMY'
+p4026
+S'Bristol-Myers Squibb Company'
+p4027
+sS'LNCO'
+p4028
+S'Linn Co, LLC'
+p4029
+sS'DTLK'
+p4030
+S'Datalink Corporation'
+p4031
+sS'ED'
+p4032
+S'Consolidated Edison, Inc.'
+p4033
+sS'PMCS'
+p4034
+S'PMC-Sierra Inc.'
+p4035
+sS'EA'
+p4036
+S'Electronic Arts Inc.'
+p4037
+sS'TSBK'
+p4038
+S'Timberland Bancorp, Inc.'
+p4039
+sS'UTHR'
+p4040
+S'United Therapeutics Corporation'
+p4041
+sS'WAVX'
+p4042
+S'Wave Systems Corp.'
+p4043
+sS'ACFC'
+p4044
+S'Atlantic Coast Financial Corporation'
+p4045
+sS'ACFN'
+p4046
+S'Acorn Energy, Inc.'
+p4047
+sS'TDG'
+p4048
+S'TransDigm Group Incorporated'
+p4049
+sS'POST'
+p4050
+S'Post Holdings, Inc.'
+p4051
+sS'EV'
+p4052
+S'Eaton Vance Corp.'
+p4053
+sS'GORO'
+p4054
+S'Gold Resource Corp'
+p4055
+sS'AMIN'
+p4056
+S'American International Industries Inc.'
+p4057
+sS'WPZ'
+p4058
+S'Williams Partners L.P.'
+p4059
+sS'USTR'
+p4060
+S'United Stationers Inc.'
+p4061
+sS'AMID'
+p4062
+S'American Midstream Partners, LP'
+p4063
+sS'BBGI'
+p4064
+S'Beasley Broadcast Group Inc.'
+p4065
+sS'MGN'
+p4066
+S'Mines Management, Inc.'
+p4067
+sS'AMIC'
+p4068
+S'American Independence Corp.'
+p4069
+sS'DBLEP'
+p4070
+S'Double Eagle Petroleum Co.'
+p4071
+sS'TXRH'
+p4072
+S'Texas Roadhouse, Inc.'
+p4073
+sS'LNT'
+p4074
+S'Alliant Energy Corporation'
+p4075
+sS'SIVB'
+p4076
+S'SVB Financial Group'
+p4077
+sS'IRM'
+p4078
+S'Iron Mountain Inc.'
+p4079
+sS'CNBC'
+p4080
+S'Center Bancorp, Inc.'
+p4081
+sS'LUV'
+p4082
+S'Southwest Airlines Co.'
+p4083
+sS'ENZN'
+p4084
+S'Enzon Pharmaceuticals Inc.'
+p4085
+sS'STXS'
+p4086
+S'Stereotaxis Inc.'
+p4087
+sS'CLRX'
+p4088
+S'CollabRx, Inc.'
+p4089
+sS'FOLD'
+p4090
+S'Amicus Therapeutics, Inc.'
+p4091
+sS'LUB'
+p4092
+S"Luby's, Inc."
+p4093
+sS'OTEX'
+p4094
+S'Open Text Corporation'
+p4095
+sS'CYCCP'
+p4096
+S'Cyclacel Pharmaceuticals, Inc.'
+p4097
+sS'CLRO'
+p4098
+S'ClearOne, Inc.'
+p4099
+sS'ADSK'
+p4100
+S'Autodesk, Inc.'
+p4101
+sS'AFCB'
+p4102
+S'Athens Bancshares Corporation'
+p4103
+sS'WPX'
+p4104
+S'WPX Energy, Inc.'
+p4105
+sS'AFCE'
+p4106
+S'AFC Enterprises Inc.'
+p4107
+sS'APPY'
+p4108
+S'Venaxis, Inc.'
+p4109
+sS'ROSE'
+p4110
+S'Rosetta Resources, Inc.'
+p4111
+sS'GNBT'
+p4112
+S'Generex Biotechnology Corp.'
+p4113
+sS'WSTC'
+p4114
+S'West Corporation'
+p4115
+sS'MTG'
+p4116
+S'MGIC Investment Corp.'
+p4117
+sS'EFOI'
+p4118
+S'Energy Focus, Inc.'
+p4119
+sS'DLLR'
+p4120
+S'DFC Global Corp.'
+p4121
+sS'IRF'
+p4122
+S'International Rectifier Corporation'
+p4123
+sS'GEVO'
+p4124
+S'Gevo, Inc.'
+p4125
+sS'BRID'
+p4126
+S'Bridgford Foods Corp.'
+p4127
+sS'PCP'
+p4128
+S'Precision Castparts Corp.'
+p4129
+sS'AIMC'
+p4130
+S'Altra Industrial Motion Corp.'
+p4131
+sS'AVNW'
+p4132
+S'Aviat Networks, Inc.'
+p4133
+sS'SLXP'
+p4134
+S'Salix Pharmaceuticals Ltd.'
+p4135
+sS'AVNR'
+p4136
+S'Avanir Pharmaceuticals, Inc.'
+p4137
+sS'ULGX'
+p4138
+S'Urologix, Inc.'
+p4139
+sS'TSPT'
+p4140
+S'Transcept Pharmaceuticals, Inc.'
+p4141
+sS'GTI'
+p4142
+S'GrafTech International Ltd.'
+p4143
+sS'TFCO'
+p4144
+S'Tufco Technologies Inc.'
+p4145
+sS'GTN'
+p4146
+S'Gray Television Inc.'
+p4147
+sS'ATML'
+p4148
+S'Atmel Corporation'
+p4149
+sS'BFIN'
+p4150
+S'BankFinancial Corp.'
+p4151
+sS'GTS'
+p4152
+S'Triple-S Management Corporation'
+p4153
+sS'ATMI'
+p4154
+S'ATMI Inc.'
+p4155
+sS'BIOL'
+p4156
+S'BIOLASE, Inc.'
+p4157
+sS'ARW'
+p4158
+S'Arrow Electronics, Inc.'
+p4159
+sS'NOVB'
+p4160
+S'North Valley Bancorp'
+p4161
+sS'ARNA'
+p4162
+S'Arena Pharmaceuticals, Inc.'
+p4163
+sS'HNRG'
+p4164
+S'Hallador Energy Company'
+p4165
+sS'LNC'
+p4166
+S'Lincoln National Corporation'
+p4167
+sS'HVT'
+p4168
+S'Haverty Furniture Companies Inc.'
+p4169
+sS'CWCO'
+p4170
+S'Consolidated Water Co. Ltd.'
+p4171
+sS'WBS'
+p4172
+S'Webster Financial Corp.'
+p4173
+sS'TSLA'
+p4174
+S'Tesla Motors, Inc.'
+p4175
+sS'TLR'
+p4176
+S'Timberline Resources Corporation'
+p4177
+sS'CADX'
+p4178
+S'Cadence Pharmaceuticals Inc.'
+p4179
+sS'VLTR'
+p4180
+S'Volterra Semiconductor Corporation'
+p4181
+sS'DWSN'
+p4182
+S'Dawson Geophysical Company'
+p4183
+sS'CADC'
+p4184
+S'China Advanced Construction Materials Group, Inc.'
+p4185
+sS'ABIO'
+p4186
+S'ARCA biopharma, Inc.'
+p4187
+sS'ZINC'
+p4188
+S'Horsehead Holding Corp.'
+p4189
+sS'FWLT'
+p4190
+S'Foster Wheeler AG'
+p4191
+sS'NATR'
+p4192
+S"Nature's Sunshine Products Inc."
+p4193
+sS'TFSL'
+p4194
+S'TFS Financial Corp'
+p4195
+sS'RPT'
+p4196
+S'Ramco-Gershenson Properties Trust'
+p4197
+sS'PNBK'
+p4198
+S'Patriot National Bancorp Inc.'
+p4199
+sS'TEAR'
+p4200
+S'TearLab Corporation'
+p4201
+sS'GALTU'
+p4202
+S'Galectin Therapeutics Inc.'
+p4203
+sS'WWWW'
+p4204
+S'Web.com Group, Inc.'
+p4205
+sS'UVSP'
+p4206
+S'Univest Corporation of Pennsylvania'
+p4207
+sS'PNBC'
+p4208
+S'Princeton National Bancorp Inc.'
+p4209
+sS'ARRS'
+p4210
+S'ARRIS Group, Inc.'
+p4211
+sS'SREV'
+p4212
+S'ServiceSource International, Inc.'
+p4213
+sS'RPM'
+p4214
+S'RPM International Inc.'
+p4215
+sS'ARRY'
+p4216
+S'Array BioPharma, Inc.'
+p4217
+sS'AKAM'
+p4218
+S'Akamai Technologies, Inc.'
+p4219
+sS'BEAV'
+p4220
+S'B/E Aerospace Inc.'
+p4221
+sS'M'
+p4222
+S"Macy's, Inc."
+p4223
+sS'XOMA'
+p4224
+S'XOMA Corporation'
+p4225
+sS'HXL'
+p4226
+S'Hexcel Corp.'
+p4227
+sS'UACL'
+p4228
+S'Universal Truckload Services Inc.'
+p4229
+sS'ALXN'
+p4230
+S'Alexion Pharmaceuticals, Inc.'
+p4231
+sS'TNGN'
+p4232
+S'Tengion, Inc.'
+p4233
+sS'ALXA'
+p4234
+S'Alexza Pharmaceuticals Inc.'
+p4235
+sS'ICAD'
+p4236
+S'iCAD, Inc.'
+p4237
+sS'TESO'
+p4238
+S'Tesco Corporation'
+p4239
+sS'UBNK'
+p4240
+S'United Financial Bancorp, Inc.'
+p4241
+sS'LGL'
+p4242
+S'The LGL Group, Inc.'
+p4243
+sS'BGMD'
+p4244
+S'BG Medicine, Inc.'
+p4245
+sS'LGF'
+p4246
+S'Lions Gate Entertainment Corp.'
+p4247
+sS'PBCT'
+p4248
+S"People's United Financial Inc."
+p4249
+sS'AMSWA'
+p4250
+S'American Software, Inc.'
+p4251
+sS'COSI'
+p4252
+S'Cosi Inc.'
+p4253
+sS'NKTR'
+p4254
+S'Nektar Therapeutics'
+p4255
+sS'FIBK'
+p4256
+S'First Interstate Bancsystem Inc.'
+p4257
+sS'LGP'
+p4258
+S'Lehigh Gas Partners LP'
+p4259
+sS'IMMR'
+p4260
+S'Immersion Corporation'
+p4261
+sS'IMMU'
+p4262
+S'Immunomedics Inc.'
+p4263
+sS'ROLL'
+p4264
+S'RBC Bearings Inc.'
+p4265
+sS'TESS'
+p4266
+S'TESSCO Technologies Inc.'
+p4267
+sS'AXR'
+p4268
+S'AMREP Corporation'
+p4269
+sS'AXS'
+p4270
+S'AXIS Capital Holdings Limited'
+p4271
+sS'AXP'
+p4272
+S'American Express Company'
+p4273
+sS'NFLX'
+p4274
+S'Netflix, Inc.'
+p4275
+sS'CVCY'
+p4276
+S'Central Valley Community Bancorp'
+p4277
+sS'PCCC'
+p4278
+S'PC Connection, Inc.'
+p4279
+sS'CTWS'
+p4280
+S'Connecticut Water Service Inc.'
+p4281
+sS'FNLC'
+p4282
+S'The First Bancorp, Inc.'
+p4283
+sS'AGEN'
+p4284
+S'Agenus Inc.'
+p4285
+sS'AXE'
+p4286
+S'Anixter International Inc.'
+p4287
+sS'AXN'
+p4288
+S'Aoxing Pharmaceutical Company, Inc.'
+p4289
+sS'AXL'
+p4290
+S'American Axle & Manufacturing Holdings Inc.'
+p4291
+sS'CPSI'
+p4292
+S'Computer Programs & Systems Inc.'
+p4293
+sS'THLD'
+p4294
+S'Threshold Pharmaceuticals Inc.'
+p4295
+sS'IRWD'
+p4296
+S'Ironwood Pharmaceuticals, Inc.'
+p4297
+sS'ACUR'
+p4298
+S'Acura Pharmaceuticals, Inc.'
+p4299
+sS'TRIP'
+p4300
+S'TripAdvisor Inc.'
+p4301
+sS'SNA'
+p4302
+S'Snap-on Inc.'
+p4303
+sS'DVCR'
+p4304
+S'Diversicare Healthcare Services Inc.'
+p4305
+sS'ENSG'
+p4306
+S'The Ensign Group, Inc.'
+p4307
+sS'ITIC'
+p4308
+S'Investors Title Co.'
+p4309
+sS'HTCH'
+p4310
+S'Hutchinson Technology Inc.'
+p4311
+sS'PZG'
+p4312
+S'Paramount Gold and Silver Corp.'
+p4313
+sS'HTCO'
+p4314
+S'Hickory Tech Corp.'
+p4315
+sS'CLNE'
+p4316
+S'Clean Energy Fuels Corp.'
+p4317
+sS'IMCB'
+p4318
+S'Intermountain Community Bancorp'
+p4319
+sS'EXEL'
+p4320
+S'Exelixis, Inc.'
+p4321
+sS'FRAN'
+p4322
+S"Francesca's Holdings Corporation"
+p4323
+sS'FVE'
+p4324
+S'Five Star Quality Care Inc.'
+p4325
+sS'AWRE'
+p4326
+S'Aware, Inc.'
+p4327
+sS'CLNT'
+p4328
+S'Cleantech Solutions International, Inc.'
+p4329
+sS'BGCP'
+p4330
+S'BGC Partners, Inc.'
+p4331
+sS'LOAN'
+p4332
+S'Manhattan Bridge Capital, Inc.'
+p4333
+sS'NYNY'
+p4334
+S'Empire Resorts Inc.'
+p4335
+sS'HAWK'
+p4336
+S'Blackhawk Network Holdings, Inc.'
+p4337
+sS'VALV'
+p4338
+S'Shengkai Innovations, Inc.'
+p4339
+sS'CLNY'
+p4340
+S'Colony Financial, Inc.'
+p4341
+sS'TIVO'
+p4342
+S'TiVo Inc.'
+p4343
+sS'CAVM'
+p4344
+S'Cavium, Inc.'
+p4345
+sS'ZIXI'
+p4346
+S'Zix Corporation'
+p4347
+sS'VMI'
+p4348
+S'Valmont Industries, Inc.'
+p4349
+sS'PHX'
+p4350
+S'Panhandle Oil and Gas Inc.'
+p4351
+sS'BRCM'
+p4352
+S'Broadcom Corp.'
+p4353
+sS'NSFC'
+p4354
+S'Northern States Financial Corporation'
+p4355
+sS'PARS'
+p4356
+S'Pharmos Corp.'
+p4357
+sS'BRCD'
+p4358
+S'Brocade Communications Systems, Inc.'
+p4359
+sS'SKT'
+p4360
+S'Tanger Factory Outlet Centers Inc.'
+p4361
+sS'HVB'
+p4362
+S'Hudson Valley Holding Corp.'
+p4363
+sS'CRMT'
+p4364
+S"America's Car-Mart Inc."
+p4365
+sS'SHLO'
+p4366
+S'Shiloh Industries Inc.'
+p4367
+sS'PTGI'
+p4368
+S'PTGi Holding, Inc.'
+p4369
+sS'SKX'
+p4370
+S'Skechers USA Inc.'
+p4371
+sS'VMC'
+p4372
+S'Vulcan Materials Company'
+p4373
+sS'CRMB'
+p4374
+S'Crumbs Bake Shop, Inc.'
+p4375
+sS'CRMD'
+p4376
+S'CorMedix, Inc.'
+p4377
+sS'CTAS'
+p4378
+S'Cintas Corporation'
+p4379
+sS'TRST'
+p4380
+S'TrustCo Bank Corp. NY'
+p4381
+sS'ACGL'
+p4382
+S'Arch Capital Group Ltd.'
+p4383
+sS'GES'
+p4384
+S"Guess' Inc."
+p4385
+sS'MFA'
+p4386
+S'MFA Financial, Inc.'
+p4387
+sS'IXYS'
+p4388
+S'IXYS Corp.'
+p4389
+sS'MFI'
+p4390
+S'MicroFinancial Inc.'
+p4391
+sS'AMNB'
+p4392
+S'American National Bankshares Inc.'
+p4393
+sS'TCP'
+p4394
+S'TC PipeLines, LP'
+p4395
+sS'MRIN'
+p4396
+S'Marin Software Incorporated'
+p4397
+sS'GEF'
+p4398
+S'Greif, Inc.'
+p4399
+sS'TCI'
+p4400
+S'Transcontinental Realty Investors Inc.'
+p4401
+sS'HWKN'
+p4402
+S'Hawkins Inc.'
+p4403
+sS'GEO'
+p4404
+S'The GEO Group, Inc.'
+p4405
+sS'INPH'
+p4406
+S'Interphase Corp.'
+p4407
+sS'CCG'
+p4408
+S'Campus Crest Communities, Inc.'
+p4409
+sS'MHK'
+p4410
+S'Mohawk Industries Inc.'
+p4411
+sS'MHH'
+p4412
+S'Mastech Holdings, Inc.'
+p4413
+sS'IBKC'
+p4414
+S'IberiaBank Corp.'
+p4415
+sS'DDS'
+p4416
+S"Dillard's Inc."
+p4417
+sS'DDR'
+p4418
+S'DDR Corp.'
+p4419
+sS'CSGS'
+p4420
+S'CSG Systems International Inc.'
+p4421
+sS'LYV'
+p4422
+S'Live Nation Entertainment, Inc.'
+p4423
+sS'CSGP'
+p4424
+S'CoStar Group Inc.'
+p4425
+sS'XL'
+p4426
+S'XL Group plc'
+p4427
+sS'IBKR'
+p4428
+S'Interactive Brokers Group, Inc.'
+p4429
+sS'DDE'
+p4430
+S'Dover Downs Gaming & Entertainment Inc.'
+p4431
+sS'DDD'
+p4432
+S'3D Systems Corp.'
+p4433
+sS'ANF'
+p4434
+S'Abercrombie & Fitch Co.'
+p4435
+sS'SPCHA'
+p4436
+S'Sport Chalet Inc.'
+p4437
+sS'NVR'
+p4438
+S'NVR, Inc.'
+p4439
+sS'SPCHB'
+p4440
+S'Sport Chalet Inc.'
+p4441
+sS'ANN'
+p4442
+S'ANN INC.'
+p4443
+sS'ANH'
+p4444
+S'Anworth Mortgage Asset Corporation'
+p4445
+sS'MCHX'
+p4446
+S'Marchex, Inc.'
+p4447
+sS'ANV'
+p4448
+S'Allied Nevada Gold Corp.'
+p4449
+sS'MELI'
+p4450
+S'Mercadolibre, Inc.'
+p4451
+sS'ANR'
+p4452
+S'Alpha Natural Resources, Inc.'
+p4453
+sS'MCHP'
+p4454
+S'Microchip Technology Inc.'
+p4455
+sS'IGC'
+p4456
+S'India Globalization Capital, Inc.'
+p4457
+sS'MELA'
+p4458
+S'MELA Sciences, Inc.'
+p4459
+sS'MPWR'
+p4460
+S'Monolithic Power Systems Inc.'
+p4461
+sS'MOLX'
+p4462
+S'Molex Incorporated'
+p4463
+sS'HPOL'
+p4464
+S'Harris Interactive Inc.'
+p4465
+sS'REXI'
+p4466
+S'Resource America, Inc.'
+p4467
+sS'ATLO'
+p4468
+S'Ames National Corporation'
+p4469
+sS'PEBK'
+p4470
+S'Peoples Bancorp of North Carolina, Inc.'
+p4471
+sS'GWR'
+p4472
+S'Genesee & Wyoming Inc.'
+p4473
+sS'TMH'
+p4474
+S'Team Health Holdings, Inc.'
+p4475
+sS'ATLC'
+p4476
+S'Atlanticus Holdings Corporation'
+p4477
+sS'REXX'
+p4478
+S'Rex Energy Corporation'
+p4479
+sS'APAM'
+p4480
+S'Artisan Partners Asset Management Inc.'
+p4481
+sS'HWG'
+p4482
+S'The Hallwood Group Incorporated'
+p4483
+sS'MXWL'
+p4484
+S'Maxwell Technologies, Inc.'
+p4485
+sS'NJR'
+p4486
+S'New Jersey Resources Corp.'
+p4487
+sS'NSIT'
+p4488
+S'Insight Enterprises Inc.'
+p4489
+sS'HNSN'
+p4490
+S'Hansen Medical, Inc.'
+p4491
+sS'COOL'
+p4492
+S'Majesco Entertainment Co.'
+p4493
+sS'CBB'
+p4494
+S'Cincinnati Bell Inc.'
+p4495
+sS'ATRC'
+p4496
+S'AtriCure, Inc.'
+p4497
+sS'HES'
+p4498
+S'Hess Corporation'
+p4499
+sS'ATRI'
+p4500
+S'ATRION Corp.'
+p4501
+sS'LOCK'
+p4502
+S'LifeLock, Inc.'
+p4503
+sS'WAL'
+p4504
+S'Western Alliance Bancorporation'
+p4505
+sS'ATRM'
+p4506
+S'Aetrium Inc.'
+p4507
+sS'SMMF'
+p4508
+S'Summit Financial Group Inc.'
+p4509
+sS'ATRO'
+p4510
+S'Astronics Corporation'
+p4511
+sS'LOCM'
+p4512
+S'Local Corporation'
+p4513
+sS'ATRS'
+p4514
+S'Antares Pharma Inc.'
+p4515
+sS'KRO'
+p4516
+S'Kronos Worldwide, Inc.'
+p4517
+sS'HEB'
+p4518
+S'Hemispherx Biopharma, Inc.'
+p4519
+sS'BCPC'
+p4520
+S'Balchem Corp.'
+p4521
+sS'KRA'
+p4522
+S'Kraton Performance Polymers Inc.'
+p4523
+sS'HEI'
+p4524
+S'HEICO Corporation'
+p4525
+sS'MLNK'
+p4526
+S'ModusLink Global Solutions, Inc.'
+p4527
+sS'TISI'
+p4528
+S'Team, Inc.'
+p4529
+sS'TRAK'
+p4530
+S'Dealertrack Technologies, Inc.'
+p4531
+sS'MLNX'
+p4532
+S'Mellanox Technologies, Ltd.'
+p4533
+sS'GNTX'
+p4534
+S'Gentex Corp.'
+p4535
+sS'FFKT'
+p4536
+S'Farmers Capital Bank Corporation'
+p4537
+sS'MBFI'
+p4538
+S'MB Financial Inc.'
+p4539
+sS'FFKY'
+p4540
+S'First Financial Service Corp.'
+p4541
+sS'WVVI'
+p4542
+S'Willamette Valley Vineyards Inc.'
+p4543
+sS'HF'
+p4544
+S'HFF, Inc.'
+p4545
+sS'ARCW'
+p4546
+S'ARC Group Worldwide, Inc.'
+p4547
+sS'ARCP'
+p4548
+S'American Realty Capital Properties, Inc.'
+p4549
+sS'YONG'
+p4550
+S'Yongye International, Inc.'
+p4551
+sS'OFED'
+p4552
+S'Oconee Federal Financial Corp.'
+p4553
+sS'WSO'
+p4554
+S'Watsco Inc.'
+p4555
+sS'WWAV'
+p4556
+S'The WhiteWave Foods Company'
+p4557
+sS'RCL'
+p4558
+S'Royal Caribbean Cruises Ltd.'
+p4559
+sS'CNBKA'
+p4560
+S'Century Bancorp Inc.'
+p4561
+sS'EIG'
+p4562
+S'Employers Holdings, Inc.'
+p4563
+sS'WTFC'
+p4564
+S'Wintrust Financial Corporation'
+p4565
+sS'INS'
+p4566
+S'Intelligent Systems Corporation'
+p4567
+sS'ARCI'
+p4568
+S'Appliance Recycling Centers of America Inc.'
+p4569
+sS'LTXC'
+p4570
+S'LTX-Credence Corporation'
+p4571
+sS'LEDS'
+p4572
+S'SemiLEDs Corporation'
+p4573
+sS'SENEB'
+p4574
+S'Seneca Foods Corp.'
+p4575
+sS'UHT'
+p4576
+S'Universal Health Realty Income Trust'
+p4577
+sS'AWAY'
+p4578
+S'HomeAway, Inc.'
+p4579
+sS'MW'
+p4580
+S"The Men's Wearhouse, Inc."
+p4581
+sS'VSCI'
+p4582
+S'Vision-Sciences Inc.'
+p4583
+sS'ROCM'
+p4584
+S'Rochester Medical Corporation'
+p4585
+sS'RDEN'
+p4586
+S'Elizabeth Arden, Inc.'
+p4587
+sS'FAC'
+p4588
+S'First Acceptance Corp.'
+p4589
+sS'OWW'
+p4590
+S'Orbitz Worldwide, Inc.'
+p4591
+sS'FAF'
+p4592
+S'First American Financial Corporation'
+p4593
+sS'PDLI'
+p4594
+S'PDL BioPharma, Inc.'
+p4595
+sS'GOOG'
+p4596
+S'Google Inc.'
+p4597
+sS'GOOD'
+p4598
+S'Gladstone Commercial Corp.'
+p4599
+sS'LVS'
+p4600
+S'Las Vegas Sands Corp.'
+p4601
+sS'DEST'
+p4602
+S'Destination Maternity Corporation'
+p4603
+sS'VECO'
+p4604
+S'Veeco Instruments Inc.'
+p4605
+sS'YOD'
+p4606
+S'YOU On Demand Holdings, Inc.'
+p4607
+sS'ECTY'
+p4608
+S'ECOtality, Inc.'
+p4609
+sS'SFLY'
+p4610
+S'Shutterfly, Inc.'
+p4611
+sS'ECTE'
+p4612
+S'Echo Therapeutics, Inc.'
+p4613
+sS'RVLT'
+p4614
+S'Revolution Lighting Technologies, Inc.'
+p4615
+sS'ICPT'
+p4616
+S'Intercept Pharmaceuticals, Inc.'
+p4617
+sS'EXXI'
+p4618
+S'Energy XXI'
+p4619
+sS'MPAA'
+p4620
+S'Motorcar Parts of America Inc.'
+p4621
+sS'MIDD'
+p4622
+S'Middleby Corp.'
+p4623
+sS'MPAC'
+p4624
+S'MOD-PAC Corp.'
+p4625
+sS'GCOM'
+p4626
+S'Globecomm Systems Inc.'
+p4627
+sS'LLNW'
+p4628
+S'Limelight Networks, Inc.'
+p4629
+sS'LOGC'
+p4630
+S'LOGIC Devices Incorporated'
+p4631
+sS'NFSB'
+p4632
+S'Newport Bancorp Inc.'
+p4633
+sS'ANIK'
+p4634
+S'Anika Therapeutics Inc.'
+p4635
+sS'MGPI'
+p4636
+S'MGP Ingredients Inc.'
+p4637
+sS'FRBK'
+p4638
+S'Republic First Bancorp Inc.'
+p4639
+sS'WLDN'
+p4640
+S'Willdan Group, Inc.'
+p4641
+sS'OAK'
+p4642
+S'Oaktree Capital Group, LLC'
+p4643
+sS'SENEA'
+p4644
+S'Seneca Foods Corp.'
+p4645
+sS'BLIN'
+p4646
+S'Bridgeline Digital, Inc.'
+p4647
+sS'CLMS'
+p4648
+S'Calamos Asset Management Inc.'
+p4649
+sS'CCO'
+p4650
+S'Clear Channel Outdoor Holdings Inc.'
+p4651
+sS'CCI'
+p4652
+S'Crown Castle International Corp.'
+p4653
+sS'CCK'
+p4654
+S'Crown Holdings Inc.'
+p4655
+sS'CCE'
+p4656
+S'Coca-Cola Enterprises Inc.'
+p4657
+sS'FWV'
+p4658
+S'First West Virginia Bancorp Inc.'
+p4659
+sS'CCF'
+p4660
+S'Chase Corporation'
+p4661
+sS'CCC'
+p4662
+S'Calgon Carbon Corporation'
+p4663
+sS'PII'
+p4664
+S'Polaris Industries, Inc.'
+p4665
+sS'SVU'
+p4666
+S'SUPERVALU Inc.'
+p4667
+sS'WCG'
+p4668
+S'WellCare Health Plans, Inc.'
+p4669
+sS'CHMG'
+p4670
+S'Chemung Financial Corporation'
+p4671
+sS'TROVU'
+p4672
+S'TrovaGene, Inc.'
+p4673
+sS'INAP'
+p4674
+S'Internap Network Services Corp.'
+p4675
+sS'FLIR'
+p4676
+S'FLIR Systems, Inc.'
+p4677
+sS'EPAY'
+p4678
+S'Bottomline Technologies'
+p4679
+sS'DMRC'
+p4680
+S'Digimarc Corporation'
+p4681
+sS'CHMT'
+p4682
+S'Chemtura Corporation'
+p4683
+sS'MYE'
+p4684
+S'Myers Industries Inc.'
+p4685
+sS'FLIC'
+p4686
+S'The First of Long Island Corporation'
+p4687
+sS'SYKE'
+p4688
+S'Sykes Enterprises, Incorporated'
+p4689
+sS'DWRE'
+p4690
+S'Demandware, Inc.'
+p4691
+sS'MRCY'
+p4692
+S'Mercury Systems, Inc.'
+p4693
+sS'JJSF'
+p4694
+g90
+sS'WMK'
+p4695
+S'Weis Markets, Inc.'
+p4696
+sS'APAGF'
+p4697
+S'Apco Oil & Gas International Inc.'
+p4698
+sS'CCIX'
+p4699
+S'Coleman Cable, Inc.'
+p4700
+sS'TMO'
+p4701
+S'Thermo Fisher Scientific, Inc.'
+p4702
+sS'NXST'
+p4703
+S'Nexstar Broadcasting Group, Inc.'
+p4704
+sS'ALEX'
+p4705
+S'Alexander & Baldwin, Inc.'
+p4706
+sS'CDXS'
+p4707
+S'Codexis, Inc.'
+p4708
+sS'OC'
+p4709
+S'Owens Corning'
+p4710
+sS'OB'
+p4711
+S'OneBeacon Insurance Group, Ltd.'
+p4712
+sS'ARQL'
+p4713
+S'ArQule Inc.'
+p4714
+sS'NTRS'
+p4715
+S'Northern Trust Corporation'
+p4716
+sS'UBA'
+p4717
+S'Urstadt Biddle Properties Inc.'
+p4718
+sS'WAB'
+p4719
+S'Westinghouse Air Brake Technologies Corporation'
+p4720
+sS'STJ'
+p4721
+S'St. Jude Medical Inc.'
+p4722
+sS'URRE'
+p4723
+S'Uranium Resources, Inc.'
+p4724
+sS'MWW'
+p4725
+S'Monster Worldwide, Inc.'
+p4726
+sS'CMKG'
+p4727
+S'mktg, inc.'
+p4728
+sS'ZLC'
+p4729
+S'Zale Corporation'
+p4730
+sS'STBZ'
+p4731
+S'State Bank Financial Corporation'
+p4732
+sS'CHCO'
+p4733
+S'City Holding Co.'
+p4734
+sS'CHCI'
+p4735
+S'Comstock Holding Companies, Inc.'
+p4736
+sS'REGN'
+p4737
+S'Regeneron Pharmaceuticals, Inc.'
+p4738
+sS'DEI'
+p4739
+S'Douglas Emmett Inc'
+p4740
+sS'MWA'
+p4741
+S'Mueller Water Products, Inc.'
+p4742
+sS'DEL'
+p4743
+S'Deltic Timber Corporation'
+p4744
+sS'THTI'
+p4745
+S'THT Heat Transfer Technology, Inc.'
+p4746
+sS'HOME'
+p4747
+S'Home Federal Bancorp Inc.'
+p4748
+sS'DGLY'
+p4749
+S'Digital Ally Inc.'
+p4750
+sS'FXCM'
+p4751
+S'FXCM Inc.'
+p4752
+sS'VASO'
+p4753
+S'Vasomedical Inc.'
+p4754
+sS'SSFN'
+p4755
+S'Stewardship Financial Corp.'
+p4756
+sS'CVLT'
+p4757
+S'CommVault Systems, Inc.'
+p4758
+sS'GLT'
+p4759
+S'PH Glatfelter Co.'
+p4760
+sS'PCTI'
+p4761
+S'PCTEL, Inc.'
+p4762
+sS'AME'
+p4763
+S'Ametek Inc.'
+p4764
+sS'AMD'
+p4765
+S'Advanced Micro Devices, Inc.'
+p4766
+sS'CVLY'
+p4767
+S'Codorus Valley Bancorp Inc.'
+p4768
+sS'EPAM'
+p4769
+S'EPAM Systems, Inc.'
+p4770
+sS'NWE'
+p4771
+S'Northwestern Corporation'
+p4772
+sS'LOPE'
+p4773
+S'Grand Canyon Education, Inc.'
+p4774
+sS'PVTB'
+p4775
+S'PrivateBancorp, Inc.'
+p4776
+sS'HOMB'
+p4777
+S'Home Bancshares, Inc.'
+p4778
+sS'AMP'
+p4779
+S'Ameriprise Financial, Inc.'
+p4780
+sS'AMS'
+p4781
+S'American Shared Hospital Services'
+p4782
+sS'GLRE'
+p4783
+S'Greenlight Capital Re, Ltd.'
+p4784
+sS'LMAT'
+p4785
+S'LeMaitre Vascular, Inc.'
+p4786
+sS'LRCX'
+p4787
+S'Lam Research Corporation'
+p4788
+sS'UPL'
+p4789
+S'Ultra Petroleum Corp.'
+p4790
+sS'PCBS'
+p4791
+S'Provident Community Bancshares, Inc.'
+p4792
+sS'UPI'
+p4793
+S'Uroplasty, Inc.'
+p4794
+sS'CFFN'
+p4795
+S'Capitol Federal Financial, Inc.'
+p4796
+sS'CFFI'
+p4797
+g90
+sS'FNMA'
+p4798
+S'Federal National Mortgage Association'
+p4799
+sS'CVBK'
+p4800
+S'Central Virginia Bankshares Inc.'
+p4801
+sS'VITC'
+p4802
+S'Vitacost.com, Inc.'
+p4803
+sS'SNHY'
+p4804
+S'Sun Hydraulics Corp.'
+p4805
+sS'PVFC'
+p4806
+S'PVF Capital Corp.'
+p4807
+sS'UPS'
+p4808
+S'United Parcel Service, Inc.'
+p4809
+sS'PCBK'
+p4810
+S'Pacific Continental Corp.'
+p4811
+sS'CVBF'
+p4812
+S'CVB Financial Corp.'
+p4813
+sS'O'
+p4814
+S'Realty Income Corporation'
+p4815
+sS'AHGP'
+p4816
+S'Alliance Holdings GP, L.P.'
+p4817
+sS'IVC'
+p4818
+S'Invacare Corporation'
+p4819
+sS'WWW'
+p4820
+S'Wolverine World Wide Inc.'
+p4821
+sS'ANGO'
+p4822
+S'AngioDynamics Inc.'
+p4823
+sS'ANGI'
+p4824
+S"Angie's List, Inc."
+p4825
+sS'CYNO'
+p4826
+S'Cynosure, Inc.'
+p4827
+sS'SCTY'
+p4828
+S'SolarCity Corporation'
+p4829
+sS'IVR'
+p4830
+S'Invesco Mortgage Capital Inc.'
+p4831
+sS'CYNI'
+p4832
+S'Cyan, Inc.'
+p4833
+sS'HTLD'
+p4834
+S'Heartland Express, Inc.'
+p4835
+sS'HTLF'
+p4836
+S'Heartland Financial USA, Inc.'
+p4837
+sS'IVZ'
+p4838
+S'Invesco Ltd.'
+p4839
+sS'ACC'
+p4840
+S'American Campus Communities, Inc.'
+p4841
+sS'NEO'
+p4842
+S'Neogenomics Inc.'
+p4843
+sS'EDMC'
+p4844
+S'Education Management Corporation'
+p4845
+sS'ACE'
+p4846
+S'ACE Limited'
+p4847
+sS'RGEN'
+p4848
+S'Repligen Corporation'
+p4849
+sS'ACI'
+p4850
+S'Arch Coal Inc.'
+p4851
+sS'NEE'
+p4852
+S'NextEra Energy, Inc.'
+p4853
+sS'ACO'
+p4854
+S'AMCOL International Corporation'
+p4855
+sS'ACN'
+p4856
+S'Accenture plc'
+p4857
+sS'ACM'
+p4858
+S'AECOM Technology Corporation'
+p4859
+sS'ACW'
+p4860
+S'Accuride Corp.'
+p4861
+sS'ACU'
+p4862
+S'Acme United Corp.'
+p4863
+sS'ACY'
+p4864
+S'AeroCentury Corp.'
+p4865
+sS'NEU'
+p4866
+S'NewMarket Corporation'
+p4867
+sS'IGOI'
+p4868
+S'iGo, Inc.'
+p4869
+sS'JCTCF'
+p4870
+S'Jewett-Cameron Trading Company Ltd.'
+p4871
+sS'BKD'
+p4872
+S'Brookdale Senior Living Inc.'
+p4873
+sS'BKE'
+p4874
+S'The Buckle, Inc.'
+p4875
+sS'PBY'
+p4876
+g90
+sS'FDML'
+p4877
+S'Federal-Mogul Holdings Corporation'
+p4878
+sS'MGCD'
+p4879
+S'MGC Diagnostics Corporation'
+p4880
+sS'BKH'
+p4881
+S'Black Hills Corporation'
+p4882
+sS'NATI'
+p4883
+S'National Instruments Corporation'
+p4884
+sS'BKJ'
+p4885
+S'Bancorp Of New Jersey, Inc.'
+p4886
+sS'SOHU'
+p4887
+S'Sohu.com Inc.'
+p4888
+sS'BKU'
+p4889
+S'BankUnited, Inc.'
+p4890
+sS'BKW'
+p4891
+S'Burger King Worldwide, Inc.'
+p4892
+sS'LSCC'
+p4893
+S'Lattice Semiconductor Corporation'
+p4894
+sS'BKS'
+p4895
+S'Barnes & Noble, Inc.'
+p4896
+sS'QBAK'
+p4897
+S'Qualstar Corp.'
+p4898
+sS'FLS'
+p4899
+S'Flowserve Corp.'
+p4900
+sS'GSIT'
+p4901
+S'GSI Technology Inc.'
+p4902
+sS'GILD'
+p4903
+S'Gilead Sciences Inc.'
+p4904
+sS'DGAS'
+p4905
+S'Delta Natural Gas Company, Inc.'
+p4906
+sS'PKE'
+p4907
+S'Park Electrochemical Corp.'
+p4908
+sS'ESSA'
+p4909
+S'ESSA Bancorp, Inc.'
+p4910
+sS'ACHN'
+p4911
+S'Achillion Pharmaceuticals, Inc.'
+p4912
+sS'DHRM'
+p4913
+S'Dehaier Medical Systems Limited'
+p4914
+sS'CPHC'
+p4915
+S'Canterbury Park Holding Corporation'
+p4916
+sS'MEMS'
+p4917
+S'MEMSIC, Inc.'
+p4918
+sS'MSEX'
+p4919
+S'Middlesex Water Co.'
+p4920
+sS'QUAD'
+p4921
+S'Quad/Graphics, Inc.'
+p4922
+sS'OSIR'
+p4923
+S'Osiris Therapeutics, Inc.'
+p4924
+sS'ACHC'
+p4925
+S'Acadia Healthcare Company, Inc.'
+p4926
+sS'MBWM'
+p4927
+S'Mercantile Bank Corp.'
+p4928
+sS'REIS'
+p4929
+S'Reis, Inc.'
+p4930
+sS'EPIQ'
+p4931
+S'Epiq Systems, Inc.'
+p4932
+sS'MEI'
+p4933
+S'Methode Electronics, Inc.'
+p4934
+sS'EBAY'
+p4935
+S'eBay Inc.'
+p4936
+sS'MET'
+p4937
+S'MetLife, Inc.'
+p4938
+sS'BOOM'
+p4939
+S'Dynamic Materials Corp.'
+p4940
+sS'BYLK'
+p4941
+S'Baylake Corp.'
+p4942
+sS'AMOT'
+p4943
+S'Allied Motion Technologies Inc.'
+p4944
+sS'CBMXW'
+p4945
+S'CombiMatrix Corporation'
+p4946
+sS'PTEK'
+p4947
+S'PokerTek, Inc.'
+p4948
+sS'CPLA'
+p4949
+S'Capella Education Co.'
+p4950
+sS'TW'
+p4951
+S'Towers Watson & Co.'
+p4952
+sS'LTM'
+p4953
+S'Life Time Fitness Inc.'
+p4954
+sS'PDCO'
+p4955
+S'Patterson Companies, Inc.'
+p4956
+sS'SPNC'
+p4957
+S'The Spectranetics Corporation'
+p4958
+sS'PDCE'
+p4959
+S'PDC Energy, Inc.'
+p4960
+sS'VHC'
+p4961
+S'VirnetX Holding Corp'
+p4962
+sS'IMMY'
+p4963
+S'Imprimis Pharmaceuticals, Inc.'
+p4964
+sS'AFAM'
+p4965
+S'Almost Family Inc.'
+p4966
+sS'TXI'
+p4967
+S'Texas Industries Inc.'
+p4968
+sS'LINTA'
+p4969
+S'Liberty Interactive Corporation'
+p4970
+sS'TR'
+p4971
+S'Tootsie Roll Industries Inc.'
+p4972
+sS'QSII'
+p4973
+S'Quality Systems Inc.'
+p4974
+sS'TG'
+p4975
+S'Tredegar Corp.'
+p4976
+sS'DWCH'
+p4977
+S'Datawatch Corporation'
+p4978
+sS'TE'
+p4979
+S'TECO Energy, Inc.'
+p4980
+sS'ODFL'
+p4981
+S'Old Dominion Freight Line Inc.'
+p4982
+sS'TC'
+p4983
+S'Thompson Creek Metals Company Inc.'
+p4984
+sS'TA'
+p4985
+S'TravelCenters of America LLC'
+p4986
+sS'AA'
+p4987
+S'Alcoa Inc.'
+p4988
+sS'AB'
+p4989
+S'AllianceBernstein Holding L.P.'
+p4990
+sS'BDCO'
+p4991
+S'Blue Dolphin Energy Company'
+p4992
+sS'NE'
+p4993
+S'Noble Corp.'
+p4994
+sS'AF'
+p4995
+S'Astoria Financial Corporation'
+p4996
+sS'AI'
+p4997
+S'Arlington Asset Investment Corp.'
+p4998
+sS'ATOS'
+p4999
+S'Atossa Genetics, Inc.'
+p5000
+sS'GVA'
+p5001
+S'Granite Construction Incorporated'
+p5002
+sS'AN'
+p5003
+S'AutoNation Inc.'
+p5004
+sS'AP'
+p5005
+S'Ampco-Pittsburgh Corp.'
+p5006
+sS'HBHC'
+p5007
+S'Hancock Holding Company'
+p5008
+sS'ISRL'
+p5009
+S'Isramco Inc.'
+p5010
+sS'TSRA'
+p5011
+S'Tessera Technologies Inc.'
+p5012
+sS'AFSI'
+p5013
+S'AmTrust Financial Services, Inc.'
+p5014
+sS'ISRG'
+p5015
+S'Intuitive Surgical, Inc.'
+p5016
+sS'HHS'
+p5017
+S'Harte-Hanks Inc.'
+p5018
+sS'NKA'
+p5019
+S'Niska Gas Storage Partners LLC'
+p5020
+sS'UBNT'
+p5021
+S'Ubiquiti Networks, Inc.'
+p5022
+sS'NKE'
+p5023
+S'Nike, Inc.'
+p5024
+sS'UAHC'
+p5025
+S'United American Healthcare Corp.'
+p5026
+sS'ARLP'
+p5027
+S'Alliance Resource Partners LP'
+p5028
+sS'HHC'
+p5029
+S'The Howard Hughes Corporation'
+p5030
+sS'NHI'
+p5031
+S'National Health Investors Inc.'
+p5032
+sS'CHEV'
+p5033
+S'Cheviot Financial Corp.'
+p5034
+sS'CPN'
+p5035
+S'Calpine Corp.'
+p5036
+sS'GCBC'
+p5037
+S'Greene County Bancorp, Inc.'
+p5038
+sS'WLP'
+p5039
+S'WellPoint Inc.'
+p5040
+sS'RNWK'
+p5041
+S'RealNetworks Inc.'
+p5042
+sS'CPB'
+p5043
+S'Campbell Soup Company'
+p5044
+sS'TQNT'
+p5045
+S'TriQuint Semiconductor, Inc.'
+p5046
+sS'WLT'
+p5047
+S'Walter Energy, Inc.'
+p5048
+sS'CPE'
+p5049
+S'Callon Petroleum Company'
+p5050
+sS'CPF'
+p5051
+S'Central Pacific Financial Corp.'
+p5052
+sS'WLH'
+p5053
+S'William Lyon Homes'
+p5054
+sS'GNVC'
+p5055
+S'GenVec, Inc.'
+p5056
+sS'WLK'
+p5057
+S'Westlake Chemical Corp.'
+p5058
+sS'AFOP'
+p5059
+S'Alliance Fiber Optic Products Inc.'
+p5060
+sS'ZQK'
+p5061
+S'Quiksilver Inc.'
+p5062
+sS'ICUI'
+p5063
+S'ICU Medical, Inc.'
+p5064
+sS'CAFI'
+p5065
+S'Camco Financial Corp.'
+p5066
+sS'FALC'
+p5067
+S'Falconstor Software Inc.'
+p5068
+sS'UQM'
+p5069
+S'UQM Technologies Inc.'
+p5070
+sS'WLB'
+p5071
+S'Westmoreland Coal Co.'
+p5072
+sS'CPT'
+p5073
+S'Camden Property Trust'
+p5074
+sS'EFSC'
+p5075
+S'Enterprise Financial Services Corp.'
+p5076
+sS'HEES'
+p5077
+g90
+sS'WFBI'
+p5078
+S'WashingtonFirst Bankshares Inc.'
+p5079
+sS'NILE'
+p5080
+S'Blue Nile Inc.'
+p5081
+sS'UAM'
+p5082
+S'Universal American Corp'
+p5083
+sS'UAL'
+p5084
+S'United Continental Holdings, Inc.'
+p5085
+sS'UAN'
+p5086
+S'CVR Partners, LP'
+p5087
+sS'MANH'
+p5088
+S'Manhattan Associates, Inc.'
+p5089
+sS'NTSC'
+p5090
+S'National Technical Systems Inc.'
+p5091
+sS'VOYA'
+p5092
+S'Voya Financial, Inc.'
+p5093
+sS'GLPW'
+p5094
+S'Global Power Equipment Group Inc.'
+p5095
+sS'WRE'
+p5096
+S'Washington Real Estate Investment Trust'
+p5097
+sS'XOOM'
+p5098
+S'Xoom Corporation'
+p5099
+sS'HZO'
+p5100
+S'Marinemax Inc.'
+p5101
+sS'NOBH'
+p5102
+S'Nobility Homes Inc.'
+p5103
+sS'APRI'
+p5104
+S'Apricus Biosciences, Inc.'
+p5105
+sS'TAYC'
+p5106
+S'Taylor Capital Group Inc.'
+p5107
+sS'WRI'
+p5108
+S'Weingarten Realty Investors'
+p5109
+sS'SMA'
+p5110
+S'Symmetry Medical, Inc.'
+p5111
+sS'BECN'
+p5112
+S'Beacon Roofing Supply, Inc.'
+p5113
+sS'SRCL'
+p5114
+S'Stericycle, Inc.'
+p5115
+sS'DORM'
+p5116
+S'Dorman Products, Inc.'
+p5117
+sS'WHG'
+p5118
+S'Westwood Holdings Group Inc.'
+p5119
+sS'ICCC'
+p5120
+S'ImmuCell Corp.'
+p5121
+sS'CVCO'
+p5122
+S'Cavco Industries, Inc.'
+p5123
+sS'FOXA'
+p5124
+S'Twenty-First Century Fox, Inc.'
+p5125
+sS'NBBC'
+p5126
+S'NewBridge Bancorp'
+p5127
+sS'HFFC'
+p5128
+S'HF Financial Corp.'
+p5129
+sS'MAKO'
+p5130
+S'MAKO Surgical Corp.'
+p5131
+sS'FFG'
+p5132
+S'FBL Financial Group Inc.'
+p5133
+sS'PLPC'
+p5134
+S'Preformed Line Products Company'
+p5135
+sS'SEAS'
+p5136
+S'SeaWorld Entertainment, Inc.'
+p5137
+sS'WHLR'
+p5138
+S'Wheeler Real Estate Investment Trust, Inc.'
+p5139
+sS'CSWC'
+p5140
+S'Capital Southwest Corporation'
+p5141
+sS'WWE'
+p5142
+S'World Wrestling Entertainment Inc.'
+p5143
+sS'DTE'
+p5144
+S'DTE Energy Company'
+p5145
+sS'CODI'
+p5146
+S'Compass Diversified Holdings'
+p5147
+sS'WMGI'
+p5148
+S'Wright Medical Group Inc.'
+p5149
+sS'WRES'
+p5150
+S'Warren Resources Inc.'
+p5151
+sS'SEAC'
+p5152
+S'SeaChange International Inc.'
+p5153
+sS'DTV'
+p5154
+S'DIRECTV'
+p5155
+sS'PEIX'
+p5156
+S'Pacific Ethanol, Inc.'
+p5157
+sS'AAWW'
+p5158
+S'Atlas Air Worldwide Holdings Inc.'
+p5159
+sS'DCOM'
+p5160
+S'Dime Community Bancshares Inc.'
+p5161
+sS'DVAX'
+p5162
+S'Dynavax Technologies Corporation'
+p5163
+sS'USAP'
+p5164
+S'Universal Stainless & Alloy Products Inc.'
+p5165
+sS'MTOR'
+p5166
+S'Meritor, Inc.'
+p5167
+sS'VRML'
+p5168
+S'Vermillion, Inc.'
+p5169
+sS'NBTB'
+p5170
+S'NBT Bancorp, Inc.'
+p5171
+sS'FTR'
+p5172
+S'Frontier Communications Corporation'
+p5173
+sS'JNPR'
+p5174
+S'Juniper Networks, Inc.'
+p5175
+sS'NBTF'
+p5176
+g90
+sS'CFNL'
+p5177
+S'Cardinal Financial Corp.'
+p5178
+sS'STBA'
+p5179
+g90
+sS'ALV'
+p5180
+S'Autoliv, Inc.'
+p5181
+sS'THRM'
+p5182
+S'Gentherm Incorporated'
+p5183
+sS'FIVE'
+p5184
+S'Five Below, Inc.'
+p5185
+sS'IMAX'
+p5186
+S'IMAX Corporation'
+p5187
+sS'LHCG'
+p5188
+S'LHC Group, Inc.'
+p5189
+sS'FTI'
+p5190
+S'FMC Technologies, Inc.'
+p5191
+sS'FTK'
+p5192
+S'Flotek Industries Inc.'
+p5193
+sS'BKBK'
+p5194
+S'Britton & Koontz Capital Corp.'
+p5195
+sS'SBSA'
+p5196
+S'Spanish Broadcasting System Inc.'
+p5197
+sS'CBF'
+p5198
+S'Capital Bank Financial Corp.'
+p5199
+sS'CBG'
+p5200
+S'CBRE Group, Inc.'
+p5201
+sS'CHLN'
+p5202
+S'China Housing and Land Development, Inc.'
+p5203
+sS'CBK'
+p5204
+S'Christopher & Banks Corporation'
+p5205
+sS'CBI'
+p5206
+S'Chicago Bridge & Iron Company N.V.'
+p5207
+sS'CBL'
+p5208
+S'CBL & Associates Properties Inc.'
+p5209
+sS'CBM'
+p5210
+S'Cambrex Corporation.'
+p5211
+sS'CBR'
+p5212
+S'Ciber, Inc.'
+p5213
+sS'CBS'
+p5214
+S'CBS Corporation'
+p5215
+sS'MXL'
+p5216
+S'MaxLinear, Inc.'
+p5217
+sS'QUIK'
+p5218
+S'QuickLogic Corporation'
+p5219
+sS'CBT'
+p5220
+S'Cabot Corporation'
+p5221
+sS'CBU'
+p5222
+S'Community Bank System Inc.'
+p5223
+sS'CBZ'
+p5224
+S'CBIZ, Inc.'
+p5225
+sS'SON'
+p5226
+S'Sonoco Products Co.'
+p5227
+sS'VVTV'
+p5228
+S'ValueVision Media Inc.'
+p5229
+sS'FR'
+p5230
+S'First Industrial Realty Trust Inc.'
+p5231
+sS'CIZN'
+p5232
+S'Citizens Holding Company'
+p5233
+sS'FU'
+p5234
+S'FAB Universal Corporation'
+p5235
+sS'CROX'
+p5236
+S'Crocs, Inc.'
+p5237
+sS'ACIW'
+p5238
+S'ACI Worldwide, Inc.'
+p5239
+sS'CDNS'
+p5240
+S'Cadence Design Systems Inc.'
+p5241
+sS'HAIN'
+p5242
+S'The Hain Celestial Group, Inc.'
+p5243
+sS'MSFG'
+p5244
+S'Mainsource Financial Group'
+p5245
+sS'SMP'
+p5246
+S'Standard Motor Products Inc.'
+p5247
+sS'FB'
+p5248
+S'Facebook, Inc.'
+p5249
+sS'FC'
+p5250
+S'Franklin Covey Co.'
+p5251
+sS'BZC'
+p5252
+S'Breeze-Eastern Corporation'
+p5253
+sS'FE'
+p5254
+S'FirstEnergy Corp.'
+p5255
+sS'FF'
+p5256
+S'FutureFuel Corp.'
+p5257
+sS'SMG'
+p5258
+S'The Scotts Miracle-Gro Company'
+p5259
+sS'CYAN'
+p5260
+S'Cyanotech Corp.'
+p5261
+sS'FL'
+p5262
+S'Foot Locker, Inc.'
+p5263
+sS'FN'
+p5264
+S'Fabrinet'
+p5265
+sS'BZH'
+p5266
+S'Beazer Homes USA Inc.'
+p5267
+sS'TRLG'
+p5268
+S'True Religion Apparel, Inc.'
+p5269
+sS'TRR'
+p5270
+S'TRC Companies Inc.'
+p5271
+sS'MDC'
+p5272
+S'MDC Holdings Inc.'
+p5273
+sS'BONT'
+p5274
+S'Bon-Ton Stores Inc.'
+p5275
+sS'GGG'
+p5276
+S'Graco Inc.'
+p5277
+sS'NATH'
+p5278
+S"Nathan's Famous Inc."
+p5279
+sS'ASPS'
+p5280
+S'Altisource Portfolio Solutions S.A.'
+p5281
+sS'RPXC'
+p5282
+S'RPX Corporation'
+p5283
+sS'MDP'
+p5284
+S'Meredith Corporation'
+p5285
+sS'TJX'
+p5286
+S'The TJX Companies, Inc.'
+p5287
+sS'MDW'
+p5288
+S'Midway Gold Corp.'
+p5289
+sS'BONE'
+p5290
+S'Bacterin International Holdings, Inc.'
+p5291
+sS'MDU'
+p5292
+S'MDU Resources Group Inc.'
+p5293
+sS'ESBF'
+p5294
+S'ESB Financial Corp.'
+p5295
+sS'ZMH'
+p5296
+S'Zimmer Holdings, Inc.'
+p5297
+sS'THRX'
+p5298
+S'Theravance Inc.'
+p5299
+sS'DFZ'
+p5300
+S'R.G. Barry Corporation'
+p5301
+sS'DFT'
+p5302
+S'DuPont Fabros Technology, Inc.'
+p5303
+sS'REFR'
+p5304
+S'Research Frontiers Inc.'
+p5305
+sS'IBIO'
+p5306
+S'iBio, Inc.'
+p5307
+sS'DFS'
+p5308
+S'Discover Financial Services'
+p5309
+sS'JEC'
+p5310
+S'Jacobs Engineering Group Inc.'
+p5311
+sS'ILMN'
+p5312
+S'Illumina Inc.'
+p5313
+sS'CHBT'
+p5314
+S'China-Biotics, Inc.'
+p5315
+sS'OESX'
+p5316
+S'Orion Energy Systems, Inc'
+p5317
+sS'ALL'
+p5318
+S'The Allstate Corporation'
+p5319
+sS'ALJ'
+p5320
+S'Alon USA Energy, Inc.'
+p5321
+sS'ALK'
+p5322
+S'Alaska Air Group, Inc.'
+p5323
+sS'SUTR'
+p5324
+S'Sutor Technology Group Limited'
+p5325
+sS'RTIX'
+p5326
+S'RTI Surgical Inc.'
+p5327
+sS'ALG'
+p5328
+S'Alamo Group, Inc.'
+p5329
+sS'NTS'
+p5330
+S'NTS, Inc'
+p5331
+sS'ALE'
+p5332
+S'ALLETE, Inc.'
+p5333
+sS'ALB'
+p5334
+S'Albemarle Corporation'
+p5335
+sS'UEPS'
+p5336
+S'Net 1 Ueps Technologies Inc.'
+p5337
+sS'MARK'
+p5338
+S'Remark Media, Inc.'
+p5339
+sS'NTI'
+p5340
+S'Northern Tier Energy LP'
+p5341
+sS'ALX'
+p5342
+S"Alexander's Inc."
+p5343
+sS'NTN'
+p5344
+S'NTN Buzztime Inc.'
+p5345
+sS'ASCMA'
+p5346
+S'Ascent Capital Group, Inc.'
+p5347
+sS'ALR'
+p5348
+S'Alere Inc.'
+p5349
+sS'LYTS'
+p5350
+S'LSI Industries Inc.'
+p5351
+sS'ERA'
+p5352
+S'Era Group Inc.'
+p5353
+sS'USAK'
+p5354
+S'USA Truck Inc.'
+p5355
+sS'WEC'
+p5356
+S'Wisconsin Energy Corp.'
+p5357
+sS'ADBE'
+p5358
+S'Adobe Systems Inc.'
+p5359
+sS'DECK'
+p5360
+S'Deckers Outdoor Corp.'
+p5361
+sS'RRD'
+p5362
+S'R.R. Donnelley & Sons Company'
+p5363
+sS'TRLA'
+p5364
+S'Trulia, Inc.'
+p5365
+sS'HPAC'
+p5366
+S'Hyde Park Acquisition Corp. II'
+p5367
+sS'MDXG'
+p5368
+S'MiMedx Group, Inc.'
+p5369
+sS'MITL'
+p5370
+S'Mitel Networks Corporation'
+p5371
+sS'MITK'
+p5372
+S'Mitek Systems, Inc.'
+p5373
+sS'TOL'
+p5374
+S'Toll Brothers Inc.'
+p5375
+sS'RNDY'
+p5376
+S"Roundy's, Inc."
+p5377
+sS'R'
+p5378
+S'Ryder System, Inc.'
+p5379
+sS'HTH'
+p5380
+S'Hilltop Holdings Inc.'
+p5381
+sS'BELFB'
+p5382
+S'Bel Fuse Inc.'
+p5383
+sS'XPLR'
+p5384
+S'Xplore Technologies Corp.'
+p5385
+sS'HBIO'
+p5386
+S'Harvard Bioscience Inc.'
+p5387
+sS'BELFA'
+p5388
+S'Bel Fuse Inc.'
+p5389
+sS'BVSN'
+p5390
+S'BroadVision, Inc.'
+p5391
+sS'ISSC'
+p5392
+S'Innovative Solutions & Support Inc.'
+p5393
+sS'HIW'
+p5394
+S'Highwoods Properties Inc.'
+p5395
+sS'STRZB'
+p5396
+S'Starz'
+p5397
+sS'EPZM'
+p5398
+S'Epizyme, Inc.'
+p5399
+sS'STRZA'
+p5400
+S'Starz'
+p5401
+sS'ATNI'
+p5402
+S'Atlantic Tele-Network, Inc.'
+p5403
+sS'RRTS'
+p5404
+S'Roadrunner Transportation Systems, Inc.'
+p5405
+sS'KFY'
+p5406
+S'Korn/Ferry International'
+p5407
+sS'FITB'
+p5408
+S'Fifth Third Bancorp'
+p5409
+sS'HII'
+p5410
+S'Huntington Ingalls Industries, Inc.'
+p5411
+sS'WVFC'
+p5412
+S'WVS Financial Corp.'
+p5413
+sS'USAT'
+p5414
+S'USA Technologies Inc.'
+p5415
+sS'ATNY'
+p5416
+S'API Technologies Corp.'
+p5417
+sS'SXE'
+p5418
+S'Southcross Energy Partners, L.P.'
+p5419
+sS'NSYS'
+p5420
+S'Nortech Systems Inc.'
+p5421
+sS'SLGN'
+p5422
+S'Silgan Holdings Inc.'
+p5423
+sS'ABC'
+p5424
+S'AmerisourceBergen Corporation'
+p5425
+sS'FTNT'
+p5426
+S'Fortinet Inc.'
+p5427
+sS'ABG'
+p5428
+S'Asbury Automotive Group, Inc.'
+p5429
+sS'SIGM'
+p5430
+S'Sigma Designs, Inc.'
+p5431
+sS'PCYO'
+p5432
+S'Pure Cycle Corporation'
+p5433
+sS'HGR'
+p5434
+S'Hanger, Inc.'
+p5435
+sS'ABM'
+p5436
+S'ABM Industries Incorporated'
+p5437
+sS'Q'
+p5438
+S'Quintiles Transnational Holdings Inc.'
+p5439
+sS'ABR'
+p5440
+S'Arbor Realty Trust Inc.'
+p5441
+sS'BANF'
+p5442
+S'BancFirst Corporation'
+p5443
+sS'ABT'
+p5444
+S'Abbott Laboratories'
+p5445
+sS'BANC'
+p5446
+S'Banc of California, Inc.'
+p5447
+sS'CMLS'
+p5448
+S'Cumulus Media Inc.'
+p5449
+sS'HGG'
+p5450
+S'hhgregg, Inc.'
+p5451
+sS'XOM'
+p5452
+S'Exxon Mobil Corporation'
+p5453
+sS'UG'
+p5454
+S'United-Guardian Inc.'
+p5455
+sS'BHI'
+p5456
+S'Baker Hughes Incorporated'
+p5457
+sS'SSP'
+p5458
+S'The E. W. Scripps Company'
+p5459
+sS'NHC'
+p5460
+S'National Healthcare Corp.'
+p5461
+sS'BHB'
+p5462
+S'Bar Harbor Bankshares'
+p5463
+sS'BHE'
+p5464
+S'Benchmark Electronics Inc.'
+p5465
+sS'CRAY'
+p5466
+S'Cray Inc.'
+p5467
+sS'FFEX'
+p5468
+S'Frozen Food Express Industries Inc.'
+p5469
+sS'LSBI'
+p5470
+S'LSB Financial Corp.'
+p5471
+sS'LSBK'
+p5472
+S'Lake Shore Bancorp Inc.'
+p5473
+sS'PRCP'
+p5474
+S'Perceptron, Inc.'
+p5475
+sS'CRAI'
+p5476
+S'CRA International Inc.'
+p5477
+sS'IGTE'
+p5478
+S'iGATE Corporation'
+p5479
+sS'EGY'
+p5480
+S'Vaalco Energy Inc.'
+p5481
+sS'ISSI'
+p5482
+S'Integrated Silicon Solution Inc.'
+p5483
+sS'ARAY'
+p5484
+S'Accuray Incorporated'
+p5485
+sS'XONE'
+p5486
+S'The ExOne Company'
+p5487
+sS'RDNT'
+p5488
+S'RadNet, Inc.'
+p5489
+sS'EGN'
+p5490
+S'Energen Corp.'
+p5491
+sS'EGL'
+p5492
+S'Engility Holdings, Inc.'
+p5493
+sS'CLIR'
+p5494
+S'Clearsign Combustion Corp.'
+p5495
+sS'BEBE'
+p5496
+S'Bebe Stores, Inc.'
+p5497
+sS'RAD'
+p5498
+S'Rite Aid Corporation'
+p5499
+sS'CNYD'
+p5500
+S'China Yida Holding, Co.'
+p5501
+sS'EXTR'
+p5502
+S'Extreme Networks Inc.'
+p5503
+sS'LBY'
+p5504
+S'Libbey Inc.'
+p5505
+sS'TROV'
+p5506
+S'TrovaGene, Inc.'
+p5507
+sS'FGP'
+p5508
+S'Ferrellgas Partners LP'
+p5509
+sS'RAI'
+p5510
+S'Reynolds American Inc.'
+p5511
+sS'STSI'
+p5512
+S'Star Scientific, Inc.'
+p5513
+sS'RAS'
+p5514
+S'RAIT Financial Trust'
+p5515
+sS'NBCB'
+p5516
+S'First NBC Bank Holding Company'
+p5517
+sS'STSA'
+p5518
+S'Sterling Financial Corporation'
+p5519
+sS'RAX'
+p5520
+S'Rackspace Hosting, Inc.'
+p5521
+sS'MDCO'
+p5522
+S'The Medicines Company'
+p5523
+sS'BFB'
+p5524
+S'Brown-Forman Corporation'
+p5525
+sS'LPX'
+p5526
+S'Louisiana-Pacific Corp.'
+p5527
+sS'CNOB'
+p5528
+S'ConnectOne Bancorp, Inc.'
+p5529
+sS'HIG'
+p5530
+S'The Hartford Financial Services Group, Inc.'
+p5531
+sS'WST'
+p5532
+S'West Pharmaceutical Services, Inc.'
+p5533
+sS'GMAN'
+p5534
+S'Gordmans Stores, Inc.'
+p5535
+sS'PHH'
+p5536
+S'PHH Corporation'
+p5537
+sS'RMCF'
+p5538
+S'Rocky Mountain Chocolate Factory Inc.'
+p5539
+sS'WLBPZ'
+p5540
+S'Westmoreland Coal Co.'
+p5541
+sS'LPI'
+p5542
+S'Laredo Petroleum, Inc.'
+p5543
+sS'RVM'
+p5544
+S'Revett Mining Company, Inc.'
+p5545
+sS'FMER'
+p5546
+S'FirstMerit Corporation'
+p5547
+sS'TYL'
+p5548
+S'Tyler Technologies, Inc.'
+p5549
+sS'VIA'
+p5550
+S'Viacom, Inc.'
+p5551
+sS'HIL'
+p5552
+S'Hill International, Inc.'
+p5553
+sS'VII'
+p5554
+S'Vicon Industries Inc.'
+p5555
+sS'OSBC'
+p5556
+S'Old Second Bancorp Inc.'
+p5557
+sS'ROST'
+p5558
+S'Ross Stores Inc.'
+p5559
+sS'IFT'
+p5560
+S'Imperial Holdings, Inc.'
+p5561
+sS'FUR'
+p5562
+S'Winthrop Realty Trust'
+p5563
+sS'NYCB'
+p5564
+S'New York Community Bancorp Inc.'
+p5565
+sS'OCC'
+p5566
+S'Optical Cable Corp.'
+p5567
+sS'VLGEA'
+p5568
+S'Village Super Market Inc.'
+p5569
+sS'STAG'
+p5570
+S'STAG Industrial, Inc.'
+p5571
+sS'IFF'
+p5572
+S'International Flavors & Fragrances Inc.'
+p5573
+sS'OCZ'
+p5574
+S'OCZ Technology Group, Inc.'
+p5575
+sS'NVDA'
+p5576
+S'NVIDIA Corporation'
+p5577
+sS'ELRC'
+p5578
+S'Electro Rent Corporation'
+p5579
+sS'STAA'
+p5580
+S'STAAR Surgical Company'
+p5581
+sS'FUN'
+p5582
+S'Cedar Fair, L.P.'
+p5583
+sS'FUL'
+p5584
+S'HB Fuller Co.'
+p5585
+sS'OCR'
+p5586
+S'Omnicare Inc.'
+p5587
+sS'CHSP'
+p5588
+S'Chesapeake Lodging Trust'
+p5589
+sS'CEB'
+p5590
+S'Corporate Executive Board Co.'
+p5591
+sS'PKT'
+p5592
+S'Procera Networks, Inc.'
+p5593
+sS'BANR'
+p5594
+S'Banner Corporation'
+p5595
+sS'FLOW'
+p5596
+S'Flow International Corporation'
+p5597
+sS'PULB'
+p5598
+S'Pulaski Financial Corporation'
+p5599
+sS'STL'
+p5600
+S'Sterling Bancorp.'
+p5601
+sS'HILL'
+p5602
+S'Dot Hill Systems Corp.'
+p5603
+sS'PKD'
+p5604
+S'Parker Drilling Co.'
+p5605
+sS'CEP'
+p5606
+S'Constellation Energy Partners LLC'
+p5607
+sS'CWTR'
+p5608
+S'Coldwater Creek Inc.'
+p5609
+sS'NEN'
+p5610
+S'New England Realty Associates LP'
+p5611
+sS'SYMC'
+p5612
+S'Symantec Corporation'
+p5613
+sS'CSL'
+p5614
+S'Carlisle Companies Incorporated'
+p5615
+sS'CSH'
+p5616
+S'Cash America International, Inc.'
+p5617
+sS'NUE'
+p5618
+S'Nucor Corporation'
+p5619
+sS'CSC'
+p5620
+S'Computer Sciences Corporation'
+p5621
+sS'WOR'
+p5622
+S'Worthington Industries, Inc.'
+p5623
+sS'IRBT'
+p5624
+S'iRobot Corporation'
+p5625
+sS'LUNA'
+p5626
+S'Luna Innovations Incorporated'
+p5627
+sS'SUMR'
+p5628
+S'Summer Infant, Inc.'
+p5629
+sS'CSX'
+p5630
+S'CSX Corp.'
+p5631
+sS'CST'
+p5632
+S'CST Brands, Inc.'
+p5633
+sS'WGL'
+p5634
+S'WGL Holdings Inc.'
+p5635
+sS'CSV'
+p5636
+S'Carriage Services Inc.'
+p5637
+sS'CSS'
+p5638
+S'CSS Industries Inc.'
+p5639
+sS'VOXX'
+p5640
+S'VOXX International Corporation'
+p5641
+sS'WIFI'
+p5642
+S'Boingo Wireless, Inc.'
+p5643
+sS'XOXO'
+p5644
+S'XO Group Inc.'
+p5645
+sS'ALGT'
+p5646
+S'Allegiant Travel Company'
+p5647
+sS'ODP'
+p5648
+S'Office Depot, Inc.'
+p5649
+sS'ALGN'
+p5650
+S'Align Technology Inc.'
+p5651
+sS'CMLP'
+p5652
+S'Crestwood Midstream Partners LP'
+p5653
+sS'ARWR'
+p5654
+S'Arrowhead Research Corp.'
+p5655
+sS'ACXM'
+p5656
+S'Acxiom Corporation'
+p5657
+sS'JBT'
+p5658
+S'John Bean Technologies Corporation'
+p5659
+sS'XNPT'
+p5660
+S'Xenoport, Inc.'
+p5661
+sS'NURO'
+p5662
+S'NeuroMetrix Inc.'
+p5663
+sS'AMAG'
+p5664
+S'AMAG Pharmaceuticals, Inc.'
+p5665
+sS'HFBC'
+p5666
+S'HopFed Bancorp Inc.'
+p5667
+sS'NWBI'
+p5668
+S'Northwest Bancshares, Inc.'
+p5669
+sS'NWBO'
+p5670
+S'Northwest Biotherapeutics, Inc.'
+p5671
+sS'BKOR'
+p5672
+S'Oak Ridge Financial Services, Inc.'
+p5673
+sS'RGDX'
+p5674
+S'Response Genetics, Inc'
+p5675
+sS'JBL'
+p5676
+S'Jabil Circuit Inc.'
+p5677
+sS'VIDE'
+p5678
+S'Video Display Corporation'
+p5679
+sS'MASC'
+p5680
+S'Material Sciences Corporation'
+p5681
+sS'CMCO'
+p5682
+S'Columbus McKinnon Corporation'
+p5683
+sS'LRAD'
+p5684
+S'LRAD Corporation'
+p5685
+sS'CSBK'
+p5686
+S'Clifton Bancorp Inc.'
+p5687
+sS'GKNT'
+p5688
+S'Geeknet, Inc.'
+p5689
+sS'NUS'
+p5690
+S'Nu Skin Enterprises Inc.'
+p5691
+sS'MASI'
+p5692
+S'Masimo Corporation'
+p5693
+sS'LORL'
+p5694
+S'Loral Space & Communications, Inc.'
+p5695
+sS'SBSI'
+p5696
+S'Southside Bancshares Inc.'
+p5697
+sS'DGX'
+p5698
+S'Quest Diagnostics Inc.'
+p5699
+sS'ASH'
+p5700
+S'Ashland Inc.'
+p5701
+sS'UNP'
+p5702
+S'Union Pacific Corporation'
+p5703
+sS'DUK'
+p5704
+S'Duke Energy Corporation'
+p5705
+sS'SYNM'
+p5706
+S'Syntroleum Corp.'
+p5707
+sS'SCEI'
+p5708
+S'Sino Clean Energy Inc'
+p5709
+sS'QCRH'
+p5710
+S'QCR Holdings Inc.'
+p5711
+sS'EHTH'
+p5712
+S'eHealth, Inc.'
+p5713
+sS'TECD'
+p5714
+S'Tech Data Corp.'
+p5715
+sS'UNB'
+p5716
+S'Union Bankshares, Inc.'
+p5717
+sS'FSTR'
+p5718
+S'LB Foster Co.'
+p5719
+sS'CDTI'
+p5720
+S'Clean Diesel Technologies Inc.'
+p5721
+sS'UNF'
+p5722
+S'UniFirst Corp.'
+p5723
+sS'UNH'
+p5724
+S'UnitedHealth Group Incorporated'
+p5725
+sS'UNM'
+p5726
+S'Unum Group'
+p5727
+sS'AETI'
+p5728
+S'American Electric Technologies, Inc'
+p5729
+sS'ODC'
+p5730
+S'Oil-Dri Corp. of America'
+p5731
+sS'ITI'
+p5732
+S'Iteris, Inc.'
+p5733
+sS'ITG'
+p5734
+S'Investment Technology Group Inc.'
+p5735
+sS'VRNT'
+p5736
+S'Verint Systems Inc.'
+p5737
+sS'ANEN'
+p5738
+S'Anaren, Inc.'
+p5739
+sS'VIVO'
+p5740
+S'Meridian Bioscience, Inc.'
+p5741
+sS'MNGA'
+p5742
+S'Magnegas Corporation'
+p5743
+sS'VRNM'
+p5744
+S'Verenium Corporation'
+p5745
+sS'ENPH'
+p5746
+S'Enphase Energy, Inc.'
+p5747
+sS'NCQ'
+p5748
+S'NovaCopper Inc.'
+p5749
+sS'AEE'
+p5750
+S'Ameren Corporation'
+p5751
+sS'ITT'
+p5752
+S'ITT Corporation'
+p5753
+sS'OTTR'
+p5754
+S'Otter Tail Corporation'
+p5755
+sS'GPOR'
+p5756
+S'Gulfport Energy Corp.'
+p5757
+sS'ISBC'
+p5758
+S'Investors Bancorp Inc.'
+p5759
+sS'AAN'
+p5760
+S"Aaron's, Inc."
+p5761
+sS'LODE'
+p5762
+S'Comstock Mining, Inc.'
+p5763
+sS'PROV'
+p5764
+S'Provident Financial Holdings, Inc.'
+p5765
+sS'AAT'
+p5766
+S'American Assets Trust, Inc.'
+p5767
+sS'AAP'
+p5768
+S'Advance Auto Parts Inc.'
+p5769
+sS'HSTM'
+p5770
+S'Healthstream Inc.'
+p5771
+sS'PATH'
+p5772
+S'NuPathe, Inc.'
+p5773
+sS'PATK'
+p5774
+S'Patrick Industries Inc.'
+p5775
+sS'SANW'
+p5776
+g90
+sS'CYTK'
+p5777
+S'Cytokinetics, Incorporated'
+p5778
+sS'PTLA'
+p5779
+S'Portola Pharmaceuticals, Inc.'
+p5780
+sS'TCCO'
+p5781
+S'Technical Communications Corporation'
+p5782
+sS'BIG'
+p5783
+S'Big Lots Inc.'
+p5784
+sS'KWK'
+p5785
+S'Quicksilver Resources Inc.'
+p5786
+sS'AEL'
+p5787
+S'American Equity Investment Life Holding Co.'
+p5788
+sS'CYTX'
+p5789
+S'Cytori Therapeutics, Inc.'
+p5790
+sS'KWR'
+p5791
+S'Quaker Chemical Corporation'
+p5792
+sS'TTPH'
+p5793
+S'Tetraphase Pharmaceuticals, Inc.'
+p5794
+sS'AEO'
+p5795
+S'American Eagle Outfitters, Inc.'
+p5796
+sS'BHRT'
+p5797
+S'Bioheart, Inc.'
+p5798
+sS'CYTR'
+p5799
+S'CytRx Corporation'
+p5800
+sS'SANM'
+p5801
+S'Sanmina Corporation'
+p5802
+sS'SLMAP'
+p5803
+S'SLM Corporation'
+p5804
+sS'TFX'
+p5805
+S'Teleflex Incorporated'
+p5806
+sS'HOLX'
+p5807
+S'Hologic Inc.'
+p5808
+sS'MIND'
+p5809
+S'Mitcham Industries Inc.'
+p5810
+sS'CYBX'
+p5811
+S'Cyberonics Inc.'
+p5812
+sS'TIBX'
+p5813
+S'TIBCO Software Inc.'
+p5814
+sS'SLP'
+p5815
+S'Simulations Plus, Inc.'
+p5816
+sS'ZIOP'
+p5817
+S'ZIOPHARM Oncology, Inc.'
+p5818
+sS'SLM'
+p5819
+S'SLM Corporation'
+p5820
+sS'TBIO'
+p5821
+S'Transgenomic Inc.'
+p5822
+sS'HOLL'
+p5823
+S'Hollywood Media Corp.'
+p5824
+sS'SLH'
+p5825
+S'Solera Holdings Inc.'
+p5826
+sS'SLI'
+p5827
+S'SL Industries Inc.'
+p5828
+sS'CYBE'
+p5829
+S'CyberOptics Corp.'
+p5830
+sS'SLG'
+p5831
+S'SL Green Realty Corp.'
+p5832
+sS'POOL'
+p5833
+S'Pool Corp.'
+p5834
+sS'MCO'
+p5835
+S"Moody's Corporation"
+p5836
+sS'MCK'
+p5837
+S'McKesson Corporation'
+p5838
+sS'UCI'
+p5839
+S'UBS E-TRACS CMCI TR ETN'
+p5840
+sS'MCF'
+p5841
+S'Contango Oil & Gas Company'
+p5842
+sS'MCD'
+p5843
+S"McDonald's Corp."
+p5844
+sS'ELX'
+p5845
+S'Emulex Corporation'
+p5846
+sS'BDSI'
+p5847
+S'BioDelivery Sciences International, Inc.'
+p5848
+sS'GFN'
+p5849
+S'General Finance Corporation'
+p5850
+sS'MCZ'
+p5851
+S'Mad Catz Interactive Inc.'
+p5852
+sS'MCY'
+p5853
+S'Mercury General Corporation'
+p5854
+sS'GFF'
+p5855
+S'Griffon Corporation'
+p5856
+sS'CUB'
+p5857
+S'Cubic Corporation'
+p5858
+sS'UBFO'
+p5859
+S'United Security Bancshares'
+p5860
+sS'BGC'
+p5861
+S'General Cable Corp.'
+p5862
+sS'RDC'
+p5863
+S'Rowan Companies plc'
+p5864
+sS'BGG'
+p5865
+S'Briggs & Stratton Corporation'
+p5866
+sS'CRRC'
+p5867
+S'Courier Corporation'
+p5868
+sS'BGS'
+p5869
+g90
+sS'EXR'
+p5870
+S'Extra Space Storage Inc.'
+p5871
+sS'EXP'
+p5872
+S'Eagle Materials Inc.'
+p5873
+sS'IOSP'
+p5874
+S'Innospec Inc.'
+p5875
+sS'CRRS'
+p5876
+S'Corporate Resource Services, Inc.'
+p5877
+sS'VNDA'
+p5878
+S'Vanda Pharmaceuticals, Inc.'
+p5879
+sS'TCO'
+p5880
+S'Taubman Centers, Inc.'
+p5881
+sS'VNO'
+p5882
+S'Vornado Realty Trust'
+p5883
+sS'DEPO'
+p5884
+S'DepoMed Inc.'
+p5885
+sS'PWOD'
+p5886
+S'Penns Woods Bancorp Inc.'
+p5887
+sS'SPLP'
+p5888
+S'Steel Partners Holdings L.P'
+p5889
+sS'SPLS'
+p5890
+S'Staples, Inc.'
+p5891
+sS'PICO'
+p5892
+S'PICO Holdings Inc.'
+p5893
+sS'PBIP'
+p5894
+S'Prudential Bancorp, Inc.'
+p5895
+sS'HPTX'
+p5896
+S'Hyperion Therapeutics, Inc.'
+p5897
+sS'MYRG'
+p5898
+S'MYR Group, Inc.'
+p5899
+sS'DLPH'
+p5900
+S'Delphi Automotive PLC'
+p5901
+sS'FBHS'
+p5902
+S'Fortune Brands Home & Security, Inc.'
+p5903
+sS'SONA'
+p5904
+S'Southern National Bancorp of Virginia Inc.'
+p5905
+sS'CETV'
+p5906
+S'Central European Media Enterprises Ltd.'
+p5907
+sS'SONC'
+p5908
+S'Sonic Corp.'
+p5909
+sS'GPI'
+p5910
+S'Group 1 Automotive Inc.'
+p5911
+sS'THS'
+p5912
+S'Treehouse Foods, Inc.'
+p5913
+sS'THR'
+p5914
+S'Thermon Group Holdings, Inc.'
+p5915
+sS'GPC'
+p5916
+S'Genuine Parts Company'
+p5917
+sS'THO'
+p5918
+S'Thor Industries Inc.'
+p5919
+sS'PRLB'
+p5920
+S'Proto Labs, Inc.'
+p5921
+sS'SONS'
+p5922
+S'Sonus Networks, Inc.'
+p5923
+sS'GPX'
+p5924
+S'GP Strategies Corp.'
+p5925
+sS'PNY'
+p5926
+S'Piedmont Natural Gas Co. Inc.'
+p5927
+sS'THI'
+p5928
+S'Tim Hortons Inc.'
+p5929
+sS'THG'
+p5930
+S'The Hanover Insurance Group Inc.'
+p5931
+sS'MWIV'
+p5932
+S'MWI Veterinary Supply, Inc.'
+p5933
+sS'OSIS'
+p5934
+S'OSI Systems, Inc.'
+p5935
+sS'IESC'
+p5936
+S'Integrated Electrical Services, Inc.'
+p5937
+sS'DSKX'
+p5938
+S'DS Healthcare Group, Inc.'
+p5939
+sS'USBI'
+p5940
+S'United Security Bancshares Inc.'
+p5941
+sS'SLTC'
+p5942
+S'Selectica, Inc.'
+p5943
+sS'SLTM'
+p5944
+S'Solta Medical, Inc.'
+p5945
+sS'TCB'
+p5946
+S'TCF Financial Corporation'
+p5947
+sS'TAIT'
+p5948
+S'Taitron Components Inc.'
+p5949
+sS'SYNC'
+p5950
+S'Synacor, Inc.'
+p5951
+sS'EOPN'
+p5952
+S'E2open, Inc.'
+p5953
+sS'CRR'
+p5954
+S'CARBO Ceramics Inc.'
+p5955
+sS'CRS'
+p5956
+S'Carpenter Technology Corp.'
+p5957
+sS'OZM'
+p5958
+S'Och-Ziff Capital Management Group LLC'
+p5959
+sS'CRV'
+p5960
+S'Coast Distribution System Inc.'
+p5961
+sS'MHO'
+p5962
+S'M/I Homes, Inc.'
+p5963
+sS'CRY'
+p5964
+S'CryoLife Inc.'
+p5965
+sS'C'
+p5966
+S'Citigroup Inc.'
+p5967
+sS'FDO'
+p5968
+S'Family Dollar Stores Inc.'
+p5969
+sS'SYNA'
+p5970
+S'Synaptics Inc.'
+p5971
+sS'FDP'
+p5972
+S'Fresh Del Monte Produce Inc.'
+p5973
+sS'FDS'
+p5974
+S'FactSet Research Systems Inc.'
+p5975
+sS'SBCF'
+p5976
+S'Seacoast Banking Corp. of Florida'
+p5977
+sS'LWAY'
+p5978
+S'Lifeway Foods Inc.'
+p5979
+sS'CRK'
+p5980
+S'Comstock Resources Inc.'
+p5981
+sS'CRL'
+p5982
+S'Charles River Laboratories International, Inc.'
+p5983
+sS'PNFP'
+p5984
+S'Pinnacle Financial Partners Inc.'
+p5985
+sS'PQ'
+p5986
+S'PetroQuest Energy Inc.'
+p5987
+sS'PW'
+p5988
+S'Power REIT'
+p5989
+sS'FANG'
+p5990
+S'Diamondback Energy, Inc.'
+p5991
+sS'AEGR'
+p5992
+S'Aegerion Pharmaceuticals, Inc.'
+p5993
+sS'ABMD'
+p5994
+S'ABIOMED, Inc.'
+p5995
+sS'DRIV'
+p5996
+S'Digital River Inc.'
+p5997
+sS'ABMC'
+p5998
+S'American Bio Medica Corp.'
+p5999
+sS'PLUS'
+p6000
+S'ePlus inc.'
+p6001
+sS'PB'
+p6002
+S'Prosperity Bancshares Inc.'
+p6003
+sS'PF'
+p6004
+S'Pinnacle Foods Inc.'
+p6005
+sS'AEGN'
+p6006
+S'Aegion Corporation'
+p6007
+sS'SGEN'
+p6008
+S'Seattle Genetics Inc.'
+p6009
+sS'PL'
+p6010
+S'Protective Life Corporation'
+p6011
+sS'EFX'
+p6012
+S'Equifax Inc.'
+p6013
+sS'MKSI'
+p6014
+S'MKS Instruments, Inc.'
+p6015
+sS'QCOR'
+p6016
+S'Questcor Pharmaceuticals, Inc.'
+p6017
+sS'SIRO'
+p6018
+S'Sirona Dental Systems Inc.'
+p6019
+sS'QCOM'
+p6020
+S'QUALCOMM Incorporated'
+p6021
+sS'UNIS'
+p6022
+S'Unilife Corporation'
+p6023
+sS'HLSS'
+p6024
+S'Home Loan Servicing Solutions, Ltd.'
+p6025
+sS'EFC'
+p6026
+S'Ellington Financial LLC'
+p6027
+sS'SVBI'
+p6028
+S'Severn Bancorp Inc.'
+p6029
+sS'MSO'
+p6030
+S'Martha Stewart Living Omnimedia Inc.'
+p6031
+sS'RNO'
+p6032
+S'Rhino Resource Partners LP'
+p6033
+sS'RNN'
+p6034
+S'Rexahn Pharmaceuticals, Inc.'
+p6035
+sS'ALTI'
+p6036
+S'Altair Nanotechnologies, Inc.'
+p6037
+sS'STRS'
+p6038
+S'Stratus Properties Inc.'
+p6039
+sS'SPRT'
+p6040
+S'Support.com, Inc.'
+p6041
+sS'RNF'
+p6042
+S'Rentech Nitrogen Partners, L.P.'
+p6043
+sS'SPW'
+p6044
+S'SPX Corporation'
+p6045
+sS'IDSA'
+p6046
+S'Industrial Services of America, Inc.'
+p6047
+sS'FINL'
+p6048
+S'Finish Line Inc.'
+p6049
+sS'STRI'
+p6050
+S'STR Holdings, Inc.'
+p6051
+sS'STRN'
+p6052
+S'Sutron Corporation'
+p6053
+sS'STRM'
+p6054
+S'Streamline Health Solutions, Inc.'
+p6055
+sS'IDSY'
+p6056
+S'ID Systems Inc.'
+p6057
+sS'RNR'
+p6058
+S'RenaissanceRe Holdings Ltd.'
+p6059
+sS'STRA'
+p6060
+S'Strayer Education Inc.'
+p6061
+sS'NTCT'
+p6062
+S'NetScout Systems, Inc.'
+p6063
+sS'ALTR'
+p6064
+S'Altera Corp.'
+p6065
+sS'LCI'
+p6066
+S'Lannett Company, Inc.'
+p6067
+sS'ABCD'
+p6068
+S'Cambium Learning Group, Inc.'
+p6069
+sS'USG'
+p6070
+S'USG Corporation'
+p6071
+sS'DVN'
+p6072
+S'Devon Energy Corporation'
+p6073
+sS'CMRX'
+p6074
+S'Chimerix, Inc.'
+p6075
+sS'WDFC'
+p6076
+S'WD-40 Company'
+p6077
+sS'DVD'
+p6078
+S'Dover Motorsports Inc.'
+p6079
+sS'PSBH'
+p6080
+S'PSB Holdings Inc.'
+p6081
+sS'ABCO'
+p6082
+S'The Advisory Board Company'
+p6083
+sS'DVA'
+p6084
+S'DaVita HealthCare Partners Inc.'
+p6085
+sS'PEGA'
+p6086
+S'Pegasystems Inc.'
+p6087
+sS'SKH'
+p6088
+S'Skilled Healthcare Group, Inc.'
+p6089
+sS'CMRO'
+p6090
+S'Comarco, Inc.'
+p6091
+sS'FNHC'
+p6092
+S'Federated National Holding Company'
+p6093
+sS'COVR'
+p6094
+S'Cover-All Technologies Inc.'
+p6095
+sS'UPIP'
+p6096
+S'Unwired Planet, Inc.'
+p6097
+sS'TRGT'
+p6098
+S'Targacept, Inc.'
+p6099
+sS'SMIT'
+p6100
+S'Schmitt Industries, Inc.'
+p6101
+sS'DVR'
+p6102
+S'Cal Dive International Inc'
+p6103
+sS'SCSS'
+p6104
+S'Select Comfort Corporation'
+p6105
+sS'GDOT'
+p6106
+S'Green Dot Corporation'
+p6107
+sS'ANDE'
+p6108
+S'The Andersons, Inc.'
+p6109
+sS'AZO'
+p6110
+S'AutoZone, Inc.'
+p6111
+sS'ANDA'
+p6112
+S'Tecnoglass, Inc.'
+p6113
+sS'SCSC'
+p6114
+S'ScanSource, Inc.'
+p6115
+sS'EBTC'
+p6116
+S'Enterprise Bancorp Inc.'
+p6117
+sS'ELGX'
+p6118
+S'Endologix Inc.'
+p6119
+sS'JKHY'
+p6120
+S'Jack Henry & Associates Inc.'
+p6121
+sS'SNFCA'
+p6122
+S'Security National Financial Corp.'
+p6123
+sS'LIME'
+p6124
+S'Lime Energy Co.'
+p6125
+sS'HAYN'
+p6126
+S'Haynes International, Inc.'
+p6127
+sS'IEX'
+p6128
+S'IDEX Corporation'
+p6129
+sS'OCLR'
+p6130
+S'Oclaro, Inc.'
+p6131
+sS'EXAM'
+p6132
+S'ExamWorks Group, Inc.'
+p6133
+sS'IEP'
+p6134
+S'Icahn Enterprises, L.P.'
+p6135
+sS'IRET'
+p6136
+S'Investors Real Estate Trust'
+p6137
+sS'EXAC'
+p6138
+S'Exactech Inc.'
+p6139
+sS'FRED'
+p6140
+S"Fred's, Inc."
+p6141
+sS'NVEC'
+p6142
+S'NVE Corp.'
+p6143
+sS'RM'
+p6144
+S'Regional Management Corp.'
+p6145
+sS'BLDR'
+p6146
+S'Builders FirstSource, Inc.'
+p6147
+sS'EXAR'
+p6148
+S'Exar Corp.'
+p6149
+sS'EXAS'
+p6150
+S'Exact Sciences Corporation'
+p6151
+sS'HCKT'
+p6152
+S'The Hackett Group, Inc.'
+p6153
+sS'SMTC'
+p6154
+S'Semtech Corporation'
+p6155
+sS'CHRW'
+p6156
+S'CH Robinson Worldwide Inc.'
+p6157
+sS'CDE'
+p6158
+S'Coeur Mining, Inc.'
+p6159
+sS'VCLK'
+p6160
+S'Conversant, Inc.'
+p6161
+sS'PLT'
+p6162
+S'Plantronics, Inc.'
+p6163
+sS'CDI'
+p6164
+S'CDI Corp.'
+p6165
+sS'CCRN'
+p6166
+S'Cross Country Healthcare, Inc.'
+p6167
+sS'SBUX'
+p6168
+S'Starbucks Corporation'
+p6169
+sS'PSB'
+p6170
+S'PS Business Parks Inc.'
+p6171
+sS'MTSI'
+p6172
+S'M/A-Com Technology Solutions Holdings, Inc.'
+p6173
+sS'CMCSK'
+p6174
+S'Comcast Corporation'
+p6175
+sS'CDR'
+p6176
+S'Cedar Realty Trust, Inc.'
+p6177
+sS'SAPE'
+p6178
+S'Sapient Corp.'
+p6179
+sS'SPSC'
+p6180
+S'SPS Commerce, Inc.'
+p6181
+sS'UFPI'
+p6182
+S'Universal Forest Products Inc.'
+p6183
+sS'CMCSA'
+p6184
+S'Comcast Corporation'
+p6185
+sS'ASNA'
+p6186
+S'Ascena Retail Group Inc.'
+p6187
+sS'MNTA'
+p6188
+S'Momenta Pharmaceuticals Inc.'
+p6189
+sS'BXP'
+p6190
+S'Boston Properties Inc.'
+p6191
+sS'BXS'
+p6192
+S'BancorpSouth, Inc.'
+p6193
+sS'MNTG'
+p6194
+S'MTR Gaming Group, Inc.'
+p6195
+sS'MNTX'
+p6196
+S'Manitex International, Inc.'
+p6197
+sS'VTUS'
+p6198
+S'Ventrus Biosciences Inc.'
+p6199
+sS'TBNK'
+p6200
+S'Territorial Bancorp Inc.'
+p6201
+sS'ZHNE'
+p6202
+S'Zhone Technologies Inc.'
+p6203
+sS'NEWS'
+p6204
+S'NewStar Financial, Inc.'
+p6205
+sS'CBMX'
+p6206
+S'CombiMatrix Corporation'
+p6207
+sS'BXC'
+p6208
+S'Bluelinx Holdings Inc.'
+p6209
+sS'CYCC'
+p6210
+S'Cyclacel Pharmaceuticals, Inc.'
+p6211
+sS'PPC'
+p6212
+S"Pilgrim's Pride Corporation"
+p6213
+sS'CHGS'
+p6214
+S'China Gengsheng Minerals, Inc.'
+p6215
+sS'PPG'
+p6216
+S'PPG Industries Inc.'
+p6217
+sS'AMBT'
+p6218
+S'Ambient Corporation'
+p6219
+sS'NRIM'
+p6220
+S'Northrim Bancorp Inc.'
+p6221
+sS'GAS'
+p6222
+S'AGL Resources Inc.'
+p6223
+sS'CBIN'
+p6224
+S'Community Bank Shares of Indiana Inc.'
+p6225
+sS'PPL'
+p6226
+S'PPL Corporation'
+p6227
+sS'PPS'
+p6228
+S'Post Properties Inc.'
+p6229
+sS'SHEN'
+p6230
+S'Shenandoah Telecommunications Co.'
+p6231
+sS'MBTF'
+p6232
+S'MBT Financial Corp.'
+p6233
+sS'ASRV'
+p6234
+S'AmeriServ Financial, Inc.'
+p6235
+sS'DCI'
+p6236
+S'Donaldson Company, Inc.'
+p6237
+sS'QKLS'
+p6238
+S'QKL Stores Inc.'
+p6239
+sS'TZOO'
+p6240
+S'Travelzoo Inc.'
+p6241
+sS'AMBA'
+p6242
+S'Ambarella, Inc.'
+p6243
+sS'MTZ'
+p6244
+S'MasTec, Inc.'
+p6245
+sS'MTX'
+p6246
+S'Minerals Technologies Inc.'
+p6247
+sS'JCP'
+p6248
+S'J. C. Penney Company, Inc.'
+p6249
+sS'GRPN'
+p6250
+S'Groupon, Inc.'
+p6251
+sS'JCS'
+p6252
+S'Communications Systems Inc.'
+p6253
+sS'IBOC'
+p6254
+S'International Bancshares Corporation'
+p6255
+sS'MTW'
+p6256
+S'The Manitowoc Company, Inc.'
+p6257
+sS'VCBI'
+p6258
+S'Virginia Commerce Bancorp Inc.'
+p6259
+sS'NHTB'
+p6260
+S'New Hampshire Thrift Bancshares Inc.'
+p6261
+sS'MTH'
+p6262
+S'Meritage Homes Corporation'
+p6263
+sS'UEIC'
+p6264
+S'Universal Electronics Inc.'
+p6265
+sS'MTN'
+p6266
+S'Vail Resorts Inc.'
+p6267
+sS'BBRG'
+p6268
+S'Bravo Brio Restaurant Group, Inc.'
+p6269
+sS'TPH'
+p6270
+S'TRI Pointe Homes, Inc.'
+p6271
+sS'JCI'
+p6272
+S'Johnson Controls Inc.'
+p6273
+sS'MTD'
+p6274
+S'Mettler-Toledo International Inc.'
+p6275
+sS'AXLL'
+p6276
+S'Axiall Corporation'
+p6277
+sS'ARP'
+p6278
+S'Atlas Resource Partners, L.P.'
+p6279
+sS'ARR'
+p6280
+S'ARMOUR Residential REIT, Inc.'
+p6281
+sS'CSCD'
+p6282
+S'Cascade Microtech Inc.'
+p6283
+sS'ARX'
+p6284
+S'Aeroflex Holding Corp.'
+p6285
+sS'CSCO'
+p6286
+S'Cisco Systems, Inc.'
+p6287
+sS'PETM'
+p6288
+S'PetSmart, Inc.'
+p6289
+sS'SWFT'
+p6290
+S'Swift Transportation Company'
+p6291
+sS'ARE'
+p6292
+S'Alexandria Real Estate Equities, Inc.'
+p6293
+sS'ARG'
+p6294
+S'Airgas, Inc.'
+p6295
+sS'TNGO'
+p6296
+S'Tangoe, Inc.'
+p6297
+sS'ARI'
+p6298
+S'Apollo Commercial Real Estate Finance, Inc.'
+p6299
+sS'MOD'
+p6300
+S'Modine Manufacturing Company'
+p6301
+sS'ARL'
+p6302
+S'American Realty Investors Inc.'
+p6303
+sS'SGYP'
+p6304
+S'Synergy Pharmaceuticals, Inc.'
+p6305
+sS'ARO'
+p6306
+g368
+sS'CPSL'
+p6307
+S'China Precision Steel, Inc.'
+p6308
+sS'TMP'
+p6309
+S'Tompkins Financial Corporation'
+p6310
+sS'BG'
+p6311
+S'Bunge Limited'
+p6312
+sS'BA'
+p6313
+S'The Boeing Company'
+p6314
+sS'NCIT'
+p6315
+S'NCI, Inc.'
+p6316
+sS'BC'
+p6317
+S'Brunswick Corporation'
+p6318
+sS'BBNK'
+p6319
+S'Bridge Capital Holdings'
+p6320
+sS'BH'
+p6321
+S'Biglari Holdings Inc.'
+p6322
+sS'TIS'
+p6323
+S'Orchids Paper Products Company'
+p6324
+sS'BV'
+p6325
+S'Bazaarvoice, Inc.'
+p6326
+sS'GSE'
+p6327
+S'GSE Systems Inc.'
+p6328
+sS'BR'
+p6329
+S'Broadridge Financial Solutions, Inc.'
+p6330
+sS'TIK'
+p6331
+S'Tel-Instrument Electronics Corp.'
+p6332
+sS'CPST'
+p6333
+S'Capstone Turbine Corp.'
+p6334
+sS'TIF'
+p6335
+S'Tiffany & Co.'
+p6336
+sS'GSM'
+p6337
+S'Globe Specialty Metals, Inc.'
+p6338
+sS'RLOG'
+p6339
+S'Rand Logistics, Inc.'
+p6340
+sS'NNN'
+p6341
+S'National Retail Properties, Inc.'
+p6342
+sS'AVID'
+p6343
+S'Avid Technology, Inc.'
+p6344
+sS'NNI'
+p6345
+S'Nelnet, Inc.'
+p6346
+sS'OVAS'
+p6347
+S'OvaScience, Inc.'
+p6348
+sS'ATHN'
+p6349
+S'athenahealth, Inc.'
+p6350
+sS'XBKS'
+p6351
+S'Xenith Bankshares, Inc.'
+p6352
+sS'HSII'
+p6353
+S'Heidrick & Struggles International Inc.'
+p6354
+sS'APEI'
+p6355
+S'American Public Education, Inc.'
+p6356
+sS'ATHX'
+p6357
+S'Athersys, Inc.'
+p6358
+sS'HSIC'
+p6359
+S'Henry Schein, Inc.'
+p6360
+sS'NAVB'
+p6361
+S'Navidea Biopharmaceuticals, Inc'
+p6362
+sS'PETS'
+p6363
+S'PetMed Express, Inc.'
+p6364
+sS'NAVG'
+p6365
+S'Navigators Group Inc.'
+p6366
+sS'TLYS'
+p6367
+S"Tilly's, Inc."
+p6368
+sS'ORRF'
+p6369
+S'Orrstown Financial Services Inc.'
+p6370
+sS'YDKN'
+p6371
+S'Yadkin Financial Corporation'
+p6372
+sS'ISCA'
+p6373
+S'International Speedway Corp.'
+p6374
+sS'BOLT'
+p6375
+S'Bolt Technology Corp.'
+p6376
+sS'LOGM'
+p6377
+S'LogMeIn, Inc.'
+p6378
+sS'LOGI'
+p6379
+S'Logitech International SA'
+p6380
+sS'TWC'
+p6381
+S'Time Warner Cable Inc.'
+p6382
+sS'VRSN'
+p6383
+S'VeriSign, Inc.'
+p6384
+sS'VRSK'
+p6385
+S'Verisk Analytics, Inc.'
+p6386
+sS'CINF'
+p6387
+S'Cincinnati Financial Corp.'
+p6388
+sS'SCON'
+p6389
+S'Superconductor Technologies Inc.'
+p6390
+sS'BVX'
+p6391
+S'Bovie Medical Corporation'
+p6392
+sS'TREE'
+p6393
+S'Tree.Com, Inc.'
+p6394
+sS'PRAA'
+p6395
+S'Portfolio Recovery Associates Inc.'
+p6396
+sS'TREX'
+p6397
+S'Trex Co. Inc.'
+p6398
+sS'SQI'
+p6399
+S'SciQuest, Inc.'
+p6400
+sS'SCOR'
+p6401
+S'comScore, Inc.'
+p6402
+sS'GSBC'
+p6403
+S'Great Southern Bancorp Inc.'
+p6404
+sS'HRB'
+p6405
+g90
+sS'ITMN'
+p6406
+S'InterMune, Inc.'
+p6407
+sS'BSET'
+p6408
+S'Bassett Furniture Industries, Incorporated'
+p6409
+sS'OFIX'
+p6410
+S'Orthofix International N.V.'
+p6411
+sS'GLUU'
+p6412
+S'Glu Mobile, Inc.'
+p6413
+sS'EEI'
+p6414
+S'Ecology & Environment, Inc.'
+p6415
+sS'X'
+p6416
+S'United States Steel Corp.'
+p6417
+sS'TYC'
+p6418
+S'Tyco International Ltd.'
+p6419
+sS'LLY'
+p6420
+S'Eli Lilly and Company'
+p6421
+sS'ROK'
+p6422
+S'Rockwell Automation Inc.'
+p6423
+sS'ROL'
+p6424
+S'Rollins Inc.'
+p6425
+sS'RVBD'
+p6426
+S'Riverbed Technology, Inc.'
+p6427
+sS'ICFI'
+p6428
+S'ICF International Inc.'
+p6429
+sS'IDRA'
+p6430
+S'Idera Pharmaceuticals, Inc.'
+p6431
+sS'WEYS'
+p6432
+S'Weyco Group Inc.'
+p6433
+sS'ROC'
+p6434
+S'Rockwood Holdings, Inc.'
+p6435
+sS'VALU'
+p6436
+S'Value Line, Inc.'
+p6437
+sS'ROG'
+p6438
+S'Rogers Corporation'
+p6439
+sS'ROX'
+p6440
+S'Castle Brands Inc.'
+p6441
+sS'OSK'
+p6442
+S'Oshkosh Corporation'
+p6443
+sS'LLL'
+p6444
+S'L-3 Communications Holdings Inc.'
+p6445
+sS'ROP'
+p6446
+S'Roper Industries Inc.'
+p6447
+sS'RVSB'
+p6448
+S'Riverview Bancorp Inc.'
+p6449
+sS'BDE'
+p6450
+S'Black Diamond, Inc.'
+p6451
+sS'DHIL'
+p6452
+S'Diamond Hill Investment Group Inc.'
+p6453
+sS'BDL'
+p6454
+S"Flanigan's Enterprises Inc."
+p6455
+sS'BDN'
+p6456
+S'Brandywine Realty Trust'
+p6457
+sS'BERY'
+p6458
+S'Berry Plastics Group, Inc.'
+p6459
+sS'LABL'
+p6460
+S'Multi-Color Corp.'
+p6461
+sS'CPAH'
+p6462
+S'CounterPath Corporation'
+p6463
+sS'ICE'
+p6464
+S'IntercontinentalExchange Group, Inc.'
+p6465
+sS'DSTI'
+p6466
+S'DayStar Technologies Inc.'
+p6467
+sS'BDR'
+p6468
+S'Blonder Tongue Laboratories Inc.'
+p6469
+sS'TNC'
+p6470
+S'Tennant Company'
+p6471
+sS'CRUS'
+p6472
+S'Cirrus Logic Inc.'
+p6473
+sS'BDX'
+p6474
+S'Becton, Dickinson and Company'
+p6475
+sS'BERK'
+p6476
+S'Berkshire Bancorp Inc.'
+p6477
+sS'TSYS'
+p6478
+S'TeleCommunication Systems Inc.'
+p6479
+sS'LRN'
+p6480
+S'K12, Inc.'
+p6481
+sS'MDLZ'
+p6482
+S'Mondelez International, Inc.'
+p6483
+sS'FBIZ'
+p6484
+S'First Business Financial Services, Inc.'
+p6485
+sS'GMCR'
+p6486
+S'Keurig Green Mountain, Inc.'
+p6487
+sS'LRY'
+p6488
+S'Liberty Property Trust'
+p6489
+sS'CZFC'
+p6490
+S'Citizens First Corporation'
+p6491
+sS'QLYS'
+p6492
+S'Qualys, Inc.'
+p6493
+sS'UA'
+p6494
+S'Under Armour, Inc.'
+p6495
+sS'CNC'
+p6496
+S'Centene Corp.'
+p6497
+sS'FOSL'
+p6498
+S'Fossil Group, Inc.'
+p6499
+sS'FURX'
+p6500
+S'Furiex Pharmaceuticals, Inc.'
+p6501
+sS'IDT'
+p6502
+S'IDT Corporation'
+p6503
+sS'IDN'
+p6504
+S'Intellicheck Mobilisa, Inc.'
+p6505
+sS'STON'
+p6506
+S'Stonemor Partners LP'
+p6507
+sS'IRDM'
+p6508
+S'Iridium Communications Inc.'
+p6509
+sS'TBI'
+p6510
+S'TrueBlue, Inc.'
+p6511
+sS'BGFV'
+p6512
+S'Big 5 Sporting Goods Corp.'
+p6513
+sS'IDA'
+p6514
+S'IdaCorp, Inc.'
+p6515
+sS'CGI'
+p6516
+S'Celadon Group Inc.'
+p6517
+sS'BIOC'
+p6518
+S'Biocept, Inc.'
+p6519
+sS'BIOF'
+p6520
+S'BioFuel Energy Corp.'
+p6521
+sS'BIOD'
+p6522
+S'Biodel Inc.'
+p6523
+sS'CGA'
+p6524
+S'China Green Agriculture, Inc.'
+p6525
+sS'MOSY'
+p6526
+S'MoSys, Inc.'
+p6527
+sS'FAST'
+p6528
+S'Fastenal Company'
+p6529
+sS'RSYS'
+p6530
+S'RadiSys Corporation'
+p6531
+sS'PMC'
+p6532
+S'PharMerica Corporation'
+p6533
+sS'CAKE'
+p6534
+S'The Cheesecake Factory Incorporated'
+p6535
+sS'VSTM'
+p6536
+S'Verastem, Inc.'
+p6537
+sS'ZIGO'
+p6538
+S'Zygo Corporation'
+p6539
+sS'SKYW'
+p6540
+S'SkyWest Inc.'
+p6541
+sS'ORLY'
+p6542
+S"O'Reilly Automotive Inc."
+p6543
+sS'MINI'
+p6544
+S'Mobile Mini, Inc.'
+p6545
+sS'LLTC'
+p6546
+S'Linear Technology Corporation'
+p6547
+sS'SBBX'
+p6548
+S'Sussex Bancorp'
+p6549
+sS'LULU'
+p6550
+S'Lululemon Athletica Inc.'
+p6551
+sS'CUZ'
+p6552
+S'Cousins Properties Incorporated'
+p6553
+sS'DIET'
+p6554
+S'Ediets.com Inc.'
+p6555
+sS'FET'
+p6556
+S'Forum Energy Technologies, Inc.'
+p6557
+sS'FES'
+p6558
+S'Forbes Energy Services Ltd.'
+p6559
+sS'CUO'
+p6560
+S'Continental Materials Corp.'
+p6561
+sS'VTR'
+p6562
+S'Ventas, Inc.'
+p6563
+sS'GCAP'
+p6564
+S'GAIN Capital Holdings, Inc.'
+p6565
+sS'CUI'
+p6566
+S'CUI Global, Inc.'
+p6567
+sS'CXDC'
+p6568
+S'China XD Plastics Company Ltd.'
+p6569
+sS'MAMS'
+p6570
+S'MAM Software Group, Inc.'
+p6571
+sS'LLEN'
+p6572
+S'L & L Energy, Inc.'
+p6573
+sS'ARUN'
+p6574
+S'Aruba Networks, Inc.'
+p6575
+sS'NEWN'
+p6576
+S'New Energy Systems Group'
+p6577
+sS'CIM'
+p6578
+S'Chimera Investment Corporation'
+p6579
+sS'CATM'
+p6580
+S'Cardtronics Inc.'
+p6581
+sS'BBSI'
+p6582
+S'Barrett Business Services Inc.'
+p6583
+sS'CIR'
+p6584
+S'CIRCOR International, Inc.'
+p6585
+sS'MSM'
+p6586
+S'MSC Industrial Direct Co. Inc.'
+p6587
+sS'MSL'
+p6588
+S'Midsouth Bancorp Inc.'
+p6589
+sS'CIT'
+p6590
+S'CIT Group Inc.'
+p6591
+sS'MSG'
+p6592
+S'The Madison Square Garden Company'
+p6593
+sS'MTSC'
+p6594
+S'MTS Systems Corporation'
+p6595
+sS'NEWP'
+p6596
+S'Newport Corp.'
+p6597
+sS'CIX'
+p6598
+S'CompX International Inc.'
+p6599
+sS'NEWT'
+p6600
+S'Newtek Business Services Inc.'
+p6601
+sS'AQQ'
+p6602
+S'American Spectrum Realty Inc.'
+p6603
+sS'DAL'
+p6604
+S'Delta Air Lines Inc.'
+p6605
+sS'DAN'
+p6606
+S'Dana Holding Corporation'
+p6607
+sS'SRE'
+p6608
+S'Sempra Energy'
+p6609
+sS'PFS'
+p6610
+S'Provident Financial Services, Inc.'
+p6611
+sS'ORCL'
+p6612
+S'Oracle Corporation'
+p6613
+sS'BPOP'
+p6614
+S'Popular, Inc.'
+p6615
+sS'DAR'
+p6616
+S'Darling International Inc.'
+p6617
+sS'ERII'
+p6618
+S'Energy Recovery, Inc.'
+p6619
+sS'CFBK'
+p6620
+S'Central Federal Corp.'
+p6621
+sS'RNST'
+p6622
+S'Renasant Corp.'
+p6623
+sS'SNTS'
+p6624
+S'Santarus, Inc.'
+p6625
+sS'COKE'
+p6626
+S'Coca-Cola Bottling Co. Consolidated'
+p6627
+sS'THFF'
+p6628
+S'First Financial Corp.'
+p6629
+sS'FCCY'
+p6630
+S'1st Constitution Bancorp'
+p6631
+sS'CUBI'
+p6632
+S'Customers Bancorp, Inc.'
+p6633
+sS'MACE'
+p6634
+S'Mace Security International Inc.'
+p6635
+sS'DWA'
+p6636
+S'DreamWorks Animation SKG Inc.'
+p6637
+sS'SNTA'
+p6638
+S'Synta Pharmaceuticals Corp.'
+p6639
+sS'AMTG'
+p6640
+S'Apollo Residential Mortgage, Inc.'
+p6641
+sS'PLAB'
+p6642
+S'Photronics Inc.'
+p6643
+sS'LFVN'
+p6644
+S'Lifevantage Corporation'
+p6645
+sS'FCCO'
+p6646
+S'First Community Corporation'
+p6647
+sS'MACK'
+p6648
+S'Merrimack Pharmaceuticals, Inc.'
+p6649
+sS'ANCI'
+p6650
+S'American Caresource Holdings, Inc.'
+p6651
+sS'PNRG'
+p6652
+S'PrimeEnergy Corp.'
+p6653
+sS'EQIX'
+p6654
+S'Equinix, Inc.'
+p6655
+sS'PTRY'
+p6656
+S'The Pantry, Inc.'
+p6657
+sS'QDEL'
+p6658
+S'Quidel Corp.'
+p6659
+sS'ANCB'
+p6660
+S'Anchor Bancorp'
+p6661
+sS'ANCX'
+p6662
+S'Access National Corporation'
+p6663
+s.
