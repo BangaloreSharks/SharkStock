@@ -1,5 +1,3 @@
-import os
+import inputshark.manipulate.firstderiv as drv
 
-for root, dirs, files in os.walk("pickles/stock"):
-    for file in files:
-        print(str(file))
+drv.derive('MAR')
