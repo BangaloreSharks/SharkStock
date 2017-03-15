@@ -35,7 +35,6 @@ def derive(ticker):
     stock_data = pickle.load(open('pickles/stock/WIKI_'+ticker))
     date = get_dates(stock_data)
     date_list = datetolist(date)
-
     # finding average monthly cost
     data_derv0 = []
     for i in range(0,len(date_list)):
@@ -48,9 +47,11 @@ def derive(ticker):
         data_derv0.append(sum/count)
     print(len(date_list))
     print len(data_derv0)
-    plot_derv1 = []
+    plot_derv1 = {}
     i = 1
+    j = 0
     while i < len(data_derv0):
-        plot_derv1.append(data_derv0[i]-data_derv0[i-1])
+        plot_derv1[date_list[j]['year']+date_list[j]['month']] = data_derv0[i]-data_derv0[i-1]
         i += 1
+        j += 1
     pickle.dump(plot_derv1,open('pickles/firstderiv/WIKI_'+ticker,'wb'))
