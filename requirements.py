@@ -4,3 +4,4 @@ matplotlib
 feedparser
 nltk
 keras
+yahoo-finance
