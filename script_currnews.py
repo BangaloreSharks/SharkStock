@@ -1,4 +1,5 @@
 import inputshark.cur_news as cn
 
 
-cn.getallcompanystock(2)
+cn.getallcompanynews(3)
+cn.getallcompanystock(3)
