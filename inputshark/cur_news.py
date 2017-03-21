@@ -8,6 +8,7 @@ import os
 import secret
 import quandl
 import inputshark.getdata as gd
+import progressbar
 
 #remove \n, convert unicodes to ascii, ignore if conversion isn't possible,remove (..),remove <..>
 def cleanhtml(raw_html):
@@ -30,39 +31,57 @@ def current_news(value):
 		news_desc.append(cleanhtml(item['description']))
 	return news_desc
 
-def getallcompanynews():
+def getallcompanynews(day):
+    print 'downloading day -'+str(day)
     #get already donwloaded file
     news_list = []
     failed_list = []
-    for root, dirs, files in os.walk("pickles/currnews/news/1/"):
+    for root, dirs, files in os.walk("pickles/currnews/news/"+str(day)+"/"):
         for file in files:
             news_list.append(str(file))
     stock = pickle.load(open('pickles/stockcodes'))
+    print 'These are already downloaded.'
     print news_list
+
+    # bar graph
+    print 'downloading...'
+    bar = progressbar.ProgressBar(maxval=len(stock.keys()), \
+        widgets=[progressbar.Bar('=', '[', ']'), ' ', progressbar.Percentage()])
+    bar.start()
+    count = 0
     for key in stock.keys():
         if key not in news_list:
             newlist = []
             try:
-                print key
+                #print key
                 newlist = current_news(key)
             except:
-                print 'failed -'+key
+                #print 'failed -'+key
                 failed_list.append(key)
-            pickle.dump(newlist,open('pickles/currnews/news/1/'+key,'wb'))
+            bar.update(count)
+            count += 1
+            pickle.dump(newlist,open('pickles/currnews/news/'+str(day)+'/'+key,'wb'))
+    bar.finish()
     print failed_list
 
-def getallcompanystock():
+def getallcompanystock(day):
     news_list = []
-    for root, dirs, files in os.walk("pickles/currnews/news/1/"):
+    for root, dirs, files in os.walk("pickles/currnews/news/"+str(day)+"/"):
         for file in files:
             news_list.append(str(file))
     dic = {}
     # Download
+    print 'downloading...'
+    bar = progressbar.ProgressBar(maxval=len(news_list), \
+        widgets=[progressbar.Bar('=', '[', ']'), ' ', progressbar.Percentage()])
+    bar.start()
+
     count = 0
     total = len(news_list)
     for ticker in news_list:
         count += 1
-        print (ticker,' -',count,'/',total)
+        bar.update(count)
+        #print (ticker,' -',count,'/',total)
         try:
             t = gd.currentstock(ticker)
             x = t.get_change()
@@ -72,4 +91,5 @@ def getallcompanystock():
                 dic[ticker] = 1
         except:
             print (ticker,'failed')
-    pickle.dump(dic,open('pickles/currnews/stock/1/stock.pickle','wb'))
+    bar.finish()
+    pickle.dump(dic,open('pickles/currnews/stock/'+str(day)+'/stock.pickle','wb'))

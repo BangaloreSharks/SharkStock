@@ -5,3 +5,6 @@ feedparser
 nltk
 keras
 yahoo-finance
+progressbar
+scipy
+scikit-learn

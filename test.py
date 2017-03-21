@@ -1,71 +1,64 @@
-import pickle
 import os
-import inputshark.archivednews as an
-import time
-import urllib2
+import pickle
+import numpy as np
+import inputshark.vocab as vocab
+import progressbar
 
-def get_dates(stock_data):
-    date =  {}
-    nb_datapoints = len(stock_data)
-    date['s_year'] = str(stock_data.iloc[0].name.year)
-    date['s_month'] = str(stock_data.iloc[0].name.month)
-    date['l_year'] = str(stock_data.iloc[nb_datapoints-1].name.year)
-    date['l_month'] = str(stock_data.iloc[nb_datapoints-1].name.month)
-    if(date['l_year']>2013):
-        date['l_year'] = '2013'
-        date['l_month'] = '12'
-    return date
+#call it with the day
+def create_data(day):
+    stock = pickle.load(open('pickles/currnews/stock/'+str(day)+'/stock.pickle','rb'))
+    y_train = []
 
-def datetolist(date):
-    date_list = []
-    for year in range(int(date['s_year']),int(date['l_year'])+1):
-        if(year == int(date['s_year'])):
-            month = int(date['s_month'])
+    #get all company names
+    company_list = stock.keys()
+
+    # get all the headlines to one single list
+    sentence_list = []
+    for company in company_list:
+        x = pickle.load(open('pickles/currnews/news/'+str(day)+'/'+company,'rb'))
+        for  i in range(len(x)):
+            y_train.append(stock[company])
+        sentence_list = sentence_list + x
+
+    # process each sentence
+    print "cleaning the text corpus ..."
+    cleaned_sentence_list = []
+    bar = progressbar.ProgressBar(maxval=len(sentence_list), \
+        widgets=[progressbar.Bar('=', '[', ']'), ' ', progressbar.Percentage()])
+    bar.start()
+    count = 0
+    for i,sentence in enumerate(sentence_list):
+        x = vocab.process_sentence(sentence)
+        if x == None:
+            del(y_train[i])
         else:
-            month = 1
-        for m in range(month,13):
-            if(m<10):
-                m = '0'+str(m)
-            else:
-                m = str(m)
-            date_dic = {'year':str(year),
-                        'month':m}
-            date_list.append(date_dic)
-    return date_list
+            cleaned_sentence_list.append(x)
+        bar.update(count)
+        count += 1
+    bar.finish()
 
-# Stock data of companies available
-stock_list = []
-for root, dirs, files in os.walk("pickles/stock"):
-    for file in files:
-        stock_list.append(str(file.split('_')[1]))
+    pickle.dump(y_train,open('pickles/currnews/train_ytrain_0'+str(day)+'.pickle','wb'))
 
-# Load ticker -> company_name
-stock = pickle.load(open('pickles/stockcodes'))
+    # creating the bagofwords
+    #print "creating bag of words ..."
+    #vocab.addtovocab(cleaned_sentence_list)
 
 
-# News data of companies available
-news_list = []
-for root, dirs, files in os.walk("pickles/news"):
-    for file in files:
-        news_list.append(str(file.split('_')[1]))
+    #indexing the sentences
+    print "indexing the sentences"
+    indexed_sentence_list = []
+    bar = progressbar.ProgressBar(maxval=len(sentence_list), \
+        widgets=[progressbar.Bar('=', '[', ']'), ' ', progressbar.Percentage()])
+    bar.start()
+    count = 0
+    for sentence in cleaned_sentence_list:
+        indexed_sentence_list.append(vocab.index_sentence(sentence))
+        bar.update(count)
+        count += 1
+    bar.finish()
 
-for ticker in stock_list:
-    if(stock[ticker]!=''):
-        if(ticker not in news_list):
-            # Load stock data
-            stock_data = pickle.load(open('pickles/stock/WIKI_'+ticker,'rb'))
-            date = get_dates(stock_data)
-            date_list = datetolist(date)
-            dic = {}
-            for date in date_list:
-                print(date['year'],'-',date['month'])
-                while True:
-                    try:
-                        news_list = an.getArchived(stock[ticker],date['year'],date['month'])
-                    except urllib2.HTTPError:
-                        continue
-                    break
-                print(news_list)
-                dic[date['year']+date['month']] = news_list
-                time.sleep(10)
-            pickle.dump(dic,open('pickles/news/WIKI_'+ticker,'wb'))
+    #pickle the training data
+    pickle.dump(indexed_sentence_list,open('pickles/currnews/train_Xtrain_0'+str(day)+'.pickle','wb'))
+
+
+create_data(2)

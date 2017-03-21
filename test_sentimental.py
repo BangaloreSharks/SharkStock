@@ -1,11 +1,8 @@
-'''Train a recurrent convolutional network on the IMDB sentiment
+'''Train a recurrent convolutional network on the stock news sentiment
 classification task.
 
-Gets to 0.8498 test accuracy after 2 epochs. 41s/epoch on K520 GPU.
 '''
 import numpy as np
-np.random.seed(1337)  # for reproducibility
-
 from keras.preprocessing import sequence
 from keras.models import Sequential
 from keras.layers import Dense, Dropout, Activation
@@ -14,9 +11,8 @@ from keras.layers import LSTM
 from keras.layers import Convolution1D, MaxPooling1D
 import pickle
 
-
 # Embedding
-max_features = 50000
+max_features = 20001
 maxlen = 100
 embedding_size = 128
 
@@ -39,50 +35,27 @@ Only 2 epochs are needed as the dataset is very small.
 '''
 
 print('Loading data...')
-X_train = pickle.load(open('pickles/news_index/X_train/WIKI_GE'))
-y_train = pickle.load(open('pickles/news_index/y_train/WIKI_GE'))
-print(len(X_train))
-#-----------------------------------------------------
-t = pickle.load(open('pickles/news_index/X_train/WIKI_AGN'))
-y = pickle.load(open('pickles/news_index/y_train/WIKI_AGN'))
-X_train = X_train + t
-y_train = y_train + y
-print len(t),len(y)
-t = pickle.load(open('pickles/news_index/X_train/WIKI_BSRR'))
-y = pickle.load(open('pickles/news_index/y_train/WIKI_BSRR'))
-X_train = X_train + t
-y_train = y_train + y
-print len(t),len(y)
-t = pickle.load(open('pickles/news_index/X_train/WIKI_MAN'))
-y = pickle.load(open('pickles/news_index/y_train/WIKI_MAN'))
-X_train = X_train + t
-y_train = y_train + y
-print len(t),len(y)
-t = pickle.load(open('pickles/news_index/X_train/WIKI_MAR'))
-y = pickle.load(open('pickles/news_index/y_train/WIKI_MAR'))
-X_train = X_train + t
-y_train = y_train + y
-print len(t),len(y)
-t = pickle.load(open('pickles/news_index/X_train/WIKI_REMY'))
-y = pickle.load(open('pickles/news_index/y_train/WIKI_REMY'))
-X_train = X_train + t
-y_train = y_train + y
-print len(t),len(y)
-t = pickle.load(open('pickles/news_index/X_train/WIKI_XPO'))
-y = pickle.load(open('pickles/news_index/y_train/WIKI_XPO'))
-X_train = X_train + t
-y_train = y_train + y
-print len(t),len(y)
-
-#-----------------------------------------------------
-
-X_test = pickle.load(open('pickles/news_index/X_train/WIKI_NOC'))
-y_test = pickle.load(open('pickles/news_index/y_train/WIKI_NOC'))
 
 
-print(len(X_train), 'train sequences')
-print(len(X_test), 'test sequences')
-#
+XDATA = pickle.load(open('pickles/currnews/train_Xtrain_01.pickle','rb'))
+yDATA = pickle.load(open('pickles/currnews/train_ytrain_01.pickle','rb'))
+
+l_data = len(XDATA)
+print "Size of corpus: ",l_data
+
+train_size = 9*(l_data/10)
+
+print train_size
+
+X_train = XDATA[:train_size]
+X_test = XDATA[train_size:]
+
+y_train = yDATA[:train_size]
+y_test = yDATA[train_size:]
+
+print len(X_train),'training sequences'
+print len(X_test),'testing sequences'
+
 print('Pad sequences (samples x time)')
 X_train = sequence.pad_sequences(X_train, maxlen=maxlen)
 X_test = sequence.pad_sequences(X_test, maxlen=maxlen)
@@ -112,5 +85,5 @@ print('Train...')
 model.fit(X_train, y_train, batch_size=batch_size, nb_epoch=nb_epoch,
           validation_data=(X_test, y_test))
 score, acc = model.evaluate(X_test, y_test, batch_size=batch_size)
-print('Test score:', score)
+print('\nTest score:', score)
 print('Test accuracy:', acc)
