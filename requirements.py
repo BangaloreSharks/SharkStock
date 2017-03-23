@@ -1,5 +1,5 @@
 quandl
-tensorflow-gpu
+tensorflow
 matplotlib
 feedparser
 nltk
