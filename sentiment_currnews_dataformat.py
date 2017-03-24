@@ -20,6 +20,8 @@ def createTrainingdata(day):
             y_train.append(stock[company])
         sentence_list = sentence_list + x
 
+    print len(y_train)
+
     # process each sentence
     print "cleaning the text corpus ..."
     cleaned_sentence_list = []
