@@ -39,19 +39,31 @@ print('Loading data...')
 
 XDATA = pickle.load(open('pickles/currnews/train_Xtrain_01.pickle','rb'))
 yDATA = pickle.load(open('pickles/currnews/train_ytrain_01.pickle','rb'))
+XDATA = XDATA+pickle.load(open('pickles/currnews/train_Xtrain_02.pickle','rb'))
+yDATA = yDATA+pickle.load(open('pickles/currnews/train_ytrain_02.pickle','rb'))
+XDATA = XDATA+pickle.load(open('pickles/currnews/train_Xtrain_03.pickle','rb'))
+yDATA = yDATA+pickle.load(open('pickles/currnews/train_ytrain_03.pickle','rb'))
 
-l_data = len(XDATA)
-print "Size of corpus: ",l_data
+# uncomment this for spliting XDATA
+# l_data = len(XDATA)
+# print "Size of corpus: ",l_data
+#
+# train_size = 9*(l_data/10)
+#
+# print train_size
+#
+# X_train = XDATA[:train_size]
+# X_test = XDATA[train_size:]
+#
+# y_train = yDATA[:train_size]
+# y_test = yDATA[train_size:]
 
-train_size = 9*(l_data/10)
+X_train = XDATA
+X_test = pickle.load(open('pickles/currnews/train_Xtrain_04.pickle','rb'))
 
-print train_size
+y_train = yDATA
+y_test = pickle.load(open('pickles/currnews/train_ytrain_04.pickle','rb'))
 
-X_train = XDATA[:train_size]
-X_test = XDATA[train_size:]
-
-y_train = yDATA[:train_size]
-y_test = yDATA[train_size:]
 
 print len(X_train),'training sequences'
 print len(X_test),'testing sequences'

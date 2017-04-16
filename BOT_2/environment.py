@@ -1,5 +1,6 @@
 import numpy as np
 import pickle
+import matplotlib.pyplot as plt
 
 class Stock:
     'generic stock class'
@@ -9,6 +10,10 @@ class Stock:
     day = 0
     nb_days = 0
     data = []
+
+    #graph data value
+    graph_stk = []
+    graph_holding = []
 
     reward_buy_nocapital = -1
     reward_sell_nostock = -1
@@ -22,11 +27,13 @@ class Stock:
         self.nb_days = len(self.data)-1
         self.reward_buy_nocapital = -1
         self.reward_sell_nostock = -1
+        self.graph_stk = []
 
     def reset(self):
         self.stocks_holding = 0
         self.capital = self.starting_capital
         self.day = 0
+        self.graph_stk = []
         return self.observation()
 
     def step(self,action):
@@ -42,6 +49,8 @@ class Stock:
         self.day = self.day + 1
         done = False
         if(self.nb_days == self.day):
+            plt.plot(self.graph_holding)
+            plt.show()
             done = True
         info = None
         return obs,float(reward),done,info
@@ -92,4 +101,7 @@ class Stock:
         l.append(stock_today)
         l.append(diff)
         l.append(self.stocks_holding)
+        # graphing
+        self.graph_stk.append(stock_today)
+        self.graph_holding.append(self.stocks_holding)
         return l
