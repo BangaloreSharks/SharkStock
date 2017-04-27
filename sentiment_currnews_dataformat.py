@@ -61,4 +61,4 @@ def createTrainingdata(day):
     #pickle the training data
     pickle.dump(indexed_sentence_list,open('pickles/currnews/train_Xtrain_0'+str(day)+'.pickle','wb'))
 
-createTrainingdata(5)
+createTrainingdata(6)

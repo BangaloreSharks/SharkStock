@@ -14,30 +14,51 @@ class Stock:
     #graph data value
     graph_stk = []
     graph_holding = []
+    graph_liquidasset = []
+    static_buy_flag = False  # flag indicating if the record for only holding stocks has started
+    static_holding = 0
+    graph_staticasset = []
 
-    reward_buy_nocapital = -1
-    reward_sell_nostock = -1
+    reward_buy_nocapital = 0
+    reward_sell_nostock = 0
 
     def __init__(self):
         self.stocks_holding = 0
         self.starting_capital = 1000
         self.capital = self.starting_capital
-        self.data = pickle.load(open('pickles/stock/WIKI_GE','rb'))
+        self.data = pickle.load(open('pickles/shortstock/WIKI_GE','rb'))
         self.day = 0
         self.nb_days = len(self.data)-1
         self.reward_buy_nocapital = -1
         self.reward_sell_nostock = -1
         self.graph_stk = []
+        self.graph_holding = []
+        self.graph_liquidasset = []
+        self.static_buy_flag = False
+        self.graph_staticasset = []
+        self.static_holding = 0
 
     def reset(self):
         self.stocks_holding = 0
         self.capital = self.starting_capital
         self.day = 0
         self.graph_stk = []
+        self.graph_holding = []
+        self.graph_liquidasset = []
+        self.static_buy_flag = False
+        self.graph_staticasset = []
+        self.static_holding = 0
         return self.observation()
 
     def step(self,action):
         reward = 0
+        #static buy
+        if self.static_buy_flag == False:
+            i = self.day
+            stock_today = self.data.iloc[i]['Close']
+            nb_stocks_buyable = int(self.capital/stock_today)
+            self.static_holding = nb_stocks_buyable
+            self.static_buy_flag = True
         if action == 0: #buy
             reward = self.buy()
         elif action == 1:    #sell
@@ -49,8 +70,11 @@ class Stock:
         self.day = self.day + 1
         done = False
         if(self.nb_days == self.day):
-            plt.plot(self.graph_holding)
-            plt.show()
+            # plt.subplot(211)
+            # plt.plot(self.graph_holding)
+            # plt.subplot(212)
+            # plt.plot(self.graph_stk)
+            # plt.show()
             done = True
         info = None
         return obs,float(reward),done,info
@@ -104,4 +128,10 @@ class Stock:
         # graphing
         self.graph_stk.append(stock_today)
         self.graph_holding.append(self.stocks_holding)
+        liq =  (stock_today*self.stocks_holding)+self.capital
+        self.graph_liquidasset.append(liq)
+        self.graph_staticasset.append(self.static_holding*stock_today)
         return l
+
+    def graphing(self):
+        return self.graph_stk,self.graph_holding,self.graph_liquidasset,self.graph_staticasset

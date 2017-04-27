@@ -8,3 +8,6 @@ yahoo-finance
 progressbar
 scipy
 scikit-learn
+h5py
+keras-rl
+gym

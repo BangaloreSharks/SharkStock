@@ -54,6 +54,8 @@ W2Grad = tf.placeholder(tf.float32,name="batch_grad2")
 batchGrad = [W1Grad,W2Grad]
 updateGrads = adam.apply_gradients(zip(batchGrad,tvars))
 
+saver = tf.train.Saver()
+
 
 def discount_rewards(r):
     """ take 1D float array of rewards and compute discounted reward """
@@ -70,7 +72,7 @@ xs,hs,dlogps,drs,ys,tfps = [],[],[],[],[],[]
 running_reward = None
 reward_sum = 0
 episode_number = 1
-total_episodes = 10000
+total_episodes = 1000
 init = tf.initialize_all_variables()
 
 # Launch the graph
@@ -134,6 +136,22 @@ with tf.Session() as sess:
 
             # If we have completed enough episodes, then update the policy network with our gradients.
             if episode_number % batch_size == 0:
+                graph_stk,graph_holding,graph_liquidasset,graph_staticasset = env.graphing()
+
+                fig, axarr = plt.subplots(3, 1)
+                fig.suptitle("Episode-"+str(episode_number), fontsize=10)
+
+                axarr[0].plot(graph_holding)
+                axarr[0].set_title('Stocks held')
+                axarr[1].plot(graph_stk)
+                axarr[1].set_title('Stocks value')
+                axarr[2].plot(graph_liquidasset,color='red')
+                axarr[2].plot(graph_staticasset,color='blue')
+                axarr[2].set_title('Comparision of stagnant and RL-bot asset value')
+                fig.tight_layout()
+                fig.subplots_adjust(top=0.88)
+                plt.savefig("training/BOT_2/trial_5/episode"+str(episode_number)+".png")
+                plt.close()
                 sess.run(updateGrads,feed_dict={W1Grad: gradBuffer[0],W2Grad:gradBuffer[1]})
                 for ix,grad in enumerate(gradBuffer):
                     gradBuffer[ix] = grad * 0
@@ -142,12 +160,8 @@ with tf.Session() as sess:
                 running_reward = reward_sum if running_reward is None else running_reward * 0.99 + reward_sum * 0.01
                 print 'Average reward for episode %f.  Total average reward %f.' % (reward_sum/batch_size, running_reward/batch_size)
 
-                if reward_sum/batch_size > 200:
-                    print "Task solved in",episode_number,'episodes!'
-                    break
-
                 reward_sum = 0
 
             observation = env.reset()
-
+    saver.save(sess, 'my-model')
 print episode_number,'Episodes completed.'
